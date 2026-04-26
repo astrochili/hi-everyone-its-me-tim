@@ -1,0 +1,57 @@
++++
+title = "Data On My Games"
+date = "2024-02-15"
+id = "fyu2DJBWPOc"
+status = "transcript"
+tags = ["Game Industry", "South Park: The Stick of Truth", "Pillars Of Eternity"]
+summary = "Hi everyone. It's me, Tim. Today I want to look at data, specifically data for my own games."
+references = []
++++
+
+Hi everyone. It's me, Tim. Today I want to look at data, specifically data for my own games.
+
+I I hear all this discussion about my games — which ones are good, which ones are bad — but today I want to look at hard, factual, objective data, and by objective I mean I can get a number from it. Anybody who goes to look up that number will get the same number. True, you can argue about the numbers, but it's about as objective as you can get in modern game industry.
+
+Now, at first I wanted to look at all the games that I've worked on or even have credit on. But I have games that have my code or design in it, like pillars 2 or Starfleet Academy at interplay that I provided code, and in Pillars, too, some design, but I didn't really work on it. Um, I was off of it quickly or I literally just provided them with code in the case of several games at interplay, so I didn't include those. Um, there's also games that credited me, usually in thanks or original design, byy or whatever like, Fallout 3 or Fallout no, Vegas, and I'm like I'm not going to include those either. I didn't work on those, well, that left a subset of my games and I've decided to do the games and not expansions or anything like that. But I took away, I decided to remove the non RPGs because I really want to talk about. Most of my career has been done making role playing games. So let's look at my role playing games. So that means I take away the first three games that I worked on, which is Grand, SL Bridge, Bar tail construction set and rags to riches. But I'm also going to take out WildStar.
+
+Wild Star was such an outlier in many ways and it was hard to quantify some things because I don't know what their final budget was. And the team size got huge, but I don't know how big exactly. And it was never sold. It was a subscription model, so sales are different under that thing. So I got rid of that. That left these nine games, so in my career I've made nine role playing games and it's interesting.
+
+Fallout 2 — I'm going to include that CU. It was made in a year and I was on it for the first three months, so I'm including that. But it gives me fallout.
+
+Fallout 2, Arcanum, tempo of Elemental Evil, vampire, Bloodlines, South Park, Stick of Truth, pillars of Eternity, tyranny and The Outer Worlds. So let's look at trends for those games. So the first thing I want to look at is development time, and here you can see all the development time for all the different games. You can see that they ranged in time and I'm doing this. In months. My fastest game that I ever did was 12 months. Uh, that would be Fallout 2.
+
+The longest was, I'm estimating, 48. That South Park stick of truth. I came on in 2011. It shipped in 2014, which is only 3 years, but it had already been worked on, I think, for a year before I got there. So I just said four years, which means yes, um, South Park is the longest game I ever worked on. It is yes, I worked on South Park even longer than The Outer Worlds.
+
+Um, you see that there is a trend in development time. It is very slight, very slight increase from the early days to the later days. In fact, it looked very variable. I did some games really fast, some games really slow.
+
+Look, Fallout 2 got done in a year, compared to three and a half years for the. Original um Temple was done in less than two years. So there's a bunch of variability here. Roughly though, an RPG seems to take between 28 and — uh, 35 months. That makes sense to me, then let's look at Team size, and for team size I'll look at credit size in a minute, but I've told you lots of people get credited.
+
+I'm talking about just the development team: the programmers, artists, designers, producers, the development team, um. This is an interesting one because it had a big range and a dip when I went, like to Arcanum, but if you take a look at it ranges from 14 to 75 people 14 is in the beginning, but with the exception of going from Fallout 2 to Arcanum, team size always went up. That is a strong Trend. Team size has always gotten bigger over my role playing games.
+
+Roughly, the trend tells You needed between 22 to 60 people: 22 near the beginning, 60 near the end, roughly. What's interesting about this is when I did, I went to go look at credits because there's a lot more people crediting did for a game than the core development team and, interestingly, if you look at this, wow, the range is huge. It goes from 142 to 791. In fact, for almost every game I've made the dev team, the ratio of Dev team to everyone who gets credits is a factor of 10. Now, yeah, the full credits often have repeats.
+
+There are people who are listed as designer and project leader or people who did scripting and design, but even accounting for that, there is a huge group of people needed to bring a game to Market and that is why the dev team is roughly on10th of that group size and that's something I think people probably haven't gone. Huh, I've never thought of that, but if you look at it, the curve is the same for credits as it is for Dev team, and to me that's just amazing. And that means the trend went from about a 100 people when I first started to well over 500 by the time um, I finished outter worlds. Similarly, let's look at budget, and I did budget in millions. Now, the way I did this was I looked up all the information publicly accessible.
+
+A lot of Publishers are public companies, so it's they have to release this information. If you didn't know that, you can go to their shareholder meetings and they talk about sales numbers for their games. So I looked it up online and I double checked it against what I knew and it seemed to be what I knew. Now, some of my games I didn't know. I I if I wasn't a director or Project Lead or the owner of the company. I don't have access to that information, but it looked.
+
+The online numbers looked good, so it ranged from 2 million to 33 million. Um, the trend is always upward. It started low. Um, there are some dips. South Park cost quite a bit, quite a bit more than pillars or tyranny, but in general the trend is up. The games have gotten bigger budgets over the years. So that made me want to look at sales of my games. And again, this is sales in millions of units, not um, millions of dollars. So if you look at this, it also Trends up. Uh, in fact, it looks similar to budget. Um, there's a dip after South Park into pillars and tyranny. If you look at the range the range is less than 100,000 units for vampire.
+
+Masquerade bloodlines to over 5 million for The Outer Worlds, which was publicly announced. But did you know that South Park sck of Truth also sold 5 million units, that it's part of ubisoft's you know? Uh, public data, so that's an interesting thing.
+
+Right, there is that my bestselling game, The Outer Worlds, was matched by another game I worked on, south South Park, the stick of truth. If you look at the trend of these sales, it is up, it's generally up, um, but there are dips and I want to talk about that because let's take a look at one more chart, which is score. These are scores from Metacritic, so, uh, these are all PC. I took all the PC game scores. The range on Metacritic goes from 71 for tempo of Elemental Evil up to 89 for both, which is a tie between Fallout and pillars of Eternity. One both of the first games.
+
+Um, there's only the slightest Trend in this data, as you can see. First of all, it's incredibly variable, but if you look at the trend, it the average at the beginning of my career was about an 82 and the average at my end of the career was about an 84. It's a very slight Trend to spread over 40 years. So this is something that I wanted to look at because now let's talk about what kind of conclusions you can draw from seeing all this data. So remember, this is nine games across 40 Years.
+
+First of all, there seems to be no correlation at all between the score gets on Metacritic and the game's sales, the game's budget or the development team size. That it just there isn't, there are correlations between those last three, between sales, budget and team size, but that makes sense if you're given a bigger budget, you can hire a bigger team and have a bigger marketing campaign, which may give you more sales. Correlation there makes sense, but it's interesting. Let me repeat this: there's no correlation between the scores of my games and how well they sold. Vampire, the Masquerade scored well, didn't sell well, it's the worst selling game, worst selling RPG in my career, but it scored well. There's no correlation between score and budget. Um, Fallout 2 scored pretty well, but it was done in a year on a very small budget.
+
+Similarly, there's no correlation between score and team size. Uh, had a very small team on Fallout and a very small team on Arcanum and it scored better than game games that I had big teams on. So that's an interesting thing.
+
+Um, something I've said a lot, but there's data so we can say that changing the budget size or the team size won't affect the score and the score doesn't seem to really affect the sales much, or vice versa, if you think that there are reviewers that give High reviews to really good selling games. Now, the two things that did correlate somewhat, just because they both show slight Trends, are development time and score. Both of them go up slightly.
+
+Over the 40 years I worked on it, um, I spent as much time on Fallout as I did on The Outer Worlds, but there were some games towards the end. I spent a little longer time on just CU — we could — and there are some games I rushed out early in my career. But generally time goes up a little bit, development time goes up a little bit and score goes up a little bit. So they're correlated. Interestingly, they're correlated when time is reduced too much.
+
+So both Temple of Elemental Evil and tyranny were two of the fastest games ever did. They were both done in two years, — years but — and they had the lowest scores among what I worked on. But interestingly, Fallout 2 was done in a year and it had a pretty high score. So even though time and score are variable and somewhat correlated, there are variabilities in there. I know this is only nine games spread across 40 years, but they're my nine games and so I wanted to take a look at this.
+
+There are some rough conclusions you can draw from this and I just — it's something I've said repeatedly when I've done other videos — just hey, you're not going to really get a great score necessarily by having a big budget or having a big team, or the score seems more correlated to do. You have enough time to get your idea realized, which is only then roughly a correlated to budget. It's not really correlated to budget much at all, because you can have a big budget but you have to get it out quickly, or you can have a small team, which means a small budget can go longer.
+
+So, anyway, just wanted to point that out. Hope you enjoyed that. I had fun putting that data together. Um, maybe you can draw your own conclusions from the data. Anyway, hope you like that.

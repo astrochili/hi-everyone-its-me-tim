@@ -1,0 +1,85 @@
++++
+title = "Brushes With Famous People"
+date = "2024-06-07"
+id = "q8T255IglJw"
+status = "transcript"
+tags = ["Storytime"]
+summary = "Hi everyone. It's me, Tim. Today I want to talk about my brushes with famous people."
+references = []
++++
+
+Hi everyone. It's me, Tim. Today I want to talk about my brushes with famous people.
+
+I — this is, first of all, this is a Friday funay talk — doesn't have much to do with development, but it occurred while I was a developer, but it's fun and I I think it's cool. So maybe you'd like hearing some of the behind the scenes, like celebrity people that I got to meet. Now, some of them I met and talked with some of them. I just saw um and wished I over and talk to um. But looking back on it, I've mentioned here and there in videos people I've famous people, celebrities that I've talked to and I realized, wow, I've actually seen and talked to a lot of famous people, uh, over my career. But I think that just happens when you have a really long career and you're old.
+
+So also, caveat, I'm hoping that I get all the names right. Oh, my God, you guys have called me out every single time when I called Michael Sheen. Martin Sheen, I called Eric Estrada, Eric asara, just, it's super embarrassing. I do this in real life too, not just with celebrity names. I misname people all the time.
+
+It's just I'm not good at it, never have been. So let's start. I'm going to do this roughly chronologically, except I'll go by company and event and then at the end I'm just going to throw in just some random celebs. So let's start with interplay. When I was making Fallout, uh, Fred hatch, my assistant producer. He handled most of the vo and he got to meet a lot of the famous people that are on our vo list. I have a whole video about famous vo people.
+
+Um, but I went in to actually watch David Warner do Morpheus. David Warner, you know, he was photographer in The Omen. He was the ultimate Evil and Time Bandits he was.
+
+The Ambassador in Star Trek five. I think it was the one where they went to the center of the Galaxy and God was there. Um, hope I didn't give any spoilers away. Anyway, he was so good, just watching him perform was so good, got to talk to him a little bit, you know, basically tell him what his character was going to be. And yes, it was evil. That was cool, um, and then there was one other big celebrity and I think it actually may have happened before that: I was in my office working la programmer.
+
+It's boring I sitting there typing like it's boring to watch program. Remember my office mate Mark got up and walked out of the office and then about 30 seconds later this head popped in and my desk faced the door. So I was like: and it was Steven Spielberg, I mean everybody. Knows what the man looks like, but it was just his head and he was just. He was looking around. He was looking at my the posters on the wall and he was looking at my bookcase and he looked over at me and he goes: are you a programmer? I'm like yes, and he goes: is this a typical programmer's office?
+
+And I kind of looked around because I didn't know how to answer that. So I went, yeah, and he went: okay, thanks, and he left. I found out later that he was coming by because he was about to do a movie — I think it was Billy baldwi, I think it was called hacker, but you can look it up — and he wanted to see what a typical programmer space looked like.
+
+Anyway, he lefts. About 30 seconds later Mark comes in, sits, plops down his desk and says jovially: did I miss anything? And I was like, well, you're not going to believe it. So that was fun. Um, at troa I got to talk to Gary G on the phone while I was making Temple of Elemental Evil. I ran into things that I did not understand, and I think I've mentioned this before.
+
+But the biggest one was: why was Prince thrl, who was listed as being a paladin and lawful good, using a sword called fragar? That was intelligent and chaotic good and specifically I would like to think that was a typo. But specifically in its description it said: if anyone who's not chaotic good — and it was written out — touches this sword, they start getting lifet drained.
+
+I'm like, but thrl is lawful good. But then I realized he didn't say Thro was awful good, he, just said he was paladin. On the phone he said something, like he was thinking about introducing chaotic good paladins or whatever.
+
+Now that was beyond the scope of what I could do in Temple the game. I wasn't going to introduce a whole new subclass variation also. I didn't. I wasn't sure waty would approve it, so he agreed you should change it. He also told me a story about the temple was supposed to be a lot deeper.
+
+There's supposed to be an elder god at the bottom, an elemental, elder god, which is why it was called the Temple of Elemental Evil, despite you know all the different, you know priests that were there. You know why did they worship a demon if they're all Elemental aligned?
+
+So it was interesting just to get that kind of cool background also. He was super nice. He was so incredibly nice on the phone. I cannot stress how it was like culmination of childhood.
+
+Dream, now, I had met him once for at a convention in La called orcon and he signed my DMs guide, but we didn't really get to chat like we did here. I mean, we probably talked for, like I want to say, about 45 minutes, maybe maybe 30, maybe an hour, but someone like that. It was all blurry in my head.
+
+Um, same thing happened when I interviewed for carbine. I said I had four days of interviews. Well, one day, um, the people from noft, a lot of the Austin noft group, flew out to meet me. It was the final confirmation of me being hired as programming director and one of the people was Richard garat and we were sitting down to lunch and he and I were just talking. He said he liked Fallout and I was telling him how ultimate 3 is probably why I wanted to make RPGs to.
+
+Begin with and we like I mean what I loved about it was like it was almost like two old friends had met. If you were watching in the restaurant you would think we had known each other a long time. You would not have imagined that we were literally just meeting, because we were like Eric deil, who was the producer at carbine, who had been the producer and a friend of mine at on Fallout 2, still is a friend of mine, was producer on outter worlds. He leaned over after a few minutes and said: hey, can you guys cut the nerd chat? We got a — this is a lunch interview — and at the time I was like: okay, sorry, but later I'm like: did you really tell Richard gar to cut the nerd chat?
+
+But that's Eric, Eric's like: hey, we got a job to do. So that was. Fun. Um, I've talked about the Fallout 3 launch party.
+
+Um, I Saw Linda Carter didn't say hi, really wished I had there — was like. I was like, ah, um, that was a the first time I was like celebrity, do not approach, even though people were going up to her and saying hi and that's why she was there. And if anybody had a reason to say hi to her, I'm like hey, I help make the freaking game, but I, I couldn't do it by the, couldn't do it I couldn't do it.
+
+By the way, she's super gorgeous in person, like you've seen pictures of her and she's super gorgeous in pictures. She's like crazy gorgeous in person, and I think I was just too. I was like I can't approach someone like that because I look like you know the Stay Puff Marshmallow Man.
+
+Um, I went over to one, the bars and David Spade was there ordering. I didn't interact with him either, but it was just cool and like, hey, you know, Satur live Alum news radio, all that. And then, when I'm I was talking, I spent a lot of time talking to Steve Meister, uh, one of the programmers. And while I'm talking to him, I look over and Will Sasso is about 10 ft away and he's looking in our Direction and when he sees me look at him, he goes and I go, you know, and I wish I had said: hey, Steve, let's go talk to wasas, because he was just standing there by himself and he seems like such a nice guy. I want to go over and go.
+
+Hey, did you play Fallout? What' you think? You know we worked on the series. You know it could have been fun and I wish I had. Done that, so, Mr Sasso, I'm sorry I didn't come over and chat with you. I wish I had.
+
+Um, then I was at PA — the it's now called PA West, the Seattle PS. I think it was 2010. Um, I had, I think I talked there. I think I did um, it might have been the one where I talked about. Uh, I was on a panel, um with Brian mitsoda and, um, some other people.
+
+I I don't really remember. Um, unfortunately, my note wasn't dated. Uh, I saw — well, I'll show you the note too. So I saw will weaton. We were in a sushi bar, me and my friends, seated right at the front and on the other side of the glass plane pain window, pain.
+
+Will weaton walked up on the sidewalk and he's looking at his phone. He's I'm like, oh, that's will ween, and I'm looking at him. It's will weaton, um, or will Wheaten. And right before I tell my friends, hey, look at that. He sneezed into his head and then kind of goes like this, and then goes back to using his phone and I was like, oh my God. And of course all my friends turned to see what I'm looking at. It's too late. I tell them what happened, so two of my friends who were there — Tim and Richard — they go to see will weaton.
+
+He's signing autographs and they got his autograph. But then they said, hey, you know, our friend Tim saw You know, he saw you sneeze and use your phone and he goes, oh yeah, and he wrote this note and said: give it, give it to Tim. I still have this note. I think it's really cool, so, while I never interacted with him, this is my brush with celebrity um. And then I I mentioned going to the Fallout 4 launch party. I didn't meet any um celebrities there. They were all in the VIP section that I couldn't get into. But while I was waiting in line, ahead of me in line about 10 people forward, was Aaron Blart from, uh, Conan O'Brien's talk show. He was a guy who played video games with Conan um and I saw him up there and he's wearing the Vault suit. At first I I mean, I saw the Vault suit.
+
+Then I'm like, oh, that's Aaron Blart. And let me tell you something: those Vault suits are tight. They leave very little to the imagination.
+
+Congratulations, Mr Blart, then, game awards 2018: the one where Leonard and I went and talked and said, hey, introducing The Outer Worlds is something we're working on. While I was, we were waiting to talk. We the next Mones to go on — someone came up to stand behind us. Who was the person talking after us?
+
+I look over and it's Rivers. Cuomo, um, from Weezer, and I'm like what? And I didn't say anything, to him. And, if I remember correctly, there was someone with him who kind of looked like back off, like I was going to go up and go. Um, it was interesting because after I got back to my seat, I pulled out my phone and I texted, uh, one of my nieces and said you never going to believe who I stood text to. And of course she was like, oh my God, you should have talked to him, you should have gotten his autograph, and I'm like I'm too cool for that.
+
+No, I was just scared, so, um, also, Fallout TV Premiere. I listed everybody I met. I met Aaron.
+
+Moton, who played Maximus. I got to talk to the director, Jonathan Nolan. I got to talk to the showrunner, Graham Wagner. I was also hoping, of course, to meet El preno and, um, I wanted to meet Walter goggin and tell him that he was on my favorite Community episode, the one where he played the lawyer and they were reading Pierce's will. I wanted to know how he kept a straight face and all that, but he wasn't there. I didn't get to meet him. Um, I did get to see K MC glin, but I didn't get to go over there.
+
+So so that's pretty much all the celebrities I met. Because of work. I did meet two others, both in Disneyland. I lived in Tustin. My house was right off the 5. It was a 10-minute drive from my front door to the Disneyland. Parking lot was 10 minutes, so I went. There a lot, especially later I had a uh for a few years, um, my husband and I had Disneyland passes and sometimes we go up there and just people watch. You know, have a churo sit on Main Street, watch people walk by and then go home.
+
+Um, um, I was there with my sister — this was probably my sister, Dena. This is probably in late 80s, and we had been joking when we went, were going, we were driving there. It Wonder, we going to see any celebrities running for see any celebrities?
+
+We're walk around the corner. We're near um the water ride, um Splash Mountain, and we go around the corner and there's David Hasselhoff. Now he's got an Entourage around him and they're walking and they're disappearing around the corner. So, like Dena, Dina, look, it's David hasof. She just looks at me and goes you.
+
+Don't trick me, don't make stuff up. And I'm like: will you please look? And she looked just as he went around the corner. So I don't think she saw him, but I did. And then one day, uh, we were there, Robert and I had gone on Pirates of the Caribbean and we were walking out. You know how you get off and you walk out and there's a big wide exit, only there was a group coming in the exiton lane led by a Disneyland uh, employee, a cast person, it was Eddie Murphy and his kids and they were, I'm sure you know everybody. He's incredibly recognizable and I think they were just letting him slide on to the ride real quick through the exit so he wouldn't have to stand in line and just get mobbed. And I thought that was pretty cool and I looked at him and he looked. At me and I'm sure he remembers this. Of course he remembers this, he probably.
+
+Hey, it's that Tim Kane who made Fallout. I remember it. Um, it was cool. It's like, hey, celebrities, and also it made me go: wow, celebrities really just go to Disneyland and hang out and that's fun. Um, anyway, that is, I believe, all of the celebrities that I've ever met.
+
+Um, so some of these I mentioned in another video, some I haven't. I hope you enjoyed it. Hope this was just a fun Friday.
+
+Nothing video of celebrities I've had brushes with.

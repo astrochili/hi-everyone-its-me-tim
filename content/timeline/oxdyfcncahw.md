@@ -1,0 +1,75 @@
++++
+title = "NPC Reactions"
+date = "2025-01-06"
+id = "OXdyfCNcahw"
+status = "transcript"
+tags = ["NPCs", "Player Choice", "Narrative Design"]
+summary = "Hi everybody. It's me, Tim. Today I want to talk about NPC reaction."
+references = ["GYWEgQAh6So", "coPkWyJIl-M"]
++++
+
+Hi everybody. It's me, Tim. Today I want to talk about NPC reaction.
+
+This comes from a question from AliceLittle1865, who asked: can you make a video, maybe on the topic of NPCs and companions? What I mean is how to create character reactions when they interact with the world or not, for example, how all the companions in New Vegas have some kind of reaction when on a mission or part of the map or player choice or faction. The same could be applied to a tabletop RPG. When the DM creates a character that the players have in their party or not, how would that character react to the interactions and development of the story and how do you prepare for that? I want to break this into two parts because the, at least for a video game, the complicated thing is how to set it up so you can do the reaction, and then I'll talk very briefly on what things you might want to react to. Also, I call this NPC reaction. It is: commonly used for companion reaction, since companions are with you, are following you around and they see a lot of what you do. But I called this NPC reaction because you can really use it for anything in any character in the game who's not the player. We've all played games where the NPCs react to things you do and say: my games all do that. To me that's one of the just wonderful beautiful things about an RPG is reacting to what the player does and a big chunk of that reaction comes from having non-player characters say: I saw what you did, I saw what you said.
+
+It's fun. The two ways we did that in Arcanum. I'm going to talk about the method we used. The two ways we did it in Arcanum was in dialogues and in scripts. I have videos on Arcanum dialogue and Arcanum scripting. They're linked below at: the end of this video, though, I'm going to talk about a better way of doing it I want — I shouldn't say better — a way, more efficient way, which your programmers may like, better and you may go.
+
+Why didn't you do that in Arcanum U? The simple answer, which is what I always say, is time and money. We didn't think of it because I was trying to create the simplest system so that non-programmers could script. So I went with the very simplest system I could think of. If it had caused problems with our frame rate or our memory use, I would have gone back and changed it, but it did in it.
+
+So it's the. That's the frustration I get from programmers going: well, we have to do it this way because it's the most efficient. Do we use it enough to have that inefficiency matter in any way for Arcanum, the?
+
+Answer was no. Did we have frame rate memory issues? Yes. Did they come from NPC reaction?
+
+No, so it's always a discussion you want to have with your programmers. Is the optimization you're doing really important right now? Because the time you spend on it is time we could be doing other things anyway.
+
+I'll discuss that alternate way at the end. So the way Arcanum dialogue worked is every line, whether it was spoken by the player character or non-player character, can potentially call out to a script. That script could do, could set a variable or um. In The Outer Worlds it could actually call out to an NPC dialogue. So you probably played some dialogues there where you were talking and all of a sudden one of your companions says Hey, blah, because we could, in the middle of your dialogue, check to see if you had a companion there and do they want to respond to this line?
+
+Boom, they step in and do it. Those call outs are really useful for the companion to interrupt your dialogue and react. Setting a variable, though, lets you have that NPC companion or NPC react later, and I'll talk about that. So, similarly, scripts just all by themselves can also do the same things. In Arcanum, scripts could be put on an event that was happening in the world. It could be when the player picks up an item. It could be when the player kills someone or some creature. It could be when the player finishes a quest. It could be when the story state gets Advanced, because we kept a numerical story State and went from 2 to three, and that means you're now in act three of what the narrative designers have considered the story State, all of these things.
+
+Trigger, script call, cause that you can hook a script to and say when this thing happens, I want to be called. Then you can do something, when that script is called, you can set a variable which you can check later, or you can check right away, like for companions. What we often did is we would set a variable and then later on, when the player entered their home or their ship or some place that was — quote - safe, when the map transition happened, that companion might go: hey, can we talk? It might even be just when you entered a town — you know they, know well, you're now in a town location — there was a script call back for that. The companion would go: oh, I've set this variable, I know we're in a town, I'm going to tell my player leader.
+
+Hey, I need to talk to you. For NPCs that weren't companions, this was often done on their heartbeat, which they got every at the max every two seconds, and then the farther away they were from the player, the slower their heart rate was. They would then check these variables and they saw that, oh, I have this variable. That means I want to talk to the player by jumping to this start location in my dialogue. One reason you want to set a variable rather than just call into dialogue and force it to start is when that script that's going to check that variable is called, it may want to check that the player is not in combat, that the player is not in dialogue with another NPC, uh, that there are no enemies nearby and that maybe none of these things have happened for the last 30 seconds. So it doesn't feel like as soon as. You finish talking with one person, the NPC goes I need to talk to you, or as soon as you finish combat, you know you're like pH and you want to loot the NPC's, like no, I want to talk to you. So often we put a delay in it.
+
+However, once you check and it's the, NPC, you know, has that variable set, meaning they saw or heard, because you can check line of sight and things. They saw or heard what you did. And then, finally, it was a good time to talk to you. Boom, it jumps to that particular line in their dialogue and they say something. Maybe they're UPS, maybe they liked what they saw, maybe they're demanding something of you, maybe they're going to tell you they're you're horrible.
+
+I'm going to leave the party, by the way, the reason this is fun to do in a dialogue. Is that's the perfect time to check the players — leadership skills, or dialogue skills — and maybe, if that skill is high enough, the player can say no, please don't leave, and you can say okay, but a counter is set. So the next time the player does something bad, you need a higher skill to prevent them from leaving, and eventually, if you keep doing it, the skill will become too high and they're going to leave.
+
+But that's what I love about that. So that's, in general, how we handled NPC and companion reaction in Arcanum. There's a better way. It's more efficient: event handlers. An event handler is when, the thing happens, the player kills something, the quest finishes and event is thrown, and this is something that happens in code, the. When you throw event, the event has a title, like you know. Let's say, a creature was killed, the data is: attached to that event: what creature is it, who killed me? When and where did it happen?
+
+These are all things that are attached to event and then it's just thrown out into the event system. The events can also have a time. Should, things immediately listen for this, or should this event like go into the queue of events and not be handled for 30 seconds or minute or day? What you can do whatever you want.
+
+What's cool about that is the system that knows the event happened, doesn't know or care about who wants to know about it. Also, with an event system — because you're not C, because you know you're not directly calling those things — you don't know who cares about it also may be that multiple things want to hear it. Events can be, when a listener hears an event, they can sometimes choose to consume.
+
+It, so no one else can handle it. And that's for events like: well, only one person needs to handle this. You don't want something to happen and have all your companions all shout: I need to talk to you. It's like to you, I need to talk to you.
+
+It's like it's enough for one of them to go: hey, why' you do that? So they consume the event, for some events they don't get consumed. If you have five different systems that want to know that event happened, they can all hear it. They can all listen to it. One thing that's great about that is if you're doing end slides — which I love in my RPGs, end slides are perfect because they can just listen to whatever event you plan to make a slide for.
+
+Oh, you killed this boss. Oh, you killed everybody in the town.
+
+They're listening to events, possibly keeping counters, and then when you, when the game ends and you decide to do these end slides, you have all the data you need to know what end slides you want to show. What I love about this is, like I said, the event Creator is usually a programmer. Not always, and I'll talk about that. It's usually a programmer.
+
+They don't know and they don't care who wants to listen to the event. It may be other programmers who were doing things with the event, it may be designers, it may be audio. We've had several things where an audio person would like: hey, I'd like to know when this happens so I can make a sound effect. Or, you know, I can have an NPC say something. You know, don't jump into dialogue. They just say something like whoa, that was crazy. Or oh, look at that view.
+
+We can do that if an NPC wants to react, they can listen for the event and then check that conditions are good for them to start a conversation and if it's not, they can throw their own event to try again later. Let me show you an. Let me give you an example.
+
+Let's say you have a companion, Bob, and Bob hates it when cystypigs are killed. Okay, this is from The Outer Worlds when whenever a creature is killed, they throw in a vet, you know, saying: here's me, here's my killer, here's when and where it happened. Bob listens for that event and when he gets it, he goes. Was this a cystypig who died and was it the player character who killed them? If so, can I see or can I have seen or heard this event? If, like, let's say, the killer isn't the player Bob can, just do an audio. We caught it, chatter and go.
+
+Oh God, no, that poor cystypig. He just hates seeing cystypigs killed, but if it was the player, Bob will now respond by setting up his own event, and I'll tell you why. So this is something a designed would have created. He makes his own event, maybe called Bob sees player kill Pig. It's got its own data for whatever Bob wants to store about that and he sets it for 30 seconds from now. Why does he have a new event? Because you don't want Bob to initiate dialogue.
+
+The second, the player. The exact moment the player kills the cystypig, it interrupts. It's like you know that he's probably still in combat, but if that was the final cystypig, that would be like you killed it immediately.
+
+Bob's like I need to talk to you right now. It you want to loot. Things, you need to take stock, you may need to heal. So he maybe he sets it the new event to happen in 30 seconds and, of course, when the new event happens, Bob can say: is this a good time for conversation? You know, am I conscious?
+
+Is the player not in dialogue or combat? Is this and if not, reset it to happen? Check in another 30 seconds, and during that time it's not checking, it's the queue is set up. So every time there's a, the queue is checked. It looks at the at the front of the queue and says: is this something that needs to fire?
+
+If it's something set for 30 seconds from now, nothing happens. That's why it's very efficient, now it may be that the player goes that the that Bob says hey, can we talk, and the player says no, I don't want to talk. About this, then he can reset the same event and say: have it happened in two day, two hours or two days, meaning he's like, and he can even throw something like, I'm not happy with this, we're going to talk about this eventually, and then he will talk about it later.
+
+What, love about this? It's efficient. It lets that you know that event's lets. It lets that you know that event's going to going to eventually happen and Bob's going to bring it up again, which is what he said he would do.
+
+But it's very efficient, programming Wise. It's also really cool because, since anyone can set an event, the player — uh, the programmers are probably sending the creature dying event, the script that the narrative designer probably put on. Bob listens for those events and then, when they get them, sends their own event saying: Bob saw the player kill a cystypig, which is a very specific event that only that narrative designer is going to know about and care about, but has a different set of data on it and gets put in for a different time period before it will come back.
+
+That's what I love about all this. Real quick, before I end, let me talk about what you should react to, because if you have good programmers, there's events being thrown for all kinds of things, and I I mentioned It's like you picked up an item, you dropped an item, you wore an item, you sold an item, you talked to this NPC, you killed this creature, you discovered a new map. Um, all these things you know are things that that can trigger a script. It's usually the narrative designers who decide what they want NPCs and companions to react to, based on their idea for that character. What does that character like? What does that character hate, based on those likes and dislikes and this big list of things they can react to.
+
+That's what the NPC can now react to. Did the player put on that Evo aligned helmet? Did the player finished that Quest by denying the NPC like I, I found that item you wanted, but I'm keeping it for myself. Did they kill this NPC? Who's a prominent citizen, maybe a friend of the NPC, that wants to react to it?
+
+These are all things that can be baked in to the reaction. When you see the NPC can see a, an event occur and decide: right, then do I want to react to it? And then, of course, create an event or set a variable or what, however you do it, to make sure you come back and mention it I think that is the most straightforward. Way I can describe how, at least in all of my games, our NPC's companions have reacted to things the player has said and done. So, Alice, I hope this answers your question.

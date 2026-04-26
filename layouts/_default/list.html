@@ -1,0 +1,145 @@
+{{ define "page" }}
+  {{ $isTagTerm := and (eq .Kind "term") (eq .Data.Plural "tags") }}
+  {{ $isTimelineSection := and (eq .Section "timeline") (or (eq .Kind "section") (eq .Kind "page")) }}
+
+  {{ if $isTimelineSection }}
+    {{ $allPages := (where .Site.RegularPages "Section" "timeline").ByDate.Reverse }}
+    {{ $latest := index $allPages 0 }}
+    {{ $hasExplicitYear := isset .Params "timeline_year" }}
+    {{ $hasExplicitMonth := isset .Params "timeline_month" }}
+    {{ $selectedYear := int ($latest.Date.Format "2006") }}
+    {{ with .Params.timeline_year }}
+      {{ $selectedYear = int . }}
+    {{ end }}
+    {{ $availableYears := slice }}
+    {{ range $allPages }}
+      {{ $yearValue := int (.Date.Format "2006") }}
+      {{ if not (in $availableYears $yearValue) }}
+        {{ $availableYears = $availableYears | append $yearValue }}
+      {{ end }}
+    {{ end }}
+    {{ $availableYears = sort $availableYears }}
+    {{ $selectedYearPages := slice }}
+    {{ range $allPages }}
+      {{ if eq (int (.Date.Format "2006")) $selectedYear }}
+        {{ $selectedYearPages = $selectedYearPages | append . }}
+      {{ end }}
+    {{ end }}
+    {{ $availableMonths := slice }}
+    {{ range $selectedYearPages }}
+      {{ $monthValue := int (.Date.Format "1") }}
+      {{ if not (in $availableMonths $monthValue) }}
+        {{ $availableMonths = $availableMonths | append $monthValue }}
+      {{ end }}
+    {{ end }}
+    {{ $availableMonths = sort $availableMonths }}
+    {{ $selectedMonth := int ($latest.Date.Format "1") }}
+    {{ if gt (len $availableMonths) 0 }}
+      {{ $selectedMonth = index $availableMonths 0 }}
+      {{ if not $hasExplicitYear }}
+        {{ $selectedMonth = index $availableMonths (sub (len $availableMonths) 1) }}
+      {{ end }}
+    {{ end }}
+    {{ with .Params.timeline_month }}
+      {{ $selectedMonth = int . }}
+    {{ end }}
+    {{ $selectedPages := slice }}
+    {{ range $allPages }}
+      {{ if and (eq (int (.Date.Format "2006")) $selectedYear) (eq (int (.Date.Format "1")) $selectedMonth) }}
+        {{ $selectedPages = $selectedPages | append . }}
+      {{ end }}
+    {{ end }}
+    {{ $selectedPeriodLabel := (time.AsTime (printf "%04d-%02d-01" $selectedYear $selectedMonth)).Format "January 2006" }}
+    {{ $timelineTitle := $selectedPeriodLabel }}
+
+    <article>
+      <header>
+        <h1>{{ $timelineTitle }}</h1>
+        {{ if .Content }}
+          {{ .Content }}
+        {{ else }}
+          <p>Browse every transcript currently available in chronological order.</p>
+        {{ end }}
+      </header>
+
+      <p class="inline-links">
+        {{ range $availableYears }}
+          {{ $yearValue := . }}
+          {{ $yearURL := printf "timeline/%04d/" $yearValue | relURL }}
+          {{ if eq $yearValue $selectedYear }}
+            <a href="{{ $yearURL }}"><strong>{{ $yearValue }}</strong></a>
+          {{ else }}
+            <a href="{{ $yearURL }}">{{ $yearValue }}</a>
+          {{ end }}
+        {{ end }}
+      </p>
+
+      <p class="inline-links">
+        {{ range $availableMonths }}
+          {{ $monthValue := . }}
+          {{ $monthURL := printf "timeline/%04d/%02d/" $selectedYear $monthValue | relURL }}
+          {{ $monthLabel := (time.AsTime (printf "%04d-%02d-01" $selectedYear $monthValue)).Format "Jan" }}
+          {{ if eq $monthValue $selectedMonth }}
+            <a href="{{ $monthURL }}"><strong>{{ $monthLabel }}</strong></a>
+          {{ else }}
+            <a href="{{ $monthURL }}">{{ $monthLabel }}</a>
+          {{ end }}
+        {{ end }}
+      </p>
+
+      {{ if gt (len $selectedPages) 0 }}
+        <h2>{{ len $selectedPages }} video{{ if ne (len $selectedPages) 1 }}s{{ end }}</h2>
+        <ul class="archive-list">
+          {{ range $selectedPages }}
+            {{ partial "archive_entry.html" . }}
+          {{ end }}
+        </ul>
+      {{ else }}
+        {{ $selectedLabel := "the selected month" }}
+        {{ if and (gt $selectedYear 0) (gt $selectedMonth 0) }}
+          {{ $selectedLabel = (time.AsTime (printf "%04d-%02d-01" $selectedYear $selectedMonth)).Format "January 2006" }}
+        {{ end }}
+        <p>No published transcripts are available for {{ $selectedLabel }}.</p>
+      {{ end }}
+    </article>
+  {{ else }}
+    {{ $pages := .RegularPages.ByDate.Reverse }}
+    {{ $pagerSize := 25 }}
+    {{ if $isTagTerm }}
+      {{ $pages = .Pages.ByDate.Reverse }}
+      {{ $pagerSize = 25 }}
+    {{ end }}
+    {{ $paginator := .Paginate $pages $pagerSize }}
+
+    <article>
+      <header>
+        <h1>{{ .Title }}</h1>
+        {{ if .Content }}
+          {{ .Content }}
+        {{ else if $isTagTerm }}
+          <p>{{ len $pages }} video{{ if ne (len $pages) 1 }}s{{ end }} tagged with <strong>{{ .Title }}</strong>.</p>
+        {{ else }}
+          <p>Browse the archive in reverse chronological order.</p>
+        {{ end }}
+      </header>
+
+      <ul class="archive-list">
+        {{ range $paginator.Pages }}
+          {{ partial "archive_entry.html" . }}
+        {{ end }}
+      </ul>
+
+      {{ if gt $paginator.TotalPages 1 }}
+        <div class="pager">
+          {{ with $paginator.Prev }}
+            <a href="{{ .URL }}">Newer</a>
+          {{ end }}
+          <span>Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+          {{ with $paginator.Next }}
+            <a href="{{ .URL }}">Older</a>
+          {{ end }}
+        </div>
+      {{ end }}
+    </article>
+  {{ end }}
+{{ end }}

@@ -1,0 +1,17 @@
+{{ define "page" }}
+  {{ $latest := first 5 ((where .Site.RegularPages "Section" "timeline").ByDate.Reverse) }}
+  {{ $timeline := .Site.GetPage "/timeline" }}
+  <article>
+    {{ .Content }}
+
+    <section>
+      <h2>Latest videos</h2>
+      <ul class="archive-list">
+        {{ range $latest }}
+          {{ partial "archive_entry.html" . }}
+        {{ end }}
+      </ul>
+      <p><a href="{{ $timeline.RelPermalink }}">Open the timeline</a></p>
+    </section>
+  </article>
+{{ end }}

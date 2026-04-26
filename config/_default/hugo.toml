@@ -1,0 +1,57 @@
+title = "Hi everyone. It's me, Tim."
+languageCode = "en-us"
+copyright = ""
+
+[pagination]
+pagerSize = 24
+
+[taxonomies]
+tag = "tags"
+
+[permalinks]
+timeline = "/timeline/:contentbasename/"
+
+[params]
+faviconICO = ""
+faviconSVG = ""
+opengraph = ""
+siteDescription = "A quiet, unofficial archive of Tim Cain videos with AI-assisted transcripts, tags, and internal references."
+disclaimerShort = "These pages are generated from AI-assisted transcripts and may contain recognition or editorial errors. This site is unofficial and unaffiliated with Tim Cain."
+channelURL = "https://www.youtube.com/@CainOnGames"
+
+[outputs]
+home = ["HTML", "RSS"]
+page = ["HTML"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML"]
+term = ["HTML", "RSS"]
+
+[minify]
+minifyOutput = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.nav]]
+    identifier = "home"
+    name = "Home"
+    pageRef = "/"
+    weight = 1
+
+  [[menu.nav]]
+    name = "Timeline"
+    pageRef = "/timeline"
+    weight = 2
+
+  [[menu.nav]]
+    name = "Tags"
+    pageRef = "/tags"
+    weight = 3
+
+  [[menu.nav]]
+    name = "License"
+    pageRef = "/license"
+    weight = 4

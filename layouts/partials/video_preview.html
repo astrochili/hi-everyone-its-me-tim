@@ -1,0 +1,11 @@
+{{- $page := . -}}
+{{- $preview := "" -}}
+{{- with $page.Params.summary -}}
+  {{- $preview = . -}}
+{{- end -}}
+{{- $preview = $preview | plainify | replaceRE "\\s+" " " -}}
+{{- $preview = replaceRE `(?i)^(hi|hello)\s+(everybody|everyone)[.!?,]?\s+(it'?s|it is)\s+me,?\s+tim[.!?,:; -]*` "" $preview -}}
+{{- $preview = replaceRE "^\\s+|\\s+$" "" $preview -}}
+{{- if $preview -}}
+  {{- $preview | truncate 180 -}}
+{{- end -}}

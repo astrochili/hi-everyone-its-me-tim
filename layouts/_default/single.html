@@ -1,0 +1,60 @@
+{{ define "page" }}
+  {{ if eq .Section "timeline" }}
+    <article>
+      <header>
+        <h1>{{ .Title }}</h1>
+        <p class="meta-block">
+          <span>{{ .Date.Format "2006-01-02" }}</span>
+        </p>
+        {{ with .GetTerms "tags" }}
+          <p class="inline-links">
+            {{ range . }}
+              <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            {{ end }}
+          </p>
+        {{ end }}
+      </header>
+
+      <section class="video-shell">
+        <div class="video-frame">
+          <iframe
+            src="https://www.youtube-nocookie.com/embed/{{ .Params.id }}"
+            title="{{ .Title }}"
+            loading="lazy"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+        </div>
+        <p><a href="https://www.youtube.com/watch?v={{ .Params.id }}" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
+      </section>
+
+      {{ .Content }}
+
+      {{ with .Params.references }}
+        <section>
+          <h2>Referenced videos</h2>
+          <ul>
+            {{ range . }}
+              <li>
+                {{ $referenceID := printf "%v" . }}
+                {{ $referencePage := $.Site.GetPage (printf "/timeline/%s" ($referenceID | lower)) }}
+                {{ if $referencePage }}
+                  <a href="{{ $referencePage.RelPermalink }}">{{ $referencePage.Title }}</a>
+                {{ else }}
+                  <a href="https://www.youtube.com/watch?v={{ $referenceID }}" target="_blank" rel="noopener noreferrer">{{ $referenceID }}</a>
+                {{ end }}
+              </li>
+            {{ end }}
+          </ul>
+        </section>
+      {{ end }}
+    </article>
+  {{ else }}
+    <article>
+      <header>
+        <h1>{{ .Title }}</h1>
+      </header>
+      {{ .Content }}
+    </article>
+  {{ end }}
+{{ end }}

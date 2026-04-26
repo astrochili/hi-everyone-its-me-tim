@@ -1,0 +1,57 @@
++++
+title = "Game Preservation"
+date = "2025-04-23"
+id = "F707wIeTX2g"
+status = "transcript"
+tags = ["Game Preservation"]
+summary = "Hi everyone. It's me, Tim. Today I want to talk about game preservation."
+references = ["2j6qqh3H-0Y", "hZEosFcqmcU"]
++++
+
+Hi everyone. It's me, Tim. Today I want to talk about game preservation.
+
+I got a really good question about this and I have never talked about it, and it's an important topic. It's one of those things that I've said before. It didn't occur to me to talk about it until someone asked a question, so I'm glad people are asking good questions. This comes from netherly. Who asked: I've got a question for you. Okay, three questions, but they're all related to the same thing: games preservation. So here go.
+
+One: what games do you expect to still see Remembered in 50 or 100 years time? Two, if any one of the games you've worked on is still Remembered in 50 to 100 years, which one do you think it' be? And three, and kind of related: if one of the games you've worked on is still Remembered in 50 to 100 years, which one do you want it to be?
+
+These are really good questions, netherly, so I'm going to go through them in. Order, but before I start, let me just say saying: you know, hey, what do you think it would be?
+
+A game that's still going to be remember in 50 years. We already have that now. Video games came out in the 70s, and that was 50 years ago. It's 2025, so 50 years ago is 1975, and one of my most favorite games was star Raiders in 1979.
+
+So that is a what? 46y old game and I still play it and I still love it. In fact, I can play it on an emulator or I can play it. Atari released a anniversary pack that had it in there and it runs in there. I don't know if it's running in emulation or if they may well, they probably did run it in emulation. I guess there's no other way to do it, but still, that's a game we're still. Playing, still talking about, I still think can be learned from too. So this has already happened, so I'm not. This isn't a hypothetical question for me, anyway, let's go in order. So let me start with what game of any games that are out there do I think will still be remembered? And I'll be honest, I thought about this for a while. I'm AB, I'm not sure. I, I really don't know.
+
+As op said, uh, he had a lot of commentary after his questions. This is really up to chance. It is it's Hit or Miss what gets remembered.
+
+If you look at early songs or early books — and we're talking going back thousands of years, the ones we have — why were they the ones that were kept? Were they the best songs and books? Were they the most popular songs and books? Were they the most widespread songs and books? Or do they just happen to be the ones that survived in some sort of recorded, probably written, format?
+
+It's probably the latter, and it makes you think: wow, like you know, A Book Like The Odyssey, which, by the way, was oral for a long time before someone wrote it down. If, that's one of the ones that made it through, what did we miss? What if that wasn't one of the best Greek stories, what have we missed?
+
+And that's the scary thing to think about. So I'm going to skip that question. I don't know. I haven't played every game out there. I don't think I'm qualified.
+
+You know, I'd probably pick one of my favorites, or might point to Star rers and go look starers. Star Raiders has already made it almost 50 years. So that one, but I'll jump to the second question, which is in 50 or 100 years, what game that I worked on do I think Will Survive? And I think that's an easy question. I think it would be Fallout, because it's popular, and I'll put that all on Bethesda. Bethesda made Fallout mainstream, but there's another reason why I think it will survive and that's because I wrote ganal, which is the OS abstraction library that Fallout and Fallout 2 sit on.
+
+That can be ported easily. We've already seen, uh, people go in without the source code and update Fallout to work on Modern versions of windows. With the source code — and there are people out there with the source code — you could very, very easily rewrite ganol for whatever the modern version of Windows is and have Fallout working smoothly and efficiently on whatever the current Windows is. So I think it'll be easy to keep Fallout around and going. I'm going to talk.
+
+Later, though, about whether I think this will happen, but it's easy to make happen. And then the third question, which is a similar one, which was: of the games I've worked on, which ones do I want to be remembered in 5200 years? And I'll admit, Fallout is one of them. But really, what I want to say is Troy's games. I'm hoping troa gets remembered for it's three games ironically named troa for other reasons, and I've talked about how I think Temple is being forgotten.
+
+Um, vampire didn't sell very well at all, but now it's a cult classic. I'm hoping get it gets remembered, but of all those three, if I had to pick one of my games, I would pick Arcanum, and the reason I pick it is — I've said it before, I say it again — there is more of me in my games: Fallout and arcane — than in any of my other games, and by me what I mean is they're the most representative of me as an RPG designer and a lot of my ideas made it in to those games and didn't get dramatically altered. Now I'm not saying there weren't a lot of other ideas from other people, but their ideas meshed with mine really well. In other words, I loved their ideas. They worked well with my ideas. I think that's one reason we got along so well in those teams. But I think the thing that came together — it was a combination of it — was a small team that worked well together and thought well together and were aiming towards the same goal, and I got to be a lead in those games. So I got a lot of my ideas in where maybe another idea would have gone in. But I — I if I'm designing it and coding it — I get to get some of my ideas in there.
+
+So I think Fallout and Arcanum are the two that I think will be remembered. I put Fallout in the answer to the second question because I think Bethesda, making that IP popular, is a big chunk of while it's going to be why it's going to be remembered in 50 years or even a century from now. Of all the ones I worked on that I want to be remembered are, canum. But now let me talk about game preservation right now and why I think so much have been lost. I think a lot of stuff is gone already in the last 50 years that video games have been around. Things are disappearing and they're gone. You mention to people and they're like I don't know anything about that game and when I look I can't. Find any way to play it, and I think there's three reasons why we're losing a lot of things.
+
+The first one is just no one thought to keep it wasn't that there was anything actively done, it was just nobody thought this stuff should be preserved. Nobody kept old design docks, nobody kept early prototypes after the game shipped. Nobody was in charge of archiving code or assets or even the game. I mean, the game shipped maybe, uh, somebody kept a copy around in whatever Department was responsible for sending it off to the duplicator and then when that game went out of that company's catalog or that company went under, nobody thought to keep anything. So the first one is pure kind of blameless, no one thought of it.
+
+But the next two are a little more active. The second one is individuals wanted to keep their things private, whether was their code or their art assets or whatever. They wanted to keep it private. No one was allowed to see it, no one. Whatever went into the game, went in, is a compiled library or the final finished rendered thing, but the original piece of art or the original code, no, it's mine, you can't see it. And then it was lost because the individual either didn't good keep a good job of archiving it or time went by and because it wasn't out there and public people lost interest and it's gone now and the only thing that's available is the compiled code or the final asset that's in the art. So it's just gone, and the third reason is sort of higher than the individual, which is organizations. There are organizations out there.
+
+Excuse me, it's a very — I'm getting a lot of allergic reaction to something there's a lot of. Organizations out there that demand to be the archive keeper and then they do a terrible job at it. They lose the assets they were in charge of keeping.
+
+I've told you this has happened multiple times in my career. I, when I left Fallout I've mentioned I was told you have to destroy everything you have. And I did my entire archive, early design notes, code, for different versions, Prototype, all the gerps code gone.
+
+They were going to keep it. They lost it, now, when they finally, a few years after I left, and they contacted me and said, oops, we lost it, I thought they were trapping me into like we're going to sue you if you say you have it turns out no, they really lost it. They did manage to recover The Fallout code from the early, from the shipped version and then, I think, a couple patches afterwards, but I don't know if they have the original artwork, like not the end rendered artwork that went into the game, but the original like 3D models for the character sprites and for props. I know the GS code has been lost. I also know that all the actual um clay heads have been lost. That stuff is gone because the people who were responsible and demanded the sole right to keep those things didn't do their job and lost them. And it's not just — I'm not bagging on interplay here — same thing happened at Atari when Temple shipped. I was ordered to give an archive and I did, but I got to keep a copy because we kept wrs to the code for use in other things, not Temple, and they lost it.
+
+How do I know that? In the early 201s — I don't exactly remember when someone from Atari got a hold of me and said, hey, um, you wouldn't have to stop the source code, would you? And I'm like I do — and they said, yeah, we lost it. And by that time I was like shocker and I sent them an archive. So where am I going with all this?
+
+The my side note on why game preservation doesn't happen, why things get lost. I think preservation is super, super important. I'd love that people do it, but keep in mind that individuals and organizations actively work against preservation.
+
+The amount of stuff that's been lost about Fallout and its early development saddens me. And I had it I had that in digital form and was ordered to destroy it. So you may think I've got a lot of stories about Fallout here and a lot of notes. That was stuff that I happened to keep in like a personal journal or that. Happened to be in paper format, that got stored somewhere unknowingly. So much has been lost and that's the stuff I can tell you about so many other games that came out in the 70s, in the 80s and 90s. The code is gone, the art assets are gone.
+
+Sure, you can try to crack open the databases and pull out those things, but you're only getting the final stuff. You're not getting the original source of code or art, and I think it's even happening for the knots and the tens and probably now in the 20s. Stuff is being lost. I think game preservation is important. I don't think it's treated as important by enough people and by enough companies. So anyway, netherly good question, and I hope you like my answer.

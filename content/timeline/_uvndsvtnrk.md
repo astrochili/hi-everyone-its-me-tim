@@ -1,0 +1,47 @@
++++
+title = "Making A YouTube Channel"
+date = "2023-08-20"
+id = "_UVNDsvtNRk"
+status = "transcript"
+tags = ["Real Life", "YouTube"]
+summary = "Hi everyone. It's me, Tim. Today I want to digress from Game Dev and just talk a little bit about what"
+references = []
++++
+
+Hi everyone. It's me, Tim. Today I want to digress from Game Dev and just talk a little bit about what
+
+I've learned in the last three months about trying to make a YouTube channel, in particular this channel. Um, so I started off. I just wanted to share some stories and technical details about game development. I've been doing it for four decades. Now I'm two years into my fifth decade and I thought I had a lot of interesting stories and Tech to tail, tech details that might even make sense to non-programmers. But my number one thing was I tried writing these stories and apparently I don't get the tone right. So I thought, okay, I'll do videos, and I looked around for a way of reaching as many people as possible, but without a paywall. I did not want to make people pay to get at these, so that landed me on YouTube, which I already had a subscription to because I keep all my music.
+
+It used to be in Google. Music, then I move to YouTube: music. Because it let me upload music, because I've got a huge, collection of ambient music, many of which is still not available as a as digitally streamable. So when I first started a channel, I made almost everything. All this uh videos were topics that I had already written down. I think I wrote down at least a month's worth of topics.
+
+People go: how do you do this every day?
+
+Well, first of all, I got a buttload of stories. I've seen so much stuff. The industry has changed wildly since 1981..
+
+I've done stuff besides coding. I've done design, I've done production, I've owned a company — and I took so many notes that I — just I — had a huge list of topics. One thing that's happening lately, though, is some really good questions are coming in, and I know I told people please put them on the um. I made a video for asking for topics, but the way YouTube gives me comments in the app, it just shows me the most recent ones first, so you can pretty much ask questions anywhere, and I'll probably see it I do read all the comments. Some of them, are a little bizarre, so I I don't respond to them. I I don't know what some of the comments are trying to get at um, but if you ask questions, and they're things that I think I have good answers for I would try to make a video about it.
+
+The first problem I ran into in making YouTube videos, though, were ads. Ads were immediately, from day one, added to my videos. Now, if you don't know this, ads are added all the time, but you're not given control of that. In fact, until you have a thousand subscribers and 4 000 hours of your videos being viewed, you have zero control over ads. And that was really frustrating to me, because people were saying, hey, there's a lot of ads here, what are you trying to do?
+
+Make money? And you don't make money on it either, you, only make money once you get to that limit. Where, when you hit a thousand subscribers and four thousand hours viewed, they let you make an AdSense account where you can then monetize the videos. But what I really did that for is it: let me control. Where the videos occurred, I immediately made them all skippable and I pushed them all to the end of the video. Yes, it does help me out if you let those run at the end, but what I did not want to happen is one that you had to watch at.
+
+The beginning or, Worse, one that just popped up at random in the middle of the video. Those are awful, still bothers me that for some reason, everywhere on YouTube's online help, it says that if you make a video at least eight minutes long, you can control where the ads go. I've made videos that are eight minutes, eight and a half, nine, and a half. One time one of them was nine minutes and 45 seconds. YouTube did not let me Place, control the placement of the ads, so it looks like it's really 10 minutes, where the break even happens, at least for me. So what I tried to do is not record a video. I don't want to just fill it with filler. So I try not to record a video Until I have at least what I think is going to be 10 minutes of content on it, which means some of my videos are.
+
+Hear me answering a lot of questions about Arcanum. Or here is um, a set of questions that people have asked that I didn't know where else to answer them. I did a video called no simple answers, where I just started collecting a bunch of answers that or questions that were too complex to answer in a comment but not long enough to deserve their own video. I may be doing more of those in the future. You guys ask them really good questions, some pretty hard-hitting questions too.
+
+Um, I will always turn off the pre-roll ads. Weirdly, YouTube makes me do that every single time. I've always turned off pre-roll ads and the next time I upload a video it automatically turns back on again, so that's frustrating. Um, you may have noticed, too, that my videos show up at different times in the morning, um, I used to make it up early and make them in the morning, but Seattle light is hard to predict. There are cloudy days, sunny days, and it gets it summarizes happening later and later, and it's hard for me to film when it's completely dark. So what I started doing is filming the day before, and that gives me time to edit and process it and then I put it up in the morning. But what I've noticed is the checks that YouTube does, which it says it's checking content, I think, for copyright violations, and see if you put up any music, um, that you're not supposed to.
+
+Those sometimes take really long and I have no control over that. Sometimes it takes two minutes, sometimes it takes 20 minutes. One day it took almost an hour. I have no idea why. Um, I don't know if, maybe it saw something and flagged a human, took up my video, but it never explains it just says checks are taking longer than usual and I just have to wait for it to be done, um.
+
+The same thing happens with thumbnails. Um, sometimes they take a long time to Auto generate. I don't auto-generate my thumbnails, I wait for YouTube. It gives me three randomly auto-generated thumbnails and says: pick one. And I try to pick what I think is the goofiest, most ridiculous one and also one that I haven't seen before. So if you see some weird thumbnails, it's just me being silly with the auto generation system. But sometimes one day it took it about three or four minutes after the check's finished, which sometimes take a long time for a thumbnail up here.
+
+So I don't have any control about that. Another issue I've had is: I'm doing this on an old Windows machine. I think I bought it in 2016.. So as of today, it's like seven years old, a little more than seven years old. It runs windows 10.. I noticed um frame rate issues. I've noticed uh synchronization between audio and video audio levels.
+
+Some of those I could fix. Some of them I fixed by starting my computer early in the morning and forcing Windows updates to happen, so all that stuff got out of the way. Usually when I had a problem, I'd look in the task manager and there's some windows process running in the background eating all my Cycles. So since I couldn't control for that, I let the computer run for an hour to get all that out of the way. I still had trouble with sound layers and it turned out what it was is.
+
+Windows has a lot of layers of. Control, for Hardware. There's the windows recorder. My machine has something on it called real audio. I had a Yeti mic and it had its own thing going on. It turned out that those three layers of controls not only all had to be set differently and independently, but when the yeti mic first installs on your windows, it installs as both a recording unit and a playback unit. And if you don't do not manually disable the playback portion of the Yeti mic, every time you set the Yeti's input level it resets it to 50.. About a minute later — I did not know this, but this has been solved by basically taking Windows completely out of the equation. My husband got me a zv1 camera. Um. I don't get any money for plugging it, I just really like it now.
+
+Um, it solved both the look and the mic issues. Because it has its own built-in mic and it's pretty good and the video is like 3 800 by 2200. It's roughly, it's really high-res and it's really good.
+
+In fact, I had to adjust my video editing software to compensate, because it kept trying to push it back down to 1920 by 1200.. So that got fixed, but now what that means is because it doesn't auto start and stop, like I could do through Windows software. From just hitting a key on my keyboard I have to turn it on and off myself. Also, there's some more editing involved in addition to the beginning and ending. I sometimes have to check, uh, in the middle. It loves to focus on things in the background instead of my face. It stops sometimes. It stops detecting my face as a face. I think there's something wrong with my base, um, but I think I've got all that stuff fixed. I think things look good, sound good. I got the ads under control. You guys are generating so many questions.
+
+I, I know. I literally know what my next two weeks of topics are going to be. I like it I hope you like it I hope this explains some of this Channel and some of what you're saying, and I'm enjoying making it. I'm glad you're enjoying watching it.

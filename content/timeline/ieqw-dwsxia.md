@@ -1,0 +1,61 @@
++++
+title = "Fallout: The Original Intro Story"
+date = "2023-10-06"
+id = "Ieqw-dwsXIA"
+status = "transcript"
+tags = ["Fallout", "Narrative Design"]
+summary = "Hi everyone. It's me, Tim. And today I want to talk about the original story intro to Fallout."
+references = []
++++
+
+Hi everyone. It's me, Tim. And today I want to talk about the original story intro to Fallout.
+
+Let me explain, and I'm kind of excited. So if you watched the video where I'm talking with Scott Campbell, he mentioned that he thought the Vault idea was mine. I thought the Vault idea grew out of our idea for making the game Alien Invasion and that people had hidden in vaults. But he said I remember you coming up with the idea for the vault after the brainstorming and that you even said you dreamed about it.
+
+Hey, wouldn't this be a great intro. And I was like, huh, you know, and I scratched my head. I mean, keep in mind, this was, this would been 94, 95. So this was we're talking 28 years ago. But then, similarly, when I did my chat with Jason Taylor, Jason said that he came up with the idea of the water chip, but that that was well, after doing the vaults, and that led me to. Think: okay, if I came up with the Vault idea it would have to be after the brainstorms in the fall of 94, but before JT's water chip idea in early 95.
+
+So I started going through my stuff. I went through tons of archived files and paper notes and I found it. Both of those guys were right. I found a document called my story. I always name things. I had my story, my character, my idea. I really needed to name things better. But I found something called my story.
+
+It was dated January 2nd 1995, so this happened after the brainstorming meetings that we had in the fall. Now, after those meetings, we had decided on that, the game was post-apocalyptic and we had ideas for places. Junk toown existed, I mean junktown. I saw something mentioning, referencing a junktown design document in a production meeting note I have from December of '94. So junk toown was an early, concept. We also had the existence of mutants, uh, ghouls.
+
+Very little else, though. Particularly we had no idea who the player was or how the game was going to start, apparently over Christmas break.
+
+I chewed on this idea and this is what I wrote. I'm going to read you the intro I wrote: gerps, survivors.
+
+The Vault, a Subterranean fallout shelter, a deep Cavern expanded and modified to house a thousand people for years after a nuclear Holocaust. A small town of homes, businesses and government offices, all located hundreds of feet inside the heart of a Granite Mountain. Engineers and Architects had planned for everything the inhabitants would need to continue their lives underground. Inexhaustible power came from a large geothermal heat exchanger sunk deep into the mountain, a great sistern was filled with water and a recycling plant was built to keep it filled indefinitely. An atmospheric plant scrubbed the internal air and returned it refreshed to the caverns.
+
+Store rooms held crates of radiated food packets for the survivors to consume after the world itself had become irradiated, and the door. A ponderous steel airlock which protected the Vault, was set into its reinforced concrete frame to keep the outside world away. But on the day of the event, less than 100 people made it inside the Vault.
+
+No one heed the emergency broadcast. The police loudspeakers, the air Sirens. These things had happened before all around the country, and every time the outcome had been the same: a false alarm, a night spent in a cold, dank shelter, with hundreds of others waiting for the announcement that the emergency was over and it was safe to leave. So most people stayed at home and so most people died. When the bombs fell, nobody is really sure what happened. The event, as it became as it came to be known, began and was over so quickly. A hostile Nation had declared global war and the military was on full alert.
+
+The hundred who came to the Vault sat in the entrance Cavern just inside the door and waited for the announcement to return home. Then the door closed automatically, for several hours a great rhythmic pounding was heard. These people, those people who had made it inside the Vault, tried to learn what was going on outside, but the radios and televisions inside produced only static and the radiation monitors mounted outside continued to show a rise on the internal monitor. Gradually, the people realized that they were going to be inside the Vault for a long time. They gathered up what meager belongings they had brought with them and moved into the housing areas designed by now dead Architects.
+
+They ate the food, drank the water and breathe the air. Slowly they adjusted to their new life in the vault. Over the years the radiation levels had dropped to Safe, a safer level, and several volunteers had gone outside through the door. Their objective was simple: Scout the area and return. Each volunteer had learned survival skills for a variety of situations and each one had left armed. None had ever returned, now, over 80 years after the event, Food Supplies are running dangerously low. Rationing has begun, but someone needs to go outside to see if there is even food out there, to see if there are people, to see what happened.
+
+Straws are drawn and you draw the short one. So right there you can already see that's a. That's the seed of Fallout. That's a lot of the ideas packed in there already. I love this now. This was intended to be a leaping off point and you can see, we already.
+
+I mean, there's things in there about the Vault holding a thousand people, and about um. People had left beforehand but which all made it into the game. But there's also things like, um. There's implication that it's the only Vault, because it's called The Vault. There's also um.
+
+It's mentioned that you have to go outside because you're out of food, and that eventually became JT's idea about no, the water processing has stopped. I had written at the end of this because I do this on everything I WR. Here are what I thought the advantages and disadvantages were of my own story. So people think I can be critical of other stuff, people's stuff. I do this on everything I wrote. So here's what I thought were the advantages and disadvantages of this story. I had listed four advantages.
+
+One: the player and the character both have no idea of what's outside. I loved that because you know I mentioned I don't like Amnesia. I think it's important sometimes for the player to understand that even the character he's made shouldn't know these things. Sometimes I play games, especially RPGs, where my players should know who these factions are, should know who these people are.
+
+I mean, didn't they grow up in this city? But they're.
+
+They're treated like oh no, all this has to be explained to you because it does, because the player doesn't know. So I liked that the player and the character leaving the Vault both know nothing about what's outside. Second Advantage: it's a good explanation for why the character is alone.
+
+You may Wonder why didn't they send out a group of five people or 10 people, one? No one wanted to go. Outside because people had left before it was seen as a death sends. I mean, the fact that nobody wanted to go out was why they had to draw straws. You weren't selected because you were considered the best or brightest, which worked great.
+
+Later, when we wanted to make dumb dialogue characters, you were selected completely a random and literally ordered out and, yeah, you were given a gun, but it probably wasn't even the best gun they had because those went out with the people first. So you were going out alone and IL equipped, and everybody who ever went out before you never came back. I love that, third reason I lik this story was it gave adequate time for groups like junktown to have formed. We'd already decided we wanted things like junktown. Junktown had already been highle designed before I wrote this, because it had been 80 years.
+
+What that's? Three, or four generations — more than enough time for junk time to exist. And then, finally, the fourth Advantage I wrote was that it gave a purpose for the player. Yeah, we used to call that a McGuffin, because it doesn't really matter, but this one kind of did I mean you had to get the water chip or people would die — and also it gave you like a focus. You were, you weren't just wandering around randomly, you had something out there you had to do and it was important. So I think that that element of making the player feel both directed and important, while not being special, was perfect in this story. The two disadvantages I wrote down was one: it had a time limit because they were going to run out of food. Um, even back then I didn't like time limits.
+
+I mean, this is what? January of 95. I like. I just wrote something and it has a time limit inherent in it and I don't like that. The second reason I didn't like was interesting I wrote down: I don't like that there's a home base for the player to run back to. It's kind of hard to get myself in the mindset of me back then, but I think the reason I didn't like this is I liked the idea of a player wandering the Wasteland alone and with no safety net. Having that Vault, something that you could get back into, felt too much like a safety net, like there was some place you could run back to that nothing could get into, that had food and water for you, where you could rest and heal, where you could ask people questions. So I was worried that not only did it provide too much of a sense of safety in a game that I wanted the player to feel scared and alone in, but that also meant the narrative designers were going to have to support writing dialogue for all these people back in the vault. So I saw those as disadvantages. I also wrote: here are two alternatives to this story. I wasn't like gripped by this story so I wrote one of them.
+
+This is January of 95. I wrote: maybe the player awakes from cryogenic suspension H. Maybe that would be a good story. And the other alternative was: maybe the player is the last survivor, Survivor from a group of people killed by mutants. So the game starts. I imagine the Cinematic of you eing out an existence, maybe in a cave, maybe in a ramshackle house with a few other people.
+
+Mutants show up, kill everybody but you, but the. You manag to fight off the mutants, either they die. Or they run off.
+
+What I liked about this one was it explained why you were alone, explained why you didn't have a safe place to go back to. Obviously mutants could find it, and it also introduced the big baddies right at the beginning. It's like Yik, these, guys are scary.
+
+Obviously we didn't do this and in fact Part of Me loves how much of this survived into what shift and Fallout. But what I really love is: a — that I keep everything. B — that I wrote something like this and we used a lot of it I mean, I told you after Temple I thought, okay, I'm a bad writer, I should never write again. I wrote this. I like this. I also love that it mentions gerps, because we were totally bought into being gerps at that point, and I think it's a neat intro. What I love is and this is why I loved working with the team I did — the people on the team took this and made it a whole lot better. I think the water chip idea makes it a whole lot better. I think the idea of the making a bunch of different vaults was a lot better. I think the way the dialogues worked both in and out of the Vault, were good. Basically, this was The Germ of an idea that other people grew into something fantastic. Anyway, I thought you would like hearing it and I thought you would like a window into the very beginning of the creation of Fallout, so I hope you like that.

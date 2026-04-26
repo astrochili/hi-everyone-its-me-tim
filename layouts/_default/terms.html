@@ -1,0 +1,14 @@
+{{ define "page" }}
+  {{ $terms := .Data.Terms.Alphabetical }}
+  <article>
+    <header>
+      <h1>{{ .Title }}</h1>
+      <p>Browse the archive by topic and format.</p>
+    </header>
+    <p class="home-tags-inline terms-inline">
+      {{ range $terms }}
+        <span><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> <span class="meta-inline">{{ .Count }}</span></span>
+      {{ end }}
+    </p>
+  </article>
+{{ end }}

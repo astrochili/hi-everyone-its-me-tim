@@ -1,0 +1,47 @@
++++
+title = "Being A Good Storyteller"
+date = "2024-08-16"
+id = "p33mPU5ayjk"
+status = "transcript"
+tags = ["Writing"]
+summary = "Hi everyone. It's me, Tim. Today I want to talk about being a good story teller."
+references = ["QvgttRI7oSU", "-GmXrTBX7p8", "u0pJN3jpUjQ", "bNf601IoBpc"]
++++
+
+Hi everyone. It's me, Tim. Today I want to talk about being a good story teller.
+
+This is actually a response to a question from Arda Osler 631, who asks: could we get a video going over how you got to be such a good Storyteller, if that's the appropriate term? First off, Arta, thank you, that's really sweet to say. Um, normally I guess I wouldn't do a whole video on this, but it's Friday fun day, so let's have fun. Um, at least I'll have fun. Talk about me, okay, so I have heard that for a long time I've had people tell me I tell good stories. I got it in, you know, high school and college during gaming sessions. I got it a lot.
+
+Um, when I was at my second video game job at interplay, I'd go to lunch and people would say that I told good stories at lunchtime. I even got it when I taught classes at UCI. Uh, I found out that some of the students called my, like um, a professor. Taught on Tuesday and then I taught on Thursday for the Tuesday Thursday project class. People called my Thursday hour uh, Tim Kane Story Hour. So I've gotten this feedback before.
+
+Oddly it's just for spoken stories, when I've tried writing things like my Memoir or I tried writing a book during the pandemic, it's come across as dry and boring and not very good. So apparently, whatever I do works when I say it, but not when I write it, and I've even tested that. I've done a few videos where I'm quoting, I'm reading from my Memoir, and that went over well. But when you just, apparently you just read it, not so well there's something about the speaking part of it, there's something about the oral part. So I thought about this. I actually sat down and went, hm, why would this be way? And I thought of three things.
+
+The first one is genetic. My dad was super gregarious. He was one of those people that he knew — the neighbors, his co-workers. He belonged to a club in DC called the touchdown club. We lived right outside DC, in Alexandria. He worked downtown, um, at Western Union in public relations, uh. So you know, there you go. He was very gregarious, his name was Richard, but everyone called him dick Kane, and so I'd go sometime to visit him and people go: hey, dick Kane, you must be dick Kane son. Hey, we' go to the touchdown Club. People go: hey, dick, how you doing?
+
+You know, it was interesting, because that's not how things were like when I was out with my mom tended to be very quiet. She mom, my mom, tended to be very quiet. She was also very patient, very smart woman. Uh, I've talked about her a lot on. This.
+
+People used to ask her. I remember being out when I was really little and I have four older siblings and we were all out together somewhere and I was really young and someone asked my mom, it's just you with five kids, how are you keeping them and behaving so well? Do you spank them? And my mom held up her hand and pointed she had severe arthritis. She had had it before I was born. And she said I can't spank these kids. And they were, and so this woman was like: how do you do it? And my mom said: I explain it to them, I explain how I want them to behave, and I remember who doing that a lot when I was little and I was doing something and she'd stop me and go: hey, I need you to do this instead, like we're out, I need you to have a lower voice because we're not at home, you're not in your own yard. And she just explained things very carefully.
+
+I wanted to take the dog to the grocery store with us once, because I was like I think the dog would like going shopping. She had to explain you can't take a dog into a grocery store. There are rules against it, because the dog isn't very clean, the dog might lick things, the dog might go to the bathroom in the store. You just can't do it, and I was like, oh okay, she would do these things and explain it and I'd get it. So I think I got some traits from both of them. Um, from my mom, it was reading people and being a good explainer, and from my dad, it was just being talkative and generally projecting a very happy confidence, which is very much. From my dad, and I think it's genetic, because I don't think I learned it as much as I just got it, because my parents got divorced when I was in elementary school and I don't have a whole lot of memories of my dad — uh, at least not when I was little — and but I act like them and some of my cousins say I look like them and so this has got to be genetic, there's got to be a strong genetic component to that.
+
+Sorry, I know that's not something you can learn if you want to be a good Storyteller. But my second reason I think I'm a good Storyteller is going to be unusual. I had speech therapy in elementary school. I could not say s's or RS and certain consonant combos, I just misspoke them. So it was my speech impendent, was so strong that people thought I was from another country.
+
+Apparently I sounded Welsh, I don't really know that. I did have somebody ask if my parents were from Wales. Um, my speech therapist — that was her first question. She goes: are your parents immigrants?
+
+Um, because I just spoke English with such a off like my Oz. My Oz were like this, like who's winging to dough Bell, and so I would go to speech therapy several times a week over the course of years. This wasn't a big deal, because by fourth grade I was already taking classes uh, a year or two in advance. So I was already leaving my classroom to go take uh classes in the fifth or sixth grade. So a lot of people in there, just if you know, third bell rang and I just would get up and leave and they thought I was going to another class. I was actually going to speech.
+
+Therapy, well, how does storytelling work into this? Well, my therapist would sometimes just have me come in and talk. She'd say, just talk, I just want to hear you talk. So she'd have me tell a story like what: you, what did you do last night?
+
+Did you do anything fun this weekend? Have you ever been down to the National Zoo?
+
+And things like that, and then she noted something. She noted that I would, even though I spoke quickly, I would avoid saying certain phony, like if an S, A Hard s or an R were coming up, I would change a word. For example, I wouldn't say rocket or spaceship, I would say ship. And she noted me doing that. She, pointed it out, so then she'd pull out books and she'd have me read from the book to her, and these were books that were designed to have a lot of those letters in them. I remember the r book was Ricky and his red retro rocket and I.
+
+I hated that book, um, but she would have me speak it and she said, even though I had the impediment I would, I could read and speak well, so you just taught me how to say those letters and those consonant combinations, and it took a couple years, but my impediment disappeared. Now what's interesting is, um, she encouraged me at school plays to sign up to be the narrator, and I was pretty good at it. So even after I stopped speech therapy, I was still the narrator in A lot of school plays. I don't know if this taught me storytelling itself, but it certainly taught me how to project, how to talk, how to speak without just reading directly from the page. This helped a few years later, in early high school, when I started playing D and D, when I started playing tabletop RPGs. I played a ton in high school and college and work a ton at interplay and at troa and I was usually the DM.
+
+At first it was because I was the one who knew the rules. Later it became that I told good stories when I was the DM. I kind of understood that the DM wasn't there to try to kill all the players. The DM was there to tell a good story, to make tension. Tension was a good thing.
+
+The players should feel threatened at times and have a fear of death, but that the game should be fun and even sometimes funny and have story beats. And you know there's combat followed by, you know, exploration, followed by talking with NPCs, and that it would, it would flow like that and I think those learning how to do that, you know, running a session and seeing whether people enjoyed it taught me what those story beats were in a much more direct way than writing on paper and then seeing what people thought of my written story. However, it turned out, it only really taught me how to do oral storytelling and not written storytelling, which is fine. Um, so I think those three things — I think genes, speech therapy and tabletop RPG, dming — basically taught me how to be a good Storyteller.
+
+Now, the first two of those may not help you very much. You can't change your jeans and you — I, you know I can't. You can't go to speech therapy unless you have an impediment, but you can run tabletop games and if you're the one running it, try to tell a good story.
+
+Try to get feedback from your players on how your stories are and learn from it. Take, the feedback — hopefully they're being constructive — and try to learn how to do good story beats, how to vary what's your stories are about, how to vary the, EB and flow, the, rhythm of your stories. And I think if you become a good tabletop role playing dungeon master, I think you can become a good Storyteller and I think that's what worked for me. So I thank you very much, Arta. That was a very good question.

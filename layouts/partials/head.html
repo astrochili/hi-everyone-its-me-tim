@@ -1,0 +1,34 @@
+{{ $socialTitle := .Title }}
+{{ if .IsHome }}
+  {{ $socialTitle = .Site.Title }}
+{{ end }}
+
+{{ $description := .Site.Params.disclaimerShort }}
+{{ if .IsHome }}
+  {{ $description = .Site.Params.siteDescription }}
+{{ else if .Description }}
+  {{ $description = .Description }}
+{{ else if .Params.summary }}
+  {{ $description = .Params.summary }}
+{{ else if .Summary }}
+  {{ $description = .Summary }}
+{{ end }}
+
+{{ $css := resources.Get "css/main.css" | minify }}
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ $description }}">
+{{ with .Site.Copyright }}<meta name="author" content="{{ . }}">{{ end }}
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ $socialTitle }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="twitter:url" content="{{ .Permalink }}">
+<meta name="twitter:card" content="{{ if .IsPage }}summary{{ else }}summary{{ end }}">
+<meta name="twitter:title" content="{{ $socialTitle }}">
+<meta name="twitter:description" content="{{ $description }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+<title>{{ .Site.Title }}{{ if .IsHome }}{{ else }} | {{ .Title }}{{ end }}</title>

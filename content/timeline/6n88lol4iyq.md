@@ -1,0 +1,45 @@
++++
+title = "Enemy Progression"
+date = "2024-01-17"
+id = "6n88lol4IYQ"
+status = "transcript"
+tags = ["Combat Design", "Progression"]
+summary = "Hi everyone. It's me, Tim. And today I want to talk about enemy progression."
+references = ["za5u4j6lc-w", "RACW99lvJJg"]
++++
+
+Hi everyone. It's me, Tim. And today I want to talk about enemy progression.
+
+Stagi Ayatollah asks: well, says a good topic for the youngans might be beneficial — is your thoughts on how to handle enemy scaling, something that's fumbled a lot these days, IMO, perhaps in a border topic of how to efficiently handle enemies in general. I replied to this one and said I didn't really want to talk about enemy scaling, but I would talk about enemy progression because I've mentioned in another video that I don't like level scaling. I don't like it when the enemies are adjusted automatically to fit your level and I also don't like that how it's often done, just as here are a bunch of extra hit points and better armor and better weapons, to the point where you're wondering why is a bandit who's literally carrying around 40,000 gold worth of weapons and armor attacking me?
+
+Shouldn't he be retiring somewhere? Hasn't he banded it enough?
+
+So I want to talk about how high I handle enemy progression, which is basically how to make a bunch of creatures to put in your game and have them get naturally harder, how you can set them in to be more difficult, uh, how you can make spawn points that can respawn more difficult groups as you go along. So, basically, enemy progression consists of two things and that's it. More so the number of enemies — more is harder, and a variety of enemies — more variety is harder, and this can be Variety in the individuals — you know what like, each individual creature can do more things — or group variety, where there are different types of creatures and or enemies and they can do different things.
+
+So let's talk about that. I'll give you a bunch of examples and then I'll talk about a ton of variations you can do. So let's go to the standard Bandit. So the first time me you encounter Bandits, maybe. There should just be one, lone Bandit. Hey, he pops out with his dagger. Give me your money.
+
+The next harder one would be a couple Bandits and they try to flank you, or one of them uses a bow while the other one uses a sword or whatever. Then the next harder is three to five Bandits. Now you got a bunch to worry about and they can have all kinds of different weapons on them. Then you can have the same amount of Bandits, but they also. Now they have trained attack wolves and you have to deal with that. These are things that I think naturally make the Bandit encounter harder and harder as you go along. So what I'm basically doing here is increasing the number of creatures and the variation. So so let's talk about the variation.
+
+Increasing number is easy. Let's talk about variation. Let's talk. Let's start with.
+
+Attack, variation, so you can have one kind of creature, whether it's a bandit or, you know, a, wolf or some monster or whatever. You can give them various kinds of attacks. Melee attacks, meaning they have to run up to you, they have to attack you physically. These are things that tend to be parried. They're good units to have to try to flank the player. The player can try to use his Parry or whatever skills you have for without Shield, stuff like that. Then you have ranged attacks so the enemies can stand at a distance in attack, whether this is bows in a low Tech game or guns in a high-tech game, it basically means they don't uh close with you, they attack you from a distance. This requires a whole set of different tactics from the player and defenses, and then to make range even harder you can. Have AOE — ranged attacks. Those are attacks that hit and explode to do damage in an area.
+
+The reason AOE are good and a bigger Step Up is they can not only hit the player and his companions — companions, - but aoes are good for getting around corners and behind cover. So something that can — and again this could be Tech, it could be a grenade, or it could be something that can breathe fire or acid or something you can always increase attack variation by giving better weapons and armor. So they go from having, you know, a knife to a sword, to a two-handed sword and that does more and more damage, and you can give them better armor. They can go from having no armor to cloth, to leather, to chain, to plate.
+
+But you should do that within reason. Like I said, if something's attacking you and it doesn't make. Sense why they would have all these things, then they shouldn't have these things.
+
+Um, another thing you can do to force attack variation within a unit is you can give them limited use weapons. Like maybe they have a rocket launcher but it only has one rocket or it takes a long time to reload it, so they always open with shooting a rocket at you and then they switch to a bow or they switch to their sword. That's a good way of moving things, uh, getting things mixed up. So if the enemies change what they do, the player will have to change what they're doing. Movement is a great way to introduce attack variation. In addition to things that can just walk up to you and attack or attack from a distance, you can have things that move super fast, that can Sprint or that just naturally move really fast.
+
+You. Can have things that can jump. We did that in The Outer Worlds. We had a, robot that would jump in to attack uh. Units that can hover are really cool. That can go up in the air and then attack you from up there, requiring you to either use a ranged attack or to take cover until they come down.
+
+Similar full-on flying units can be super fun. Um, it's a little harder. Once you introduce flying units, keep in mind you're going to make it very hard on your melee. Only player characters, so give them something they can do. Maybe they have to land occasionally, um, to do their big attack, but you have to have something.
+
+Other things include. Other uh variations include summons. This is when a unit can bring in more units. Now, maybe this is Magic. They cast a spell and a portal opens and enemies come. Out, maybe it's Tech. They pull an alarm on the wall, you hear — you know — a claxon going off and then more guards pour into the room.
+
+I've also seen games that have things just birth stuff, you know they're. Some part of them opens up and baby enemies pour out. That can be really cool because suddenly it introduces it a lot more units into the field of battle and for players who have attacks that require them to charge them up by hitting or killing things, those new extra units can really help charge those attacks. Another thing I like putting on enemies are environmental use and creation, basically enemies that do things that exist in the environment. Apart from them, this could be anything from — uh, Bandits that set traps around their camps. So if you try to bring, if you try to attack them, if you try to go to them, you're going to have to look out for Bear traps and trip wires and all those kinds of things. But also I mean it's enemies that are aware of their environment so they can use cover. They duck behind tables, they duck behind chairs trying to get cover from your rang fire. Also, if they have attacks that leave hazards in the environment, that's a cool way of adding attack variation as well, so you can have something that when it breathes fire it catches things on fire and if you're near those things on fire you take extra damage. You can have things that breathe acid and getting hit with that is really bad. But then it leaves an acid pole on that spot that if you move through it's bad, if you stand at it's even worse, and maybe they last the whole combat, maybe they only last a certain amount.
+
+Of time and then disappear both ways. You can do both ways and have the ones that disappear — be the introduction of this thing, and then have ones that stay longer, be the advanced version. So just right here, with the number of enemies that you throw at them, a variety in those enemies, both in the variety of how they attack, move, summon are, use environmental stuff or variety of different types. You know Bandits with wolves, um, Bandits with you. Know other types of enemies, like, maybe Bandits and guards attack you at the same time in some Town that's isolationist.
+
+Just mixing those groups can be really fun and can be unexpected. Having, um, a bandit that has a wizard who summons Undead and the undead require a different way for you to attack them than you attacking the bandits. Maybe they need magic weapons, maybe you need holy water.
+
+That's a cool. Thing, because just by adding that one wizard unit, who can summon different types of units, you've made that enemy encounter much more difficult. So I like doing things like this rather than just saying, okay, they've got more hit points and crazy armor now, so, anyway, I hope that answers your question, stagi ayatolla.

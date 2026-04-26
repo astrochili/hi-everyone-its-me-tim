@@ -1,0 +1,47 @@
++++
+title = "Temple Of Elemental Evil Press Event"
+date = "2023-10-04"
+id = "Fo-tYpW9m98"
+status = "transcript"
+tags = ["Temple of Elemental Evil", "Press Event"]
+summary = "Hi everyone. It's me, Tim. And today I want to talk about the Temple of Elemental Evil press event."
+references = []
++++
+
+Hi everyone. It's me, Tim. And today I want to talk about the Temple of Elemental Evil press event.
+
+I had a lot of fun talking a few days ago about going to the Fallout 3 launch party, so I thought I'd talk about this, because this is an actual crooked game. This happened in July of 2003. Atari was doing a press event, a combined preced event, for a lot of different games that they had, and they were doing it in London, which I thought was kind of interesting.
+
+I was not gonna go. I'm not a huge traveler. I don't mind flying, although I don't like driving, but I'm just not a very good traveler. I've gotten better since, but back then I was like the idea of, you know, taking a long flight and then spending a week in London wasn't a good idea for me.
+
+Besides, we were trying to finish Temple and there was a lot of stuff left to do. So I think either, Tom. Decker, who was a producer and a narrative designer along with me — or Mike McCarthy, the lead artist, one of them, were going to go to this, but it turns out of course you need a passport. And since we weren't told about this until, I think, about a month before, just a few weeks before, you weren't going to get a passport that quickly unless you expedited it and spent a day up in La. So I had a passport, I went. But just to caveat about this, my stories, my notes, are really poultry around this time. This is the very end of what I call my last, my lost decade. So it wasn't until after Temple shipped that I decided I need to start doing more than just spending six or seven days a week at the office, so I didn't take a whole lot of notes on this. I did take pictures, so I'm gonna be able to show you pictures, some of them, just like I had to look at them and go. What was this anyway? So I flew LAX to London very long flight and then, as soon as I got there, I was whisked away.
+
+Uh, Target sent a car to heaver Castle, which is about an hour south of London. Beautiful, um. They put me up in the castle.
+
+Uh, it has a, an extension that's more modern, huge rooms, um. Got a tour of the castle. You know the inside and the outside: beautiful grounds, hedges, swans, ponds, the whole works. And, coming from Southern California, London and its environment — that I should say England — is very green and very wet.
+
+One thing to mention about the castle was it was plumbing and electricity were added later. It predates all of that, so, like my bedroom, the bathroom was simply the room next to it that they turned into a bathroom. So it was huge. It was like there was a tub in one corner, uh, sink in another Corner, a toilet, another corner. It was very strange. It was like being in a was like. It was like being in a full-size bedroom that just looked like was decked out to be a bathroom, which is what it was. But it also meant that the electricity was not set up to have all these people show up and set up PCS and monitors and big TV screens and stuff. We blew out their fuses several times. They had to run long electrical cords to other parts of the castle just to put us onto other circuits.
+
+Atari had a really good IT guy who helped us out. We couldn't have done it without him. We, then spent — I think it was a couple days doing the Press event. The first day was the main one. Most of us gave demos. I demoed tempo of Elemental Evil went really well.
+
+I showed um a special map we made that we could show off a fight with Hill Giants. Giants — Giants also want went through some of the random encounter maps and I think I ran into Temple. The temple secret level was there showing off Magic, the Gathering Battlegrounds, which looked really cool. Um, artifact entertainment was there. They showed off Horizons, not Horizon zero Dawn. This is another Horizons called Empire of istaria.
+
+There were other demos shown. I feel bad, I didn't take notes and now I don't remember what they were, but it was a really cool first day of demos. That night, uh, Atari set up a really cool reception with musicians playing classical music. I should say music of the time — on instruments of the time, wearing clothing made to look like you know people that would wear. So that was fun, and then we went inside and they fed us what would have been eaten around that, you know: soups and meats and veg, vegetable dishes prepared from the era. It was very cool.
+
+Uh, the next day we did another. There was more demos and there was also a lot of interviews. So I often found myself sitting outside when the sun would come out, um, at various tables that they'd set up around the grounds, just doing interview after interview. One reason they did it in England is all the different press from all around Europe came there rather than come to the states later to see it. So I found myself just doing interview after interview with after interview after interview with people who otherwise wouldn't.
+
+Have been able to talk to anybody from Troika. So that was really cool. It was very exhausting, um.
+
+There was some mistake made and none of us had rooms that night, so we had to pack up at lunch and throw all of our bags in a truck and then we were taken a few miles away to a gulf, Resort where we spent that night. And then we came back the third day, for I I think it was a few last rounds of interviews, and then we were whisked up to London and I thought there was going to be more interviews or things set up, you know, maybe even television. Nope, they were done, um. Luckily I had added a few extra days, so one of the uh comms, uh Communications guy from the Atari London office showed me around London. We took the tube, saw a lot of different sites: Piccadilly Circus, um I it was a blur. We went really fast, he walked really fast, and then we ended up eating that evening at the ivy, which is a really fancy restaurant in London, delicious food. I had the next day free all by myself, so I went to the British museum, which is pretty awesome, went to Saint Paul's Cathedral, which looked really cool, but the exterior was being renovated so it was covered in scaffolding. I crossed the Millennium Bridge, having knowing no idea where I was going at that point, and I came upon the Tate modern, which turned out to be one of the highlights of my trip: very interesting eclectic art, I think.
+
+The first thing I saw was I walked into a room and there was a urinal — I'm in journal — just lying on the ground, and I wasn't sure what was going on. It turned out it wasn't art installation. I didn't get it went to the next room and nobody was there. Nobody was in the room except for a guard board by the door, and hanging upside down from the ceiling was a grand piano and I looked at the guard and I looked at the piano and looked back at the guard and I said, can I walk under it? And he just went, so I went to go under it and I was looking up at it when all of a sudden its connection broke and it fell and it got just a few feet over my head and it exploded. The keys came off, strings popped out, the top fell open and it went and I was like I was like this under it, looking, and I looked up at it and it had stopped and I noticed all the things that popped off. It were connected with wires and it slowly lifted up and started to reassemble itself.
+
+And I looked over at the guard and he was going and I was like what was that? And he goes. It does that every hour.
+
+It was hilarious to see your reaction. I was like happy to entertain. So I think that night there was a huge soccer match, so the entire Hotel, every floor, people were yelling and screaming. I got up at 4am, drove back to Heathrow, came back to the States, so interesting thing at the end — and this is another reason I don't have a lot of notes — so days after I get back — this was the end of July, uh, 2003, so very early August — just a few days after I got back, kidney stone, I woke up.
+
+In the middle of the night in agony. Went to the ER, got pushed to the head of the queue on a CT scanner. They found the kidney stone. They gave me some really powerful intravenous drugs, sent me home saying it would pass in a day or two. It did not.
+
+That kidney stone was in me for four months, hurting the entire time. So I was on painkillers like Vicodin and something else strong the entire time from August until almost Christmas of 2003. So basically during the final stages of Temple, when balancing, bug fixing and other fixes were happening, I was effectively knocked out of my gourd on painkillers. We shipped and we did several patches. I was knocked out of my gourd on painkillers. So that's why I often tell people Temple wasn't my best effort, because for a game that took us was scheduled.
+
+For reading 18 months and was done in 20, I spent four of those months knocked out of my gourd on painkillers. So I usually would have taken notes when I got back on this press event, but all I had were my photos. So I hope I remember most of it and I hope it's interesting to see kind of like this is a 2003 Time Capsule of the game industry, but it was a fun event and it kind of made me sort of like traveling again. So there was that. Anyway, I hope you like it.

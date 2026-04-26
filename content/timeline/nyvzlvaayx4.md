@@ -1,0 +1,51 @@
++++
+title = "How To Give Experience Points"
+date = "2024-02-16"
+id = "NyVZlvaAYX4"
+status = "transcript"
+tags = ["Progression"]
+summary = "Hi everyone. It's me, Tim. And today I want to talk about how to give XP experience points."
+references = ["0NHDATFgswY", "vlkksy6casU"]
++++
+
+Hi everyone. It's me, Tim. And today I want to talk about how to give XP experience points.
+
+This is kind of an extension of a video I did earlier — and I'll link it below — on experience and level progression, but that was about how I recommended you give it out. But Gabriel matusovich — I hope that's the right pronunciation — asked me how to give out XP such that different player builds would gain XP at the same rate. So no matter how you play the game, you'd roughly be the same level as you progress through it. So what we're really talking here is the rate of XP gain in an RPG.
+
+Now it's probably M seems to make sense that you should jump into that and go: oh, let's talk about that per hour. How would you control that per hour? I don't really see it that way, because people play — at least my nonlinear RPGs in very different ways. I would prefer to talk about it per act, and by that I mean per act. In your story, and uh, by the way, you do have a story line by now, right, remember? I said: you make a setting, then you make your story, then you make your system mechanics, which is now you're thinking about how to give XP. You should already have your story done. If you don't stop, go make your story now.
+
+I said in Fallout we had three acts, in Arcanum we had 27. I think a storyline Falls somewhere between that. So let's say you have 10 or 15 acts. You should plan on what level you want the player character to be at the end of each one of those acts. Think about it in terms of the total level cap in your game or, if there's not a level cap where you expect them to be at the end, and then figure out the rate that you want the XP to be gained.
+
+Per act. I highly recommend — and this is after me doing it in many different ways in my games — that you only give quests. You only give XP from quests. You don't give XP for killing things. You don't give XP for using skills or not being seen when you're stealthing. It's just from quests, and the reason for that is, with a quest you give someone, you give the player a quest and then you give them XP when they achieve it. But you don't care how they complete it. They can complete it any way they want. So you tell them to go get an item from some cave. They go to that cave.
+
+There's a bunch of Bandits there, maybe they killed all the bandits, took the item. Maybe they snuck by the bandits took the item. Maybe they went in and told the bandits: I'm ready to kill you all right now.
+
+On the spot. Give me the, give me that item. And they do, maybe you go in and go.
+
+Hey, uh, I don't really care about you guys, I just really want that item. What if I buy it from you or trade you this other item, whatever your skills are set up to do so? That way, already you've helped solve the problem of making nonlinear game, because you don't care how that Quest is completed, just that they completed it now I've — I've in the past I've vacillated, and I still do, on whether to give XP for achievements. It really depends on the kind of achievements you give. If they're aspirational achievements — like you've completed 50 side quests in this Zone — okay, I can see that being something You' have XP for. It's like a little icing on the XP cake.
+
+You've already given them, but if it's achievements, I've. Seen like you've Fallen 100 feet and survived or you've killed 50 ants — no, I don't want to start giving XP for achievements like that, because that XP is what you use to tell players. This is what I want you to do and this is what I expect you to do. If you start giving XP for lots of other things, it means that the player is being told to do those things as well. So now of suddenly kills and use of skills and achievements are all things that the player's being told.
+
+You should do this, because the one reward that really matters to you is XP. Suddenly, players are being told to play your game in the following way: meet an NP, meet NPCs, talk to them a lot, make sure you go through their whole dialogue tree to find any speech skills you can get XP for. Then get all their quests complete all those quests, do it as quickly as possible, then steal all their things and then kill them, because all those things give you XP and that is the maximum XP you can extract from that NPC or set of NPCs.
+
+But is that really the way you want people to play your game? Because that's how you're telling them to play your game. What I prefer is to tell people to play my game any way they want. Just play it any way you want. Doing Quests for people and advancing the storyline is the way you will go up a level. So it kind of makes you wanting to tell a story and then wanting to get a story align.
+
+It's this, it's the classic: make the goals align with the, make the player goal align with the um designer goals. The same way, I've always thought if employers just aligned, their goals with the employees, everybody would be a lot happier. But that's a whole other video anyway. So how do you do this? Let's say you agree with me at this. Say, let's say you agree with me at this point.
+
+You're like: okay, I'm going to make a bunch of quests and I'm going to have them give XP. Well, the players can make lots of different player builds. So what I recommend is you divide them into the main quests inside quests. Remember, main quests are ones that you have to do to finish the game. Side quests are ones that don't have to be done. They — that's the reason their side quest and they don't necessarily have multiple Solutions. So you may have a side quest that doesn't really have a talk solution and then what you do is take all the XP you want to give that you've spread among all the acts, and give about 80% of it to the main quests in each of the act. So the idea being, if the player just does the main quests, they will hit each Act with about 80% of the XP they could have gotten and they will finish the game not at level cap but about 80% of the way there.
+
+Remember, there's lots of different player builds. So those side quests the player may do some, they may do all, they may not do all of them, so that gives them another 20%. They can get a few extra levels from that, but they don't need them to finish the game. Then what you do is have each Act have roughly the same number of Side Quests for each player build. So if there's some combat side quests, make sure you have some stealth side quests, make sure you have some dialogue side quests and that way players feel like they can do those things if they want to get that extra 20% want if they want to get that extra 20%, if they actually want to be at the biggest level cap, the biggest level they can be before they finish out an act.
+
+But they don't have to. They can finish the ACT in the game. It'll be a little harder but they can do it. But there's enough side quest for them to feel like they can also get extra XP if they need it.
+
+Now this turns out to be really hard to do for a lot of reasons. Some of them were things I didn't think of at the beginning and then other things were things that just are going to happen and all the planning in the world isn't going to help you avoid all of them. So the ones that I planned, that I designed for, learned to design for was keeping the XP that quests Grant in an external table. So a quest doesn't say give 500 XP. The quest says give level five XP. And then there's a table that says Okay, a fifth level Quest gives 500.
+
+The reason you do that is you will be adjusting things later in the game when the content is in and you roughly know what it is. Which brings me that second point of things. You can't predict.
+
+Every, game I've ever made has had content cut from it for various reasons. You couldn't, didn't have time to finish it, was too buggy, it kind of contradicted what the theme of the game was and you came across it and you're like, oh, I got to go talk to that Quest designer because this isn't what we want. Or, um, there's a whole, there's a whole range of reasons why you cut content. So once you accept that quests will be cut and NPCs will be cut, whole areas of your game will be cut. You have to acknowledge that with them goes the XP you were going to Grant. So if you're making your game and towards the end things are being cut, you need to figure out how to increase XP so you still hit that 80% goal for each act. So and the reason you can't just do it across the board and say let's just may have Quest give 10% more, is if a lot of your cut content was an act two, you probably just want to go to the quests. Maybe act two was Quest level 3 through five. You want to go to Quest level 3 through five and bump up how much xp they give, but don't adjust the lower level. And higher level quests. This kind of tuning is something you can do right up to the point the game shifts and you can even have that be a goal for the people in QA to do, saying hey, are you adequate level at each Act to do the subsequent Quest you're going to get in the new act.
+
+So this is hard to do. I'm sure you've played games in other people is where it feels like it's highly variable and the difficulty as you go along. But having those external tables that let you tune things by Act help a lot to let the player be the appropriate level they need to be, no matter how they're playing, how fast they're going through each Act and what kind of build they have. This is the closest I've ever been able to come to a like an engineering approach to this.
+
+Problem other than just seat of your pants, run through the game, adjusting quest, uh, XP here and there. Now, if you have other things giving XP, it becomes a nightmare really quickly, which is the other reason I don't like to give XP for kills and skill use and even achievements. If you have one source of XP, you can control it.
+
+Um, this is the best way I found. I'm sure other people have other opinions, but, Gabriel matusovich, I hope this answers your question. Yeah,

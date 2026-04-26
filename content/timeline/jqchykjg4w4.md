@@ -1,0 +1,49 @@
++++
+title = "One More Game"
+date = "2026-03-20"
+id = "JQChYkjG4W4"
+status = "transcript"
+tags = ["Game Design"]
+summary = "Hi everyone. It's me, Tim. Today I want to talk about making one more game."
+references = ["gCjHipuMir8", "bA-P3p7PdEc"]
++++
+
+Hi everyone. It's me, Tim. Today I want to talk about making one more game.
+
+And I will get to what I'm talking about in a second, because it's a fun Friday. So this is going to be a good fun Friday video. But I want to start with this. I'm on the record of saying I don't know what gamers want or like in a game. I have a whole video called Do Devs Know What Gamers Like. Now in that video, a lot of people chose to misinterpret it, despite the fact that I was very clear. So let me restate this: I think that you know what you want, but I don't think that most people — people, gamers or game devs — know what most people want.
+
+Now I've got a lot of people. There were a lot of people in that comment section and I'll link the videos below. There were a lot of people in the comment section going "No, Tim, you're stupid, Everybody wants X" and X could have been a wild amount of. Things, and then there were so many people replied: I don't want that. And it didn't matter, it was, you know, it was a whole range of things, you know: fast travel, encumbrance, uh, companions, uh, humor, uh, romance, no matter what somebody said. There were a lot of people going: I don't want that. And then there, if people were saying nobody wants these features anymore, there were people going I won't buy a game that doesn't have that.
+
+Fast travel was a good, example. There were a lot of people saying I hate it's ruined the game, blah. And then other people going that if I won't buy a game without Fast Travel, it's got to respect my time, Which basically just takes game devs like me and go "What do people want". And over again, people said "No, Tim, people want this". And then they were completely contradicted by another comment. So I don't know, and I don't think any of you know, what most gamers want.
+
+But I decided to do this video so you could prove me wrong in this comment section. And what I want you to prove me wrong is I'm going to throw this out there If I can make one more game, any kind of game, but one more, and that's it before I retire. What should I make Now? I'll give you a couple constraints, not a lot. It's going to be an RPG. Obviously. I think it's too late in my career to go. I'm going to make a great tactical game, or I'm going to make the world's best first person shooter. So let's say it's an RPG.
+
+Stay in my wheelhouse. I like player agency, I like branching narrative, I like nonlinearity. So stay in my wheelhouse, but other than that, anything's possible You want.
+
+Another Fallout, You want another Arcanum, You want another Bloodlines? Sure, I'll try to get the rights. And if I can't get the rights, I'll do a spiritual successor. It's worked for me in the past. You can even say — and I know some of you probably are thinking this: Tim Mcnuff, you're done, man, Tap out. You can say that in the can say that, You can say that in the comments. If that seems to be the majority consensus, then yeah, I'll tap out, make nothing. And you guys can proudly tell all your friends that you prevented the next Tim Kaine game from being made and they should now applaud you. For the rest of you who are trying to think of ideas of what I should do, if you're only going to get one more game from me, if you want some framework, I'm like why don't we do? This in the order? I do my RPGs and talk about setting, story and mechanics. So setting.
+
+Do you want science fiction? And if you want sci-fi, do you want something near future? Maybe cyberpunky, maybe like the next 20 years, 30 years? Do you want far future, like so far in the distant future?
+
+It's crazy. Science is like magic, or people don't even remember science anymore. Who knows? Or do you want space opera? You know we have big ships in an empire and we fly around and there's space fights and you get on space stations and beat people up.
+
+Or do you want a fantasy game? Even then, there's so much you could do. Do you want high fantasy, with lots of wizards and spells and dragons and people getting kidnapped and you going to rescue them? Do you want low fantasy? That's kind of like Conan, where it's like there's a little bit of magic and monsters on the edges, but mainly it's just you know castles and dungeons and you looking for treasure, and magic just plays a little role in it. Or do you want something arcanum, but not arcanum? You just like me having your science and magic mixed together and then, but still setting — I mean setting wise.
+
+There's so many other things we can do. You could do horror, supernatural, whatever you want. So think about setting in that sense. What do you want an RPG for me to be set in? So let's jump to story now. I'm not going to talk about spec specific stories, because that could be anything, but here are some things you might want to think about. Do you want a really long story with a lot of acts? That would be like Arcanum. We had like 27 acts in that story compared to Fallout's 3.. If you have a really long story like that, there can be side quests, but the story itself is long and involved, so you will be playing it for a long time. Or do you want a short main story with lots of side quests? You can do.
+
+Some people prefer that, like there is a story that drives the game but most, of the time, you're driving the game with what you're deciding to do on the side. Do you want something personal that is based on like a really handcrafted story that has a lot of beats, that really hits you emotionally at lots of different levels? Or do you want something general where the game story reacts to what you do and so your actions are kind of making the story. So maybe it's going to be have a lot of beats and be emotional, or maybe it's not, because that's just not how you're acting. So that's a cool way of thinking about story, Not so much exactly what you want the story to be, but how you want the story to be constructed. And then finally, we could talk about system mechanics. And again, I mean, there's just so much to talk about here.
+
+There could be a billion things you could do, but in general, do you want a game that's mostly narrative, with some mechanics that deal with how you control characters and storyline, or do you want one that's mostly combat and has things in there for fighting and maybe sneaking but to get stealth attacks and stuff like that? Or do you want a game that's a good, healthy mix and reacts to how you play and doesn't emphasize one over the other? Do you want companions, Meaning, do you want people who can join the party that you don't necessarily control? Or do you want a party of people that you control, or do you want a party with some companions? Speaking of that, do you want it to be real time, with pause, turnbased, which then should probably affect whether or not you're thinking of it in terms of first person or isometric? It's really hard to do a party of people in first person, but that could be something we try.
+
+Do you want skills that you buy, or do you want classes. And then, as the class goes up in level, things, abilities, open up for that class. And your choice is: what class abilities do you want to improve? What spells for that class do you want, or do you just want generic skills and abilities and you buy whatever you want whenever you go up a level?
+
+Which actually brings me to progression. How do you want progression to work? Do you want it to be the standard? You do things? Those things give you experience. The experience makes you go up a level that gives you points that you spend.
+
+That's one way to do it I do it a lot that way. But you could also do it story based. If you make a big story with a bunch of acts, you could say: every time you reach the end of a story act, that's when player progression happens. You could also make it quest based, that certain quests provide progression. And you could divide this up.
+
+An obvious way would be: main story quests give you experience towards progression and the side quests give you equipment. But you could flip it and you could say: main story quests give you really better equipment at big, distinct chunks and the side quests are used just to get points to spend on your abilities. So you do a lot of things to get better, but you do the main story act to get the big items. You could do it either way, and there's a whole bunch of in between ways too. So that's what I'm asking you right now.
+
+What should I make? You can have one more Tim Kaney game. Tim, I should say RPG.
+
+You can leave comments on here. You can be as simple a comment as you want. You can go in super detail if you want.
+
+What I'm curious about is: will a consensus um arise in the comment section, or will it just be a bunch of people talking past each other, saying they know what everybody else wants and obviously, from the comments, they don't? I'm I don't even think there will be like a 100% consensus, but I would love to know if there was even a majority like: do most of you out there want Arcanum or do most of you out there want an original, far future science fiction game? I'm just curious if there's any kind of majority like that And if, a if a consensus like that arises, I'll consider doing that. If no consensus arises, maybe I'll just do what I've done before, which is whatever I want. That's worked for me well in the past as well. Or maybe I just won't do another game and I'll help out with some games here and there that other people are doing, and then I'll just retire. But I'm curious, and this was a fun Friday — What do you think I should do if I'm going to make one more game?

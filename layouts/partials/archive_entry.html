@@ -1,0 +1,9 @@
+{{- $page := . -}}
+<li class="archive-entry">
+  <div class="meta-inline archive-date">{{ $page.Date.Format "January 2, 2006" }}</div>
+  <div class="archive-title"><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></div>
+  {{ $preview := partial "video_preview.html" $page }}
+  {{ with $preview }}
+    <div class="preview-line">{{ . }}</div>
+  {{ end }}
+</li>

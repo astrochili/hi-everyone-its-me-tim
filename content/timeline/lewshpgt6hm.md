@@ -1,0 +1,45 @@
++++
+title = "The Number Of Vaults In Fallout"
+date = "2024-07-05"
+id = "lEWshPGT6HM"
+status = "transcript"
+tags = ["Fallout", "Lore"]
+summary = "Hi everyone. It's me, Tim. Today I want to talk about the number of vaults in Fallout."
+references = ["oWd4RBdeoaM", "FqKhMeAcKTM", "VWvSaAGt9N8"]
++++
+
+Hi everyone. It's me, Tim. Today I want to talk about the number of vaults in Fallout.
+
+It's Friday, fun day, so I want to talk about some fun. This is just me talking about It's not canon — things I say aren't Canon, but I thought it' be fun to revisit this after my video months ago about the Vault being used as experiments, which I'll get to. So the original design for vaults was that there was going to be a thousand, and the only reason this pin was even placed in the original game was when Leonard was doing the Vault suit. He asked me how many digits he'd need to keep on the back, because we had vault 13. But he wanted to know, you know, are they going to be Vault? You know 106, is there going to be Vault?
+
+You know 1,00, 18, and I thought, well, let's just say there's a round number, there's a thousand. And I still remember he had so four digits and I'm like, no, I'm a programmer, I. Start counting at zero, three digits, so off he went. He made the Vault suit, there was enough room to do three digits if it was needed, and that was. It didn't really think much more of it past then, and then later, like much later, we started revisiting this idea and it went something like: hey, if each of these vaults held a th people, that's only a million people that are going to be saved in vault tech vaults, which is way less than the population we imagined of the US. If it was 2 or 300 million people, then a million people is that's not even 1%, that's like a third of 1%. So if you think of these super wealthy people in the US being the top 1%, like it's often portrayed — now there's not even room for them. And even if you assumed half of them had their own.
+
+Personal vaults to escape into in case of nuclear war, which probably was not the case, there still wasn't enough room for the top 1% to fit into all those vault tech vaults. So, and by the way, uh, when we were numbering the vaults and I said I'd be a programmer and I number them 0 to 999, it was later — I thought, oo, Vault zero, that sounds like a control Vault, the null Vault, and that led to the experiment idea — you should probably watch my video — I'll link it below — on vaults as an experiment, because that's not what I want to talk about. So let's, now that we've kind of figured out what's going on, that, okay, there's a.
+
+There were plans for a th000 vaults. They're not going to hold everybody, where would these vaults be done? Where would they be buil, built?
+
+Now we made a flag with 13. Stars in it I should say, you know, the artist did that and according to Leonard, they just did it because it looked cool, and later on that became: oh, there were 13 commonwealths. Well, 13 doesn't divide into a thousand, and that bothers my brain. The states still exist, so let's look at it at a state level. So there are 50 states, thousand vaults. That mean every state should have 20 volts thereabouts. Now, bigger States would have a lot more, smaller States would have a lot less. You know, Texas probably needed more than 20 volts. I don't think Rhode Island would need 20 volts. So I'm sure it's not distributed evenly, but let's just like use that as our guesstimate. We're looking at about 20 volts per state.
+
+Now let's go back to Fallout 1 and two, which I worked on. Now, Fallout 1 was middle of California and all. Of Southern California, like Bakersfield, Fresno, area, South, so that's about half of California.
+
+Fallout 2 was that area and to the north because it all. It went all the way up to clamo, so that's all of Northern California. So together Fallout 1 and two were pretty much the entire State of California. California is a pretty big state so you'd expect at least 20, but Fallout 1 and two combined only had about four to six vaults in them that were clearly defined, and that's if you count a couple of the unnumbered ones, like whatever Harold's Vault was. I mean, if you just look at numbered ones, I think there were only four. So if you're throw in a couple more for the unnumbered ones, you get six.
+
+Now the TV show which was also set in California because it was in the Los Angeles area, they added four more. 31, 32, 33, and four, so they added four more vaults. That still only gets us 10, vaults for the entire State of California, big state, 10 vaults. So you'd expect at least 10 more out there that the, games — excuse me, the games — and the TV show haven't touched that's. That's still, you know, not a lot of faults.
+
+Now, when I played Fallout New Vegas — which I played multiple times — great game, it's on my master class list. I'll link that below — it felt when I played it like it had a lot of vaults. It felt like it had a ton of vaults. Well, turns out that was just a gut feeling.
+
+Compared to Fallout 1 and two, I mean, if those two games together only had six vaults, then Fallout New Vegas felt like it had way more than that. Guess what? They had seven, there were only seven vaults in all of Fallout New Vegas. Now it made me curious why they had so many. It felt like they had more than California, especially Nevada being a smaller state. But if we could have roughly 20 per state, Nevada is still on target for the number of vaults they should have. Seven is not an unreasonable number of vaults to have in Nevada.
+
+Even if there were three more and they only had 10, you'd still expect them to have that many. It's a fairly decently sized state, so that led me thinking: okay, even when you look at California, it seemed underserved with vaults. You look at Nevada, it also felt a little under served with vaults.
+
+So what's going on? Well, I think the obvious conclusion, the conclusion here, is vault tech. They didn't build all 1,000 vaults, they didn't even come close, and I think this makes sense when you think of vault tech. Um, now, I know some of the Vault Fallout games showed that vaults were still under construction when the bombs fell.
+
+So you could argue: well, they were PL to do all 1000 and they just never made it. They never got there, but the show kind of implied that there were vaults in Canada and Mexico as well, which meant maybe they were voting more than a thousand. But we don't see anywhere close to that in the estimates I've given for these, for these games. That like covered an entire state, so we should know most of the vaults and even if you, say we didn't discover them, by a factor of two, we're still a little underserved for vaults. And I think if you look at the games, all the games together and the show, I think my estimate would be: vault tech had probably built fewer than half, probably far fewer. Than half, the vaults they were supposed to, and then you have to go.
+
+Well, why was that? How could that be? What's going on? And I think the answer is simple: vault tech. Like I said in a lot of my other videos, when you're when you have a question about the game industry, the answer is usually money. VTech — the answer is obviously money.
+
+Not only did they win the contract from the government by underbidding, severely underbidding. They probably also under planned and UND scheduled and probably just even didn't even think they were going to do them all. It's not a leap to from them being the lowest bidder to them then building some really shoddy vaults to them plan to underbuild to underserve all the states.
+
+It's happens in real life. You know, if you watch the news, there are a lot of companies that get government contracts to take care of roads, to take care of bridges, I don't know, to build more internet infrastructure. They get the money, they take the money and then they don't do it. If that happens at real world — and we've clearly pointed out that the United States under vault Tech was far more corrupt and bottom line driven than even are United States — then it doesn't. It's not a big leap that they underbuilt these things. So my point in all this is, even though it's Canon, that there were supposed to be a th000 volts. I think in my non-canon brain there were far, fewer than a thousand. When you add in the fact that voltech probably knew they weren't going to build a thousand and the ones they were building were really bad, you can see where the experiment idea might have come in. It's like, hey, we're not going to build all these. So we're not going to get a lot of people saved. So saving people obviously isn't the goal. What if we did this other thing instead?
+
+So I think that is also the number of vaults you see out. There is kind of more evidence that voltech Not only was a money grubbing greedy company but probably something else was going on. And anyway, that's my fun funay Friday thought experiment about Fallout and the vaults. Hope you liked it.

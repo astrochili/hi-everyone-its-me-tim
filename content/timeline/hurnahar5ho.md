@@ -1,0 +1,57 @@
++++
+title = "Thoughts On A Fallout Remake"
+date = "2023-09-19"
+id = "hUrNahAr5ho"
+status = "transcript"
+tags = ["Fallout", "Game Design", "IP"]
+summary = "Hi everyone. It's me, Tim. Today I want to answer a question from Evan shantlin Who, full disclosure, worked on QA on Fallout."
+references = []
++++
+
+Hi everyone. It's me, Tim. Today I want to answer a question from Evan shantlin Who, full disclosure, worked on QA on Fallout.
+
+And Evan asks: hey, Tim, ever thought about what changes or updates you'd like to see in a Fallout remake? Would you want a fully explorable map or Base building added to the game? Are there errors you'd like to see completely reworked or just flushed out?
+
+That's a good question, Evan. Let me just say right off the bat: I don't want Base building. I understand why people like it I understand why people put it into Fallout 4. I don't want that.
+
+In fact, let's define remake before I get started. I don't want to make a completely new game. If it's a Fallout remake, I think it should be the same game, just better and more modern.
+
+Get rid of the bugs, get rid of the stuff we didn't have time to finish, or add the stuff we didn't have time to finish. Get rid of a lot of the frictional parts that are. Are not considered, um fun challenges in today's modern world. So let me go over what I would like to do, because I I made a list. First of all, I think an explorable map would be great. I would add something like procedural generation, similar to what I did in Arcanum, so you could drop into anywhere in the map. You could go into the mountains, you can find caves, you could find old ruins. So it would be like that procedural generation, but better. In addition to just forest and grassland and stuff, I would add procedurally generated ruins, uh, caves, um, yeah, stuff, along freeways and Roads that you just come across and be like, oh, this is something fine, kind of like some of the Random Encounters already are. But I'd leave the Random Encounters in. I think those are fun: um. I.
+
+Would — I've talked about this in another video, but I would improve both the UI and the AI. And for the UI, I'm just saying there are tons of ways to make that UI better, not just adding extra digits for moving stuff over and barter, but just cleaning it up. Um, making it easier to do things with mouse and keyboard than we did in the original. And also I've talked about improvements in AI, especially for the companions. So I won't go into table about that, but just gonna say that would definitely make it into a remake. The next thing I would do was bring in a lot of the original artists and redo the art.
+
+I don't want it to be different. I want it to be much higher detailed, and this is a lot different than just upresing it. We had some of the stuff um done in a higher resolution. So when we ran our art tool to turn the 3D art into Sprites or textures for the UI, we lost a lot of detail. Would like to put all that detail back. Yeah, that could be done with the tool, but some of the art was done knowing that stuff would be lost in the conversion. So I would want that Arc to be redone so it looked better in high resolution. I would also want to add creature respawning to the world. I really wanted that to be a universal thing.
+
+There were some maps that if you went in and killed everybody on it, or killed enough people on it, or killed the leader on it, you would come back and later find that other people were there. But I went respawning to be something that happened nearly everywhere that you know. You kill everyone in a town. You.
+
+Come back, maybe Bandits live in the town now. You kill the bandits, you come back. Maybe there's just rad scorpions wandering the streets.
+
+I would want that to happen so that you saw the changes you were happening. You were forcing on the world. You saw those changes happen.
+
+Related to that, I'd probably increase the level cap. Well, let me rephrase that: I'm sure I'd increase the level cap. I might even be talked into removing it.
+
+In general, infinite level caps bother me because it basically means you can make your player character end up being anything have every skill and every perk and everything. It just makes the game a little too easy and it removes any decision making on you for do for playing a certain way because, well, my character is good at speech or my character's good at stealth, or my character is good at combat. Now, you're good at everything, but I could be talked into doing it and maybe, since that's only a high level thing, if that's what people want to do, maybe maybe it's something you optionally select as an option. I would definitely add more reactivity to the game. I wish that people reacted more to the armor you were wearing or the weapons you were using, to the companions you have, to things you've said, the things you've done, in fact, all your past actions.
+
+We did a lot of that on Arcanum. I would like to add: roll that back into Fallout and just make people far more responsive to the player. I would also like to make changes to maps. During play, we often had things where I would say what happened to, for example, what happened in Acropolis after you took the water chip. I would make that something that happened in the game.
+
+If you take the water chip from necropolis, when you come back, there's a bunch of angry goals. You go back later, there's far fewer goals and, like the water's running out, some of us are leaving but we're being hunted down and we hate you. But at any point you could then fix their um. They had their own water, uh, purification, I think they had a well or something. You could fix that, so that means dialogues would change. It's extra work, but I would love to put that in to the game: make Fallout even take it to the next level of kind of reactivity.
+
+Along that line, I would fix the end slides, I'd make better end slides, I'd make more end slides and I would fix the existing end slides that didn't trigger because of bugs. So I think it's important when you finish the game to be told: here's all the long-term ramifications, more than just changes on the individual map. You know, that's where we talked about how Shady Sands turned into NCR. I went those kind of long-term reactions told in insides for almost all the places in the game, even like the glow. You could just say the glow remained Radioactive but you know, it was eventually fenced off and warning signs were put up, something to just say, hey, people recognize every location in the game.
+
+Then I'd make what I call my massive mechanics pass and I'll break that down. First of all, I'd go through special. I don't think there's a huge number of changes I've made here, but I do think things like Charisma should do more. I, we, in the sequel in Fallout 2 we made Charisma control how many people you could put in your party, how many. Companions you could get. I wanted to do other things as well: how people react to you, um, more Charisma, Checks In dialogues and in some RPG elements in the game. I would also rework intelligence, like intelligence and Agility.
+
+We're so good in Fallout that everybody was like you've got to get them. But I loved low intelligence characters, so I probably change not Thai skill points to intelligence, do something else with that. They did that in Fallout New Vegas, so I like things like that. Then I make a skill pass, and again, I think some of these were already done, um, in the first person Fallout, but things like we don't need doctor and first aid gambling should have been either more useful or rolled into something else, like maybe it's a perk that you buy to extend speech. Um, um, I think, if keep in mind, though, increasing the level cap is going to make changes to skills, because if you can go to a higher level, you're going to get a lot more skill points and you're eventually going to move a lot of the skills up to Max. Similarly, with the traits, you're going to get a lot more — oh wait, no, with perks. You're going to get a lot more perks if we up the level cap. So I would basically make a huge pass through perks and look at things like friendly foe, which was a perk in Fallout and then just got rolled into the. Everybody's got It's part of the interface in Fallout 2.. I would do things like that.
+
+A lot of the world map perks had very either minimal effect — you know things like the Outdoorsman and the Pathfinder and Scout — or made things less interesting. I mean, Scout made it less likely. You'd ever have a random encounter and some of those random counters were good and people remember the Random Encounters. I wouldn't want to put a perk in that said, hey, you know the cool stuff in the game, you're going to get less of it. So I'd make a pass through perks. There are also perks that in the old game, because of the level cap, you were very unlikely to get like sniper or Slayer because they didn't get into level 18 and there was a level 20 cap and you were unlikely to hit Level 20 because you'd run out of things to do.
+
+So you know. That's why making changes to maps and adding creature responding, I think would address that and up being level cap. And finally, I'd make a pass on traits. The traits were wildly different. I think gifted was way too strong, instead of saying: all your stats go.
+
+Up by one, I'd maybe make you pick. You could pick two or three and you were gifted in those areas. Um, some other trades. I just wanted to go through all the traits and make sure that there was some zemblance. I don't care about Pure Balance, but when things are so imbalanced, people are like: well, you have to take this kind of like harm in Arcanum, that was out of bounds, that was wacky and that was wrong. I don't want to make a magic system where it's like: here's the one spell that's the best one to take and all the others pale. Similarly, with the traits, I don't want to make it a trait system where you're like: well, you have to take gifted. Okay, now that you're taking gifted, what kind of character you're making? Look at the traits. I want all the traits to be. What kind? Of character am I making?
+
+Would this be good for them? Would this be bad for them? Would I rather have this, and I like things like that. That is an awful lot to change. I think it's enough to change. Um, of course, rolled into all this would be fixing all the bugs.
+
+Um, like when you played chess with the computers, ax in the glow, something was supposed to happen if you got a critical success, but there was a bug in the game and you could not get critical successes against attribute roles — trivia, with a fix, by the way, absolutely trivial, a one-line change, but that was, it didn't exist. So you never got the critical success. Playing chess against ax.
+
+Fix things like that, just so people could see that there was a lot of content that either got cut or never could trigger because of bugs. I'd want to fix all those things. I think that's enough, so I think a much higher resolution game with better Ai and better UI and the new features that I mentioned, with the respawning and the reactivity and the map changes and end slides and then a pass through the whole mechanics — I think that's enough. Um, I don't want to change Fallout too drastically in a remake, but I think this could be done and it would open up the game to being a lot more user-friendly to Modern Gamers. So that's how I'd make a Fallout remake.
+
+Evan Chandler.

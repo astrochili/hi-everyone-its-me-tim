@@ -1,0 +1,43 @@
++++
+title = "Games As Actions"
+date = "2024-05-22"
+id = "_Q1ZGSyVHus"
+status = "transcript"
+tags = ["Game Design"]
+summary = "Hi everyone. It's me, Tim. Today I want to talk about games as actions, and I'll talk about what I mean by that."
+references = []
++++
+
+Hi everyone. It's me, Tim. Today I want to talk about games as actions, and I'll talk about what I mean by that.
+
+But first I want to talk about the film director, Deni fenov. I really like his movies — you know arrival Dune. I like his cinematography, I like his approach to making movies, I like that his movies — and he's talked about this — are about exploring the human condition, about making us think about big issues, and also that his movies are open — open to interpretation. I mean that's like a checkbox of everything I like. But he had a quote that I heard recently and I really liked it, but it made me think a lot about games, and here's the quote: I strive for visual storytelling, for images that convey meaning without relying on dialogue. Now, what I love about that is not only it a great line, but it also points out a way that movies transcend books. I mean books are great. I read a ton of books, I have a lot of books. I love reading them, when I read them I, you know, imagine all kinds of things in my head. But books are primarily words and when you are talking about books you tend to quote them. You tend to quote lines that you love, even if the lines are making you imagine something or lines are transporting you somewhere. Books are basically remembered from for having great lines.
+
+Now movies, on the other hand. Movies have great scenes and those scenes have lines, just like books. But they also have images, music, fantastic cinematography, how the camera moves around, the acting, everything about it is anything you can get in a book and more.
+
+Maybe transcend isn't the right word, maybe Encompass. But so what I love about movies is movies can have those great lines that you like to quote straight out of book, straight like books. But movies also have images and music and expressions from the actors and things that stick with you after the movie's over. To me, the same thing can be said about games, because I like to think of games as being the actions that are associated that you associate with that game. So games have scenes, all the kind of scenes a movie can have, games can have. They can have great imagery, great camera work, great acting, great lines — basically everything a book or a movie can have.
+
+A game can have too, but games are about the actions that you, the player, take, which is something you don't get from a movie in. In a movie you're watching, but in a game you're actually doing the action, you're participating. That's how games transcend movies and that's how I like to think of games. Games are when you're putting together parts of your story and you're thinking about Quest, you think about what the player will do now.
+
+Yeah, eventually it gets passed off to people. Think about: okay, these are the dialog, this is the dialogue NPC, NPCs are going to say: and this is what the Cave's going to look like, or the dungeons is going to look like, or the spaceship's going to look like, and all that's important, because all of that is part of the game. But ultimately, what defines the game is the actions the player will take while playing it, and I think there are three big things that I love about games that elevate them. The first one is player discovery. That and that Encompass a whole bunch of things.
+
+Maybe you're walking along and you saw some place that wasn't anywhere you were sent to. No one told you to go there, but you go in anyway. Maybe it's a ruin, maybe. It's a cave, maybe it's an old building, you know. You go in anyway and you discover something. Maybe it's kaum, maybe it's a whole thing going on, maybe a bunch of side quests come up from this, but you're the one who discovered this.
+
+You weren't told it by the movie director, you weren't told it by the books writer. You discovered it. The, game developers just put it there for you to find and you didn't have to. To me, that's one of the most amazing things about a game is you can put things in that the player doesn't have to find. You can't really do that in a book or a movie. Everybody reads the same book, everybody watches the same movie.
+
+Um, Beyond Discovery, and it can be, you know, discovering items or quests, or just you might discover something that changes how you're thinking of the story itself. I also think combat adds a lot because that's a lot of what people remember, because it can get so visceral, especially boss fights. Those are things that people remember from the game — is some tense moment, and this can happen in storytelling, like in movies or in books. But that momentto moment — fight, combat stuff is unique to games because it's you doing it. You're not watching people fight. You yourself are fighting. You're bringing to Bear all the skills and items and things you've learned in the game to do this. It's you.
+
+Which brings me to the third thing I love about games which you cannot get from a book or a movie, and that is choice and Consequence. The thing I love most about games — and if you've watched my videos, this CH on this channel, you know I like that. The player is forced to make certain choices while they're playing. And then live with the consequences of those choices. When you're reading a book or you're watching a movie, you see characters do that and you can empathize with them, but you're not doing it and that's a huge difference, because in my games, when you do something bad, you have to live with the consequences of that. You're not watching someone do that, you did that and that's why, like you know, in my games that let you kill people or even that had children in it that could be hurt, I was always upset when people said: why did the game?
+
+Let me do that? I'm like the game didn't make you do anything, it was just there and you did It's like it's one thing to have a book with a scene in it that shocks you, or a movie with a scene in it that shocks you, but in a game where you made that scene happen. That's on you, and that's what I love about games. Games are not passive. You don't sit and watch, you have to do.
+
+It's on you, made things happen. So the thing I love most about games is it can explore morality. It can explore choice and consequence in a way that no book and no movie can, because it's you making that decision. So you may like reading books and maybe you — you know you don't read anything deeper than you know — Pulp Fiction stuff. Or maybe you love watching movies and maybe you don't watch anything deeper than the Marvel movies, which you know they're good. I wouldn't claim they're super deep, but then again you might play a game that has a much deeper morality and has a lot of choice choices in it, and that's you.
+
+That's. This is your time to choose. Your time to think about choices and then your time to explore those consequences.
+
+You're not watching a character on screen: do it. You're not reading a character in a book doing it, you're doing it. And this is the way I think games transcend movies in the same way movies transcend books and may, like I said, maybe transcend is the wrong word, maybe I should say the word Encompass — but books have lines, you read them, you may imagine a bunch of stuff, but you're reading them. It's the same line.
+
+Everybody who reads the book reads. Movies have scenes which include lines but also include actors doing motions and expressions, and cinematography and imagery and music. But — and you may interpret that differently, but everybody's getting the exact same images and seeing and hearing the same lines and music.
+
+Games are different. Games are based on actions, not everybody who plays the game. Is going to experience the same game. Based on what they do, they're going to experience the game differently, and that is a way in which games are much bigger than movies, in the same way that movies can be bigger than books, and this is something that I find myself reminding every game developer, especially ones that are like: oh, I really like books and movies, so now I'm going to make a game, okay, but games are a lot bigger than that. Even a linear game can be bigger than that. So I just like to remind people that games are all about actions.
+
+In the same way, movies are about scenes and books are about lines. So that's kind of my take on this whole thing. So, whether you're planning to go into game development or not, think of games as actions, not as really cool scenes in stories or really cool lines. Thanks,
