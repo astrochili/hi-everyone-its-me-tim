@@ -3,7 +3,7 @@
     --foreground: #2e3440;
     --accent: #5e81ac;
     --muted: #677183;
-    --panel: #e2e8f0;
+    --hover: #88c0d0;
     --border: #c7d0dc;
     --chrome-video-background: #0001;
     --font-family: Avenir Next, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -22,6 +22,7 @@
         --background: #2e3440;
         --foreground: #eceff4;
         --accent: #88c0d0;
+        --hover: #5e81ac;
         --muted: #c0cad8;
         --panel: #3b4252;
         --border: #566074;
@@ -99,11 +100,11 @@ a {
     text-decoration-style: dotted;
     text-decoration-thickness: 0.1rem;
     text-underline-offset: 0.2rem;
-    color: var(--foreground);
+    color: var(--accent);
 }
 
 a:hover {
-    color: var(--accent);
+    color: var(--hover);
 }
 
 nav {
