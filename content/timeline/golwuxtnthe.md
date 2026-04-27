@@ -18,7 +18,7 @@ I don't think there's anything like that around today. Um, where I can talk abou
 
 Lots of things we can talk about. Troika, um, you may be familiar with Troika's three games that we made, uh, when my company, I made it with Jason Anderson and Leonard Boyarsky.
 
-It existed from 98 to 2005. We made Arcanum, Temple, The Evil, and Vampire Bloodlines. You've probably heard of those, but did you know? In between Arcanum and Temple, we made a Lord of the Rings demo, which I recently found in my archives. I keep everything and I got it up and running, uh, uh. You may also know we started our own, uh, post-apocalyptic game, which was code named Epic, right before we shut down Troika. I can talk about Carbine, where I dip my toes into making an MMORPG.
+It existed from 98 to 2005. We made Arcanum, Temple of Elemental Evil, and Vampire Bloodlines. You've probably heard of those, but did you know? In between Arcanum and Temple, we made a Lord of the Rings demo, which I recently found in my archives. I keep everything and I got it up and running, uh, uh. You may also know we started our own, uh, post-apocalyptic game, which was code named Epic, right before we shut down Troika. I can talk about Carbine, where I dip my toes into making an MMORPG.
 
 I worked there from 2005 to 2011. I did three years as a programming director and three years as design director. Um, and the game after I left came out three years later, so that game was under development for over nine years, or I can jump right into Obsidian and talk about making South Park: The Stick of Truth. I can talk about Pillars of Eternity or Tyranny or The Outer Worlds.
 
