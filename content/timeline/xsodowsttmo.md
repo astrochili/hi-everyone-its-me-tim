@@ -4,11 +4,11 @@ date = "2026-04-24"
 id = "XsOdoWSTtmo"
 status = "production"
 tags = ["Programming", "Careers"]
-summary = "0, 1 0 1 2, 1 0 1 0 1, 2. Wait, today I want to do advice for prospective game programmers. For those of you who are thinking about going into game programming, the TLDDW is: It's different than other kind of programming jobs you could get out."
+summary = "0, 1 0 1 2, 1 0 1 0 1, 2. Wait, today I want to do advice for prospective game programmers. For those of you who are thinking about going into game programming, the TL;DW is: It's different than other kind of programming jobs you could get out."
 references = ["R5guVZA6eAU", "lwlRDhPZxLc"]
 +++
 
-0, 1 0 1 2, 1 0 1 0 1, 2. Wait, today I want to do advice for prospective game programmers. For those of you who are thinking about going into game programming, the TLDDW is: It's different than other kind of programming jobs you could get out.
+0, 1 0 1 2, 1 0 1 0 1, 2. Wait, today I want to do advice for prospective game programmers. For those of you who are thinking about going into game programming, the TL;DW is: It's different than other kind of programming jobs you could get out.
 
 I'm going to make this a fun Friday because it's fun for me. May not be fun for you, but I like it. Bear in mind I've only done game programming, but I have lots of friends who are in other industries doing programming, including the military, and I did do one project for the Department of Defense. Uh, go look at the attached video: Troika's Secret Fourth Project. So now let's walk through all the ways I think game programming is different than other programming that you could do for a living. I'll get the beginning right, the easy part out of the way. The money is less and the stability is less.
 
