@@ -7,9 +7,9 @@
     --border: #c7d0dc;
     --status-private: #7c5fa8;
     --status-public: #9a6700;
-    --status-vtt: #b9502f;
-    --status-transcript: #3f6fa3;
-    --status-production: #2f7a61;
+    --status-vtt: #c25a32;
+    --status-transcript: #2f6fbe;
+    --status-production: #2d8a57;
     --chrome-video-background: #0001;
     --font-family: Avenir Next, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
     --ui-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -196,26 +196,19 @@ ul.archive-list {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 0.25rem 0.65rem;
-}
-
-.status-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    color: var(--status-color, var(--muted));
+    gap: 0.25rem 0.55rem;
 }
 
 .status-dot {
-    width: 0.55rem;
-    height: 0.55rem;
-    border-radius: 999px;
-    background-color: currentColor;
+    color: var(--status-color, var(--muted));
+    font-size: 0.8em;
+    line-height: 1;
+    transform: translateY(-0.03em);
     flex: 0 0 auto;
 }
 
 .status-text {
-    color: currentColor;
+    color: var(--status-color, var(--muted));
 }
 
 .status-legend {
@@ -225,6 +218,12 @@ ul.archive-list {
 
 .status-legend p {
     margin-bottom: 0.65rem;
+}
+
+.status-pair {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
 }
 
 .status-legend-list {
