@@ -104,12 +104,10 @@
     </article>
   {{ else }}
     {{ $pages := .RegularPages.ByDate.Reverse }}
-    {{ $pagerSize := 25 }}
     {{ if $isTagTerm }}
       {{ $pages = .Pages.ByDate.Reverse }}
-      {{ $pagerSize = 25 }}
     {{ end }}
-    {{ $paginator := .Paginate $pages $pagerSize }}
+    {{ $paginator := .Paginate $pages 25 }}
 
     <article>
       <header>
@@ -124,12 +122,18 @@
       </header>
 
       <ul class="archive-list">
-        {{ range $paginator.Pages }}
-          {{ partial "archive_entry.html" . }}
+        {{ if $isTagTerm }}
+          {{ range $pages }}
+            {{ partial "archive_entry.html" . }}
+          {{ end }}
+        {{ else }}
+          {{ range $paginator.Pages }}
+            {{ partial "archive_entry.html" . }}
+          {{ end }}
         {{ end }}
       </ul>
 
-      {{ if gt $paginator.TotalPages 1 }}
+      {{ if and (not $isTagTerm) (gt $paginator.TotalPages 1) }}
         <div class="pager">
           {{ with $paginator.Prev }}
             <a href="{{ .URL }}">Newer</a>

@@ -1,0 +1,39 @@
+{{- $page := .page -}}
+{{- $mode := .mode | default "list" -}}
+{{- $inputStatus := printf "%v" (.status | default "") | lower -}}
+{{- $statusKey := "" -}}
+{{- if $page -}}
+  {{- $statusKey = printf "%v" ($page.Params.status | default "") | lower -}}
+{{- else -}}
+  {{- $statusKey = $inputStatus -}}
+{{- end -}}
+{{- $statusTitle := "" -}}
+{{- $statusDescription := "" -}}
+{{- if $statusKey -}}
+  {{- if eq $statusKey "private" -}}
+    {{- $statusTitle = "Not public" -}}
+    {{- $statusDescription = "Waiting for the video to appear publicly on YouTube." -}}
+  {{- else if eq $statusKey "public" -}}
+    {{- $statusTitle = "Not fetched" -}}
+    {{- $statusDescription = "Metadata is available, but subtitle retrieval has not succeeded yet." -}}
+  {{- else if eq $statusKey "vtt" -}}
+    {{- $statusTitle = "Not transcribed" -}}
+    {{- $statusDescription = "Subtitle data exists, but transcript markdown has not been generated yet." -}}
+  {{- else if eq $statusKey "transcript" -}}
+    {{- $statusTitle = "Not reviewed" -}}
+    {{- $statusDescription = "Transcript markdown exists, but the optional LLM review pass has not completed yet." -}}
+  {{- else if eq $statusKey "production" -}}
+    {{- $statusTitle = "Reviewed" -}}
+    {{- $statusDescription = "Transcript markdown exists and has already passed transcript and paragraph cleanup through the optional LLM review pipeline at least once." -}}
+  {{- end -}}
+{{- end -}}
+{{- $statusText := $statusTitle -}}
+{{- if and (eq $mode "single") (or (eq $statusKey "private") (eq $statusKey "public") (eq $statusKey "vtt")) -}}
+  {{- $statusText = $statusDescription -}}
+{{- end -}}
+{{- if and $statusKey $statusText -}}
+  <span class="status-badge status-{{ $statusKey }}">
+    <span class="status-dot" aria-hidden="true"></span>
+    <span class="status-text">{{ $statusText }}</span>
+  </span>
+{{- end -}}

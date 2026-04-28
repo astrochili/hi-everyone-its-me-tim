@@ -3,8 +3,9 @@
     <article>
       <header>
         <h1>{{ .Title }}</h1>
-        <p class="meta-block">
-          <span>{{ .Date.Format "2006-01-02" }}</span>
+        <p class="meta-block status-line">
+          <span>{{ .Date.Format "January 2, 2006" }}</span>
+          {{ partial "status_badge.html" (dict "page" . "mode" "single") }}
         </p>
         {{ with .GetTerms "tags" }}
           <p class="inline-links">
