@@ -28,9 +28,6 @@
   {{- end -}}
 {{- end -}}
 {{- $statusText := $statusTitle -}}
-{{- if and (eq $mode "single") (or (eq $statusKey "private") (eq $statusKey "public") (eq $statusKey "vtt")) -}}
-  {{- $statusText = $statusDescription -}}
-{{- end -}}
 {{- if and $statusKey $statusText -}}
   <span class="status-dot status-{{ $statusKey }}" aria-hidden="true">•</span>
   <span class="status-text status-{{ $statusKey }}">{{ $statusText }}</span>

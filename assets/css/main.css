@@ -211,6 +211,11 @@ ul.archive-list {
     color: var(--status-color, var(--muted));
 }
 
+.status-description {
+    color: var(--status-color, var(--muted));
+    margin: 0 0 1.5rem;
+}
+
 .status-legend {
     margin-top: 1rem;
     color: var(--muted);

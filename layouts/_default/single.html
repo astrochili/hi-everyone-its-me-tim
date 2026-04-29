@@ -29,6 +29,21 @@
         <p><a href="https://www.youtube.com/watch?v={{ .Params.id }}" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
       </section>
 
+      {{ $statusKey := printf "%v" (.Params.status | default "") | lower }}
+      {{ if or (eq $statusKey "private") (eq $statusKey "public") (eq $statusKey "vtt") }}
+        {{ $statusDescription := "" }}
+        {{ if eq $statusKey "private" }}
+          {{ $statusDescription = "Waiting for the video to appear publicly on YouTube." }}
+        {{ else if eq $statusKey "public" }}
+          {{ $statusDescription = "Metadata is available, but subtitle retrieval has not succeeded yet." }}
+        {{ else if eq $statusKey "vtt" }}
+          {{ $statusDescription = "Subtitle data exists, but transcript markdown has not been generated yet." }}
+        {{ end }}
+        {{ with $statusDescription }}
+          <p class="status-description status-{{ $statusKey }}">{{ . }}</p>
+        {{ end }}
+      {{ end }}
+
       {{ .Content }}
 
       {{ with .Params.references }}
