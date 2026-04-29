@@ -8,9 +8,4 @@ summary = "I get asked this a lot. It really seems to trigger many people, so le
 references = []
 +++
 
-## Available Metadata
 
-I get asked this a lot. It really seems to trigger many people, so let's tackle it.
-
-Video I reference:
-"Bad Games": https://www.youtube.com/watch?v=vp17yIB6Ijo

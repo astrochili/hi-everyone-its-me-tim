@@ -2,8 +2,8 @@
 title = "Let's Talk Fallout 1"
 date = "2023-04-29"
 id = "lQwQAMXsTDU"
-status = "production"
-tags = ["Fallout", "Game Industry", "Game Preservation", "Modding", "Q&A"]
+status = "transcript"
+tags = ["Fallout", "Game Industry", "Modding", "Q&A"]
 summary = "Hot, hi, it's me Tim. Uh, before I start, um, that power armor helmet was made by Josh J, an artist on Fallout 4, and he sent it to me. How cool is that? Uh, yeah, it barely fits over my big head though. Um, it's really fun though. It's cool to have something like that. Thank you, Josh."
 references = []
 +++
