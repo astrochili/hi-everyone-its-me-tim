@@ -2,70 +2,10 @@
 title = "How The Internet Changed Game Design"
 date = "2026-05-01"
 id = "-GdE9GkrsVs"
-status = "transcript"
+status = "txt"
 tags = []
-summary = "Cherry. Hi everyone, It's me, Tim."
+summary = "I talk about how the internet changed how designers approached making games and how the player received information about those games.\n\nVideos I reference:\nEvolution Of Design Documentation: https://www.youtube.com/watch?v=3rUsUExrLHw\nTechnological Evolution: https://www.youtube.com/watch?v=rr61gn2k46o\nCarefree To Careful: https://www.youtube.com/watch?v=Mc4I2_cTG3w"
 references = []
 +++
 
-Cherry. Hi everyone, It's me, Tim.
 
-Today I want to talk about how the internet changed game design. This is from a question from Pedroni Rosso — Hope I'm pronouncing your name right. How did your thought process in designing and making games change, or maybe what adaptations did you see in general in making games by the industry around you with the advent of social media and video game streamers? To what extent and how do developers and their publishers keep in mind how streamable are their current projects in development? I'm sure that video game streaming cannot be ignored as a sort of mostly free commercial and promotion circuit for a modern-day game. So how do you guys manage this change from what making and selling game was only 10 to 20 years ago? 10 to 20 years — I'm going to go back 45, By the way.
-
-When I talk about how it changed the design, it's not just the design of the games. I want to talk about how they were portrayed to the public and also how the public received them. So because of that, I'm not going to talk about multiplayer games, because there was a big switch from LAN to client server for a lot of reasons that are beyond the scope of what I want to talk about here. But if you want to talk about how design docs changed over that same 45 year time period, I have a video that I'll link below, called evolution of video game design docs. And if you want to know how I felt technology changed, relevant to get video games, I have a whole techno uh technology evolution uh video. I'll link that below too, so this is a big question that was asked because there's been a lot of changes of the internet. What we called It was the, it was the Usenet, ARPANET internet web. And now it's just online.
-
-It's just the, net, and I want to start back in when I started, which is the early '80s. So I'm going to talk about the all of the '80s here and part of the early '90s. Back then you pretty much made what you wanted.
-
-Um, I've called it the Wild West. There's a video I made very recently called Carefree to Careful. I'll link it below Where I talk about that.
-
-But there wasn't really a net, so everything was done in print. There were guides and even whole walkthroughs printed in magazines and other printed media.
-
-But most people who played games just figured it out. They — I would say the majority of people who played games — didn't go get walkthroughs or reviews. They saw a game, they bought it, they took it home. They may read the manual while it, while it installed, and then they played it.
-
-What was cool about back then was categories of games were really loose, if they were used at all. There were a few terms like role-playing games, sim, uh, 4X, although they didn't even really call it 4X, They might have just called it like exploration. Most games weren't categorized. You figured out what kind of game it was by looking at the back of the box and looking at the screenshots. That was a long time. That was probably a decade, and a half, where that's how games were sold and that's how games you know. They were sold physically and people found out about them by word of mouth or looking at the game store — Very rarely printed media.
-
-All of that started changing in the late '90s and the 2000s. The internet became insanely popular. It came from being something that I used academically to. Suddenly all my friends were talking about it. All my friends were using it and they were very excited.
-
-About it and they were like: "Did you know about email". Yeah, I've been using email for a decade. But now everybody has email and everyone's getting email addresses. The internet got so popular that people could easily find a guide to any game they wanted to play online. And game categories started tightening up. Adventure games were separated from role-playing games.
-
-Um, what this affected what I did is I I was starting to become more, um, it was more possible for me to have a say in what I wanted to make. I wasn't making games because other people said, "Here's what we're making this year". But people were like, "Hey, what do you want to make" And I'd put together some engines. So I started making my games more complex, which subsequently made walkthroughs harder to define. I mean, what kind of character did you make? What choices did you make as you?
-
-Were playing? These all affected the walkthroughs. I remember when somebody asked me what I imagined the walkthrough for Fallout was going to be like and I'm like: "It can be really different. You don't have to go to these places in any particular order and depending on what kind of character you're making, some of them are easier, some of them are harder and what you do in those locations will be different".
-
-So that was fun to me, then, starting, I'm going to say YouTube, which was February 2005. At that point, videos became very easy for people to share. Playthroughs were really easy to make and share and easy to find, which meant people could just watch a game being played and decide if that's what a game they wanted to buy And if they were ever stuck, they could just look up a, playthrough, Sometimes a playthrough of just that one.
-
-Spot. They were stuck in This trivialized puzzles because you could just type, you know Fallout master, how to kill, and it would just lay out. There'd be a video. Here's what you do. Are you good at combat?
-
-Do this. Do you have this particular armor or weapons? Do this, or do you have speech? Do this. Do you have stealth? Do this?
-
-Nobody had to figure it out, They could just look it up. So instead I started focusing my games on what your character could possibly do. And then puzzles relied more on finding the puzzle pieces as doing them in the right order. So, like the master was a good example of it, survived to this day because even if you read what you have to do, you still have to go do all those things. You just don't go in and go speech 100 master. So what I liked is it from my. So my game started going from finding items and using them to exploring all these places, learning about things, and then you could use them, Especially not just in combat, but in dialogue.
-
-Then the 2010s rolled around and now those walkthroughs and videos online were starting to get replaced with influencers. I don't recall hearing the word influencer before the 2010s.
-
-What we can, what was interesting about these individuals, is more than showing how to play games. They were actually recommending whether you should buy them or not. Differently than journalists, Journalists would frequently say: "Look at the game, Look at all these, Look at the features and it supports this and it's very similar to this game, and blah. And then they'd finally give it like: "We're going to give it an eight out of 10, because it was a little buggy, but we liked it".
-
-Influencers did. Something different. They were like: "Here's a game, I love It's for you" And let me show you. And then they'd show high points of it.
-
-Game print magazines, by the way, by the 2010s were already dying. And I think this killed them, because why wait for a review when someone you already followed could just tell you about the game and whether or not you should buy it? Um, publishers responded to this by sending copies of the game to influencers and online channels, just as much as they did to game journalists. And that kind of changed things, because the journalists were, at least I think, sometimes trying to be objective. I don't think there's any objectivity. I mean, influencers themselves go: "This is what I like, This is what I don't like, or I'm the hardcore". So many designers like myself.
-
-We frequently thought: "Well, how is that certain? Event in the game going to look like when someone's playing it live or live or recording themselves playing it to put up as a stream". We thought about cinematics. We thought about end bosses, we thought about unusual weapons you could get. And because of that we wanted it to look really good in video. And that was one reason, like particle effects became a big thing because you wanted — You just didn't want it to go boom. You wanted a big explosion and wanted it to be pretty and colorful. And all these things, especially in a clip, because people will see that on some channel where someone's talking about the game and they see that clip and now they really want to play the game. So now you're thinking about your game the way we used to think about interviews. When you went into an interview you're like "Okay, I got to have. Some sound bites ready so that you know when I I So when I get quoted, I want to make sure the sound bites quoted".
-
-Now it's like: "What part of our game would make good clips for influencers to show". And now we're in the 2020s and many gamers don't even look to influencers for reviews. They look to influencers to be told how to think about the games. So people don't form opinions from the online video. They're handed an opinion from the online channel they're watching.
-
-What this means is I've seen reviews go from "This game has less combat and more puzzles and dialogues for you to interact with than this other game" To "This game is stupid and slow-paced and made for casuals. I think you should skip it". That's a huge difference in how games are presented, but more people are going for that latter. They're like: "I don't have. Time, There's too many games, just tell me whether I should buy it. Tell me if it's for me", so they find someone they just like and then that person's opinion becomes their opinion. Um, This has a positive side. It's easy to find someone who sides with your preferences and therefore is a good guide for you finding new games, and I've talked about That's how I look for review game reviewers myself. I look at their reviews for games. I already know If they like the ones I liked and didn't like the ones I didn't like, then I will trust them going forward on reviews of games that I haven't played yet. But the negative to this is more and more people seem to be abdicating their own judgment to that of people they see online. It's like I don't want to think about it. You tell me what I should think.
-
-About it, and I see that sometimes on this channel when I get multiple nearly identical comments from people and I realize they're just quoting an online influencer. Sometimes it's a meme, but more often it's: oh, this influencer person said this thing about this, and now they're just quoting, without any attribution, on in a comment, Sometimes even when it doesn't apply, which just makes me go. Are they understanding why the person said that? But other reactions I see happening, um, in the industry because of this trend is designers have become really obsessed with labeling their game.
-
-It's not enough to say: I have an RPG, Is it an action RPG? Does it have an open world? Is this going to be controversial? If I talk about this topic? They really want to know what the labels are on their games, and so do you guys. You guys ask these questions, Does it? Have this content, You know?
-
-Is it hub and spoke? Is it hub and spoke version of a game? As if I can't think of a game that I hated because it was open world versus hub and spoke. I love both of them and in a well-made game can be done in both of them. But this is what a lot of designers go think about now when they're putting a game together. They also wonder how influencers will react. If there's an influencer who really likes a lot of the previous games made by your made at the company you made, you may be putting in a feature and think: is he going to like this?
-
-Is she going to comment about this? Nicely, It's probably not a healthy way of designing a game, but I've seen people talk about It's gone from how should I make this instead of how do I? Want to make this. And I don't know if that's a good way to make games. I'm not doing this, um, but many people you know, gamers and developers alike — they want me to. They want me to when, they say, Tim, you've got to listen, to listen to us.
-
-You're not you and the other devs aren't listening to me. That's not you telling me to make the game I want to make. That's you telling me to make the game you want to make. And that got to a head when I started, when I talked about Fallout and whether it's about capitalism, and everybody told me I'm wrong, that it is about capitalism, and I'm like, okay, This, game is.
-
-It's not what I intended, but you guys want it to be what you want it to be. So it's weird when you then turn around and say, well, go ahead. And do what you want, but it's not it better be what we want.
-
-I'm curious now because it's 2026 and I have no idea what the 2030s are going to be like. I'm concerned it will go one of two ways, because the pendulum always swings. Either things are going to become even more tightly controlled in bubbles, which means people will stick to I'm this one influencer, or this tiny group of influencers and all of their thoughts will be guided by these people, or maybe the next generation is going to get tired of that, Get tired of all the labeling and the tired of all the placing things in a box. I've defined a box and this game is in this box and I'm not going to view it any other way. I'm curious where that goes. The internet basically allows the pendulum like that to swing really far. And really fast, so I don't know where the 2030s are going to go, but that's what's happened with game design and online influencers and social media over about the last 45 years.
-
-Anyway, Padoni Rosso, that was a good question. I hope you liked my answer.
