@@ -1,10 +1,10 @@
 {{- $page := . -}}
 <li class="archive-entry">
+  <h3 class="archive-title"><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h2>
   <div class="meta-inline archive-date status-line">
     <span>{{ $page.Date.Format "January 2, 2006" }}</span>
     {{ partial "status_badge.html" (dict "page" $page "mode" "list") }}
   </div>
-  <div class="archive-title"><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></div>
   {{ $preview := partial "video_preview.html" $page }}
   {{ with $preview }}
     <div class="preview-line">{{ . }}</div>

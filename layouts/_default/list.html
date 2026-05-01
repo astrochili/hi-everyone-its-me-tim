@@ -57,35 +57,33 @@
         <h1>{{ $timelineTitle }}</h1>
         {{ if .Content }}
           {{ .Content }}
-        {{ else }}
-          <p>Browse every transcript currently available in chronological order.</p>
         {{ end }}
+
+        <p class="inline-links">
+          {{ range $availableYears }}
+            {{ $yearValue := . }}
+            {{ $yearURL := printf "timeline/%04d/" $yearValue | relURL }}
+            {{ if eq $yearValue $selectedYear }}
+              <a href="{{ $yearURL }}"><strong>{{ $yearValue }}</strong></a>
+            {{ else }}
+              <a href="{{ $yearURL }}">{{ $yearValue }}</a>
+            {{ end }}
+          {{ end }}
+        </p>
+
+        <p class="inline-links">
+          {{ range $availableMonths }}
+            {{ $monthValue := . }}
+            {{ $monthURL := printf "timeline/%04d/%02d/" $selectedYear $monthValue | relURL }}
+            {{ $monthLabel := (time.AsTime (printf "%04d-%02d-01" $selectedYear $monthValue)).Format "Jan" }}
+            {{ if eq $monthValue $selectedMonth }}
+              <a href="{{ $monthURL }}"><strong>{{ $monthLabel }}</strong></a>
+            {{ else }}
+              <a href="{{ $monthURL }}">{{ $monthLabel }}</a>
+            {{ end }}
+          {{ end }}
+        </p>
       </header>
-
-      <p class="inline-links">
-        {{ range $availableYears }}
-          {{ $yearValue := . }}
-          {{ $yearURL := printf "timeline/%04d/" $yearValue | relURL }}
-          {{ if eq $yearValue $selectedYear }}
-            <a href="{{ $yearURL }}"><strong>{{ $yearValue }}</strong></a>
-          {{ else }}
-            <a href="{{ $yearURL }}">{{ $yearValue }}</a>
-          {{ end }}
-        {{ end }}
-      </p>
-
-      <p class="inline-links">
-        {{ range $availableMonths }}
-          {{ $monthValue := . }}
-          {{ $monthURL := printf "timeline/%04d/%02d/" $selectedYear $monthValue | relURL }}
-          {{ $monthLabel := (time.AsTime (printf "%04d-%02d-01" $selectedYear $monthValue)).Format "Jan" }}
-          {{ if eq $monthValue $selectedMonth }}
-            <a href="{{ $monthURL }}"><strong>{{ $monthLabel }}</strong></a>
-          {{ else }}
-            <a href="{{ $monthURL }}">{{ $monthLabel }}</a>
-          {{ end }}
-        {{ end }}
-      </p>
 
       {{ if gt (len $selectedPages) 0 }}
         <h2>{{ len $selectedPages }} video{{ if ne (len $selectedPages) 1 }}s{{ end }}</h2>
