@@ -179,7 +179,6 @@ ul.archive-list {
     display: flex;
     flex-wrap: wrap;
     gap: 0.45rem 0.8rem;
-    margin-top: 0.35rem;
 }
 
 .archive-list .inline-links {
@@ -222,12 +221,6 @@ ul.archive-list {
 
 .status-legend p {
     margin-bottom: 0.65rem;
-}
-
-.status-pair {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.25rem;
 }
 
 .status-legend-list {

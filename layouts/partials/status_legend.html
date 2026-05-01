@@ -1,22 +1,22 @@
 <div class="status-legend">
   <p>
-    <span class="status-pair">{{ partial "status_badge.html" (dict "status" "private" "mode" "list") }}</span><br>
+    <span class="status-line">{{ partial "status_badge.html" (dict "status" "private" "mode" "list") }}</span>
     <span class="status-legend-description">Waiting for the video to appear publicly on YouTube.</span>
   </p>
   <p>
-    <span class="status-pair">{{ partial "status_badge.html" (dict "status" "public" "mode" "list") }}</span><br>
+    <span class="status-line">{{ partial "status_badge.html" (dict "status" "public" "mode" "list") }}</span>
     <span class="status-legend-description">Metadata is available, but subtitle retrieval has not succeeded yet.</span>
   </p>
   <p>
-    <span class="status-pair">{{ partial "status_badge.html" (dict "status" "vtt" "mode" "list") }}</span><br>
+    <span class="status-line">{{ partial "status_badge.html" (dict "status" "vtt" "mode" "list") }}</span>
     <span class="status-legend-description">Subtitle data exists, but transcript markdown has not been generated yet.</span>
   </p>
   <p>
-    <span class="status-pair">{{ partial "status_badge.html" (dict "status" "transcript" "mode" "list") }}</span><br>
+    <span class="status-line">{{ partial "status_badge.html" (dict "status" "transcript" "mode" "list") }}</span>
     <span class="status-legend-description">Transcript markdown exists, but the optional LLM review pass has not completed yet.</span>
   </p>
   <p>
-    <span class="status-pair">{{ partial "status_badge.html" (dict "status" "production" "mode" "list") }}</span><br>
+    <span class="status-line">{{ partial "status_badge.html" (dict "status" "production" "mode" "list") }}</span>
     <span class="status-legend-description">Transcript markdown exists and has already passed transcript and paragraph cleanup through the optional LLM review pipeline at least once.</span>
   </p>
 </div>
