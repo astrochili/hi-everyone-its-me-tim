@@ -1,6 +1,7 @@
 title = "Hi everyone. It's me, Tim."
 languageCode = "en-us"
 copyright = ""
+disablePathToLower = true
 
 [pagination]
 pagerSize = 24
