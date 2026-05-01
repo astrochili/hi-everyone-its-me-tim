@@ -4,13 +4,13 @@ date = "2024-03-01"
 id = "6mvH-sWq9Zo"
 status = "transcript"
 tags = ["Troika Games"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the origin of the name for troa games."
+summary = "Hi everyone. It's me, Tim. Today I want to talk about the origin of the name for Troika Games."
 references = ["tPuXYk6FvFU", "8rhgaSkmY_s"]
 +++
 
-Hi everyone. It's me, Tim. Today I want to talk about the origin of the name for troa games.
+Hi everyone. It's me, Tim. Today I want to talk about the origin of the name for Troika Games.
 
-I thought I had talked about this before but I guess I haven't, and I've had people ask as recently as doing yesterday's video on what I would have speculated would have happened if troa games had still been around for Kickstarter. Theo rodk 782 asked what was the origin of tra's name.
+I thought I had talked about this before but I guess I haven't, and I've had people ask as recently as doing yesterday's video on what I would have speculated would have happened if Troika Games had still been around for Kickstarter. Theo rodk 782 asked what was the origin of Troika's name.
 
 Okay, I'll go through what, um exactly where it came from and why we used it and why we liked it, and also dispel the A common explanation I here. That's completely wrong, so the word troa is Russian. It means a carriage drawn by three horses who are a breast, so none of those horses are the lead horse. Here's a picture off a chocolate box It's got two troa carriages on it. Uh, this box of chocolate was given to me by my friends Larry and Maria. Uh, it was a delicious box of Russian chocolate.
 
