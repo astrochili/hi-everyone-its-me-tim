@@ -4,7 +4,7 @@ date = "2024-03-25"
 id = "IhF-8-5S5OE"
 status = "transcript"
 tags = ["Game Design", "Balance"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about fun."
+summary = "I talk about fun vs. balance and how some designers want to force players to have their vision of a fun experience. I even try to define fun...and fail."
 references = ["TshXDFgfiTg", "TiL2wa66wxs", "OoJ6CDDfYiU", "jWEuSV_nbfA"]
 +++
 

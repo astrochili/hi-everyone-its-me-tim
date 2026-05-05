@@ -4,7 +4,7 @@ date = "2025-01-10"
 id = "tBUPySwWmkM"
 status = "transcript"
 tags = ["TTRPG"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Shadow dark."
+summary = "I talk about my fondness for a new tabletop role playing game, Shadowdark. You can learn more about it and get their free quickstart PDF at:"
 references = ["eUxCRABoZng", "PnQll2PhAcA", "NyVZlvaAYX4"]
 +++
 

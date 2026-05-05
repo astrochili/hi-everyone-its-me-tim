@@ -4,7 +4,7 @@ date = "2024-01-16"
 id = "gIjcVmhPzA8"
 status = "transcript"
 tags = ["Storytime"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about the story of the wig."
+summary = "I tell the story of the photo of me wearing a wig and holding an Oscar statuette. The photo was taken in early 2004."
 references = ["urG54XUIpjk"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-10-22"
 id = "cycAlba00p8"
 status = "transcript"
 tags = ["Publishing", "Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about converting, like a movie or TV show into a game."
+summary = "I talk about how to convert an IP from one type (a movie) into another (a game), using a particular movie as an example of how I would do that."
 references = ["9lYuzefVvMA"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-07-06"
 id = "9lYuzefVvMA"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about brainstorming, basically my thoughts on it, how we did it, what worked, what didn't."
+summary = "I talk about brainstorming, how I did it, and what worked and what did not."
 references = []
 +++
 

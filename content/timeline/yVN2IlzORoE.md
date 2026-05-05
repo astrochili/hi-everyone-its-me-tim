@@ -4,7 +4,7 @@ date = "2025-04-21"
 id = "yVN2IlzORoE"
 status = "transcript"
 tags = ["Fallout", "Combat Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about realtime Fallout."
+summary = "I answer the question \"how would I convert Fallout to real time combat?\", which is something I would never do."
 references = ["hUrNahAr5ho", "lexhF4xqpu8", "-QUDeipApgU"]
 +++
 

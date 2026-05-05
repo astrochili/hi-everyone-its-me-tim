@@ -4,7 +4,7 @@ date = "2024-03-20"
 id = "sGPJJWjrymw"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. I get asked to review games or comment on other games a lot and I've said I'm not going to do that. But today I thought I'd do something a little silly, and I mean this light-heartedly. But I'm going to talk about times I've been playing games, other RPGs — where I get bored. Bo I'm going to talk about — I'm not going to about particular games."
+summary = "I talk about features that have been so overused in RPGs that I grow bored now playing games with those features."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2025-09-19"
 id = "5enqUghXMv4"
 status = "transcript"
 tags = ["Careers", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about my uncredited game."
+summary = "I talk about a game I developed from which I had my name removed from its credits...and why."
 references = ["F707wIeTX2g"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-10-14"
 id = "bNf601IoBpc"
 status = "transcript"
 tags = ["TTRPG", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about tabletop RPG influences that directly show up in my own computer games."
+summary = "I talk about the experiences I had with tabletop RPGs that showed up later in my own computer RPGs, specifically in Fallout, Arcanum, and The Temple Of Elemental Evil."
 references = []
 +++
 

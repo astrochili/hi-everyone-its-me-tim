@@ -4,7 +4,7 @@ date = "2023-07-13"
 id = "-QUDeipApgU"
 status = "transcript"
 tags = ["Arcanum", "Combat Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about arcanums, various combat modes, the real time, turn-based and fast turn based, kind of what the ideas were behind that, why it's even in the game, um, what I wish"
+summary = "I talk about Arcanum's combat modes, my intention for them, and what I would change now."
 references = []
 +++
 

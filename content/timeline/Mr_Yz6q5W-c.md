@@ -4,7 +4,7 @@ date = "2025-03-14"
 id = "Mr_Yz6q5W-c"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the ultimate RPG."
+summary = "I talk about the ultimate RPG and what features it will have. Even though I don't know how to make it, I am hoping one of you will."
 references = []
 +++
 

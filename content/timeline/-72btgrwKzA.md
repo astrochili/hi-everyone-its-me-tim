@@ -4,7 +4,7 @@ date = "2023-08-25"
 id = "-72btgrwKzA"
 status = "transcript"
 tags = ["Feedback"]
-summary = "Hi everyone. It's me, Tim. Today I want to answer another question, this time from Brooke Richardson, 1373, who asks: can you do a video on giving good and relevant game design feedback, and how do we know when things aren't balanced?"
+summary = "I talk about how to give good feedback on game design, specifically how to keep the feedback relevant and actionable."
 references = []
 +++
 

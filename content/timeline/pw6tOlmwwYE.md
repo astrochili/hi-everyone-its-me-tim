@@ -4,7 +4,7 @@ date = "2023-10-01"
 id = "pw6tOlmwwYE"
 status = "transcript"
 tags = ["Quest Design", "Programming"]
-summary = "Hey everyone. It's me, Tim. And today I want to talk about Quest implementation."
+summary = "I talk about the design and coding of the system I use to structure and implement quests in role playing games."
 references = []
 +++
 

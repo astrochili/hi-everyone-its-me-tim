@@ -4,7 +4,7 @@ date = "2023-05-31"
 id = "gg8vcogc328"
 status = "transcript"
 tags = ["Fallout", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Fallout cut content."
+summary = "I talk about content of Fallout (and one thing from Fallout 2) that never made it into the shipping game, either because the design was rejected, or we didn't have time to make it, or it wasn't finished by the time the game shipped."
 references = []
 +++
 

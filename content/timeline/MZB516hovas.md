@@ -4,7 +4,7 @@ date = "2023-07-27"
 id = "MZB516hovas"
 status = "transcript"
 tags = ["Narrative Design", "Multiplayer"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk to you about storytelling in massively multiplayer online RPGs."
+summary = "I talk about my ideas on how to tell stories in MMORPGs, pulled from a talk I gave at GDC Online in 2010."
 references = []
 +++
 

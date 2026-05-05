@@ -4,7 +4,7 @@ date = "2024-03-12"
 id = "V6rDgA5NXQc"
 status = "transcript"
 tags = ["Player Choice", "Narrative Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about canonical endings, and by canonical endings I mean the ending of the of a game that is considered to be the right ending, or the correct ending, or the true ending or, at the very minimum, the ending the developer expected you to have."
+summary = "I talk about my thoughts about the canonical endings to games...or how to pick what ending is the best/right/correct/expected ending when considering a game or its sequel."
 references = []
 +++
 

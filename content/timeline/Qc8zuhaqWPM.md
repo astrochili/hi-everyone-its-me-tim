@@ -4,7 +4,7 @@ date = "2023-06-16"
 id = "Qc8zuhaqWPM"
 status = "transcript"
 tags = ["Programming", "Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to continue from yesterday's video about challenges designers face."
+summary = "I talk about my experiences as a game programmer, including some  challenges game programmers may face and the one trait all programmers need to cultivate."
 references = []
 +++
 

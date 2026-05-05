@@ -4,7 +4,7 @@ date = "2024-04-12"
 id = "5D_C0gNjaiw"
 status = "transcript"
 tags = ["Fallout"]
-summary = "Hi everyone, it's me, Tim. Okay, let's talk about the Fallout TV Show, because apparently my game development stories are not interesting to you people, so let me talk about it."
+summary = "I talk about the Fallout TV show and my experiences at the Hollywood premiere on April 9, 2024."
 references = []
 +++
 

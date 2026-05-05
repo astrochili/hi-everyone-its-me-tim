@@ -4,7 +4,7 @@ date = "2024-08-07"
 id = "Naig0iJ_E9E"
 status = "transcript"
 tags = ["Hiring", "Storytime", "Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about my worst job interview."
+summary = "I talk about the worst job interview I ever experienced as a hiree...well, two interviews, since it's a tie."
 references = ["c6CJUMW-3p0", "1WxB2c02_Js"]
 +++
 

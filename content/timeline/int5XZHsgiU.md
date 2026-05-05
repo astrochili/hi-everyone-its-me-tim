@@ -4,7 +4,7 @@ date = "2025-10-15"
 id = "int5XZHsgiU"
 status = "transcript"
 tags = ["Networking"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the importance of conversation."
+summary = "I talk about why it is very important to talk about game development (or anything else) with your peers. You don't have to do it a lot, but you should do it."
 references = ["FT0fLk0WjZA", "bcr3mMStEOE", "1mQe7YqiBLs", "9Pdcv7Aj8S0"]
 +++
 

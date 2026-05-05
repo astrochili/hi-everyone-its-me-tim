@@ -4,7 +4,7 @@ date = "2024-04-19"
 id = "7bFBLAbwMA0"
 status = "transcript"
 tags = ["Fallout"]
-summary = "Hi everyone. It's me Tim. Let's do a Fallout TV show review."
+summary = "I have now watched all 8 episodes, so let's talk about the Fallout TV show. Caution: there are spoilers!"
 references = ["5D_C0gNjaiw", "r5r46aVMIz0", "waUjJ2VjvaE", "FFjjn8hBjJw", "V6rDgA5NXQc"]
 +++
 

@@ -4,7 +4,7 @@ date = "2026-01-26"
 id = "akKcwfEkuKQ"
 status = "transcript"
 tags = ["Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about unretirement."
+summary = "I talk about coming out of retirement and how it's different than semi retirement or even previous employment."
 references = ["cdHqBi1IPOY", "BCPawvnlU5o", "9q2YkBc2mk8", "Kh5JMp5_5nQ", "MiAEBpXlelk", "int5XZHsgiU"]
 +++
 

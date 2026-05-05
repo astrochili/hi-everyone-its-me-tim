@@ -4,7 +4,7 @@ date = "2023-06-28"
 id = "VxIisf8fQtE"
 status = "transcript"
 tags = ["Fallout", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the attributes in Fallout, the special attributes."
+summary = "I talk about the systemic (i.e. coded) effects of the SPECIAL attributes in the first Fallout game."
 references = []
 +++
 

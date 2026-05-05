@@ -4,7 +4,7 @@ date = "2024-08-30"
 id = "WmAmhoNG_B4"
 status = "transcript"
 tags = ["Character Systems"]
-summary = "Hi everyone, it's me, Tim. It's Friday funay, so today I wanted to talk about an idea I had for a class called the elemental Mage."
+summary = "I describe a character class called the Elemental Mage from my idea book."
 references = []
 +++
 

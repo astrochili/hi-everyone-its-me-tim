@@ -4,7 +4,7 @@ date = "2025-12-19"
 id = "9q2YkBc2mk8"
 status = "transcript"
 tags = ["Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the joy of doing."
+summary = "I tell a story of recently spending a lot of time on a problem and getting no solution, but being happy to have done the work."
 references = []
 +++
 

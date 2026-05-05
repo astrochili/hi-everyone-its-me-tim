@@ -4,7 +4,7 @@ date = "2023-12-14"
 id = "d208Uv-aZYU"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hey everyone. It's me, Tim. Today I want to talk about Telemetry in games."
+summary = "I talk about using telemetry to balance video games, including the use of a telemetry server and a database, and a discussion of what kinds of events you would want to record and what kinds of reports you would want to generate."
 references = []
 +++
 

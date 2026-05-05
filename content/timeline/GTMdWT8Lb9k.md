@@ -4,7 +4,7 @@ date = "2024-02-05"
 id = "GTMdWT8Lb9k"
 status = "transcript"
 tags = ["Combat Design", "UI/UX"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about damage numbers — yes, those little numbers that fly off of people when you hit them in games — because that's actually an interesting topic to talk about, and"
+summary = "I talk about the design and development process that goes into a feature as seemingly straightforward as damage numbers in combat."
 references = []
 +++
 

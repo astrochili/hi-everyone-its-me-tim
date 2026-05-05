@@ -4,7 +4,7 @@ date = "2024-05-07"
 id = "0Z5fFE0r8bs"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about why I hate cultural references."
+summary = "I talk about cultural references in games (and movies, TV shows, books, etc.) and how they make those games feel dated."
 references = ["UGfaCXEu0tE"]
 +++
 

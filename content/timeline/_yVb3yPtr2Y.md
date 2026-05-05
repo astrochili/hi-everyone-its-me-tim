@@ -4,7 +4,7 @@ date = "2025-07-11"
 id = "_yVb3yPtr2Y"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about silver linings."
+summary = "Your situation may seem tough, whether you are making a game or just experiencing life, but look in the clouds for a silver lining. I give examples of where I did exactly that."
 references = ["jeP9wVou9hA", "6i8Bx4zYIKQ", "IhaHPgZS1Fw", "coPkWyJIl-M", "fHUAFYDzN3U", "aYnnGpLY9M4"]
 +++
 

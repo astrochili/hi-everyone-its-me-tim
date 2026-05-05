@@ -4,7 +4,7 @@ date = "2025-01-15"
 id = "SuMElKtydDQ"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about code refactoring."
+summary = "I talk about code refactoring: what it is, why you want to do it, and ways it is misused."
 references = ["hZEosFcqmcU", "QWAetn0Ch9I"]
 +++
 

@@ -4,7 +4,7 @@ date = "2025-01-29"
 id = "jAOtTrh-pJ8"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about showcasing your work."
+summary = "I talk about how to organize your content in your game demo, trailer, design portfolio, and even interviews in order to showcase and highlight your best work."
 references = ["rzLx31nXDw0", "uljC4cZh-Oc"]
 +++
 

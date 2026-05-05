@@ -4,7 +4,7 @@ date = "2024-07-10"
 id = "joN36JIsz8o"
 status = "transcript"
 tags = ["Game Director", "Game Design"]
-summary = "Hi everybody. It's me, Tim. Today, I want to talk about highlevel design Direction."
+summary = "I talk about the most important and most misunderstood job that a game director has to do, and that's inspect every element of the game to see if it serves the game's vision."
 references = ["F7uaMQnMsvI", "sYZCYDRQtSs", "VyQgWh-XAxs", "wPpkuynjT8M", "kK2EFxmbT1I", "lQwQAMXsTDU", "UGfaCXEu0tE", "YMY5LUNdS-8", "xM6Cr04wWSc"]
 +++
 

@@ -4,7 +4,7 @@ date = "2025-02-24"
 id = "UZJ-1AS4UKA"
 status = "transcript"
 tags = ["Game Design", "Game Director"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about my ideas that got rejected from my own games, and I'm going to start all the way back with Fallout, which was now what?"
+summary = "I talk about ideas of mine that got rejected from being added to my own games, sometimes when I was that game's director."
 references = ["Kh5JMp5_5nQ", "kgPwfHXiBjw", "keTG-5WPccU", "kC7StCQZW7Y", "vQj5rJry4Pw", "dkl_hjWeYhg", "85trmtqR-s8"]
 +++
 

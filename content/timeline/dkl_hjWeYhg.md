@@ -4,7 +4,7 @@ date = "2024-12-20"
 id = "dkl_hjWeYhg"
 status = "transcript"
 tags = ["The Outer Worlds", "Storytime", "Press Event"]
-summary = "Hi everyone. It's me, Tim. Today I want to share with you something special: The Outer Worlds launch party video."
+summary = "I show a video I made with Ryan Rucinski  and Tony Blackwell to show at The Outer Worlds launch party on October 25, 2019."
 references = ["ZjI-iTy11uM", "IADSh_P05As"]
 +++
 

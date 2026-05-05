@@ -4,7 +4,7 @@ date = "2024-04-29"
 id = "8llzV6jBJlk"
 status = "transcript"
 tags = ["IP", "Marketing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about player expectations."
+summary = "I talk about how and why you need to manage player expectations about your game, starting well before the game comes out. This can be easier for new IPs...and sometimes harder."
 references = ["vp17yIB6Ijo", "0B73CFvgsU8"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-11-08"
 id = "0QkxMF-4ckA"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the worst RPG ever."
+summary = "I talk about an RPG filled with bad design decisions. Don't worry, it's hypothetical...or is it?"
 references = []
 +++
 

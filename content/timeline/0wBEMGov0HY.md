@@ -4,7 +4,7 @@ date = "2024-10-08"
 id = "0wBEMGov0HY"
 status = "transcript"
 tags = ["Feedback"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how feedback needs context, because it's hard to know what to do with feedback if you don't have context."
+summary = "I talk about how feedback needs context for you to be able to act upon it well."
 references = ["-72btgrwKzA", "Gtcl1ZbWyX8", "IADSh_P05As", "vp17yIB6Ijo"]
 +++
 

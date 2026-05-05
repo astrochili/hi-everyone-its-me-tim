@@ -4,7 +4,7 @@ date = "2023-12-12"
 id = "gmDX1p-WZ7g"
 status = "transcript"
 tags = ["Game Development", "Game Design", "Writing"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about how to write design specifications."
+summary = "I talk about how to write detailed design specifications for artists and programmers."
 references = []
 +++
 

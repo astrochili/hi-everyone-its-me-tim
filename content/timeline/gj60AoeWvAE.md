@@ -4,7 +4,7 @@ date = "2023-07-31"
 id = "gj60AoeWvAE"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hey everyone. It's me, Tim. Today I want to talk about my development preferences."
+summary = "I talk about what game features I like to put in my own games, those things that make me think \"this is a Tim Cain\" game."
 references = []
 +++
 

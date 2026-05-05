@@ -4,7 +4,7 @@ date = "2026-03-09"
 id = "-h6Sb3WDiyk"
 status = "transcript"
 tags = ["Fallout", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about whether Fallout was destined to happen or the result of massive preparation."
+summary = "I talk about how Fallout was destined to be...or was everyone just ready to make it?"
 references = ["MKEfcaSn7Ko", "bNf601IoBpc", "xBUkdO4IK7w", "W8hesnidqqE", "nWvwcH2IROo", "bcr3mMStEOE", "efCn85Tvrf8", "Iw3bCdIvAj0", "jHIabSKo26U"]
 +++
 

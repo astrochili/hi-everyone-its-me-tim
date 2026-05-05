@@ -4,7 +4,7 @@ date = "2023-09-02"
 id = "N3mX9ySWz6o"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about creeping normality."
+summary = "I talk about creeping normality, or how people push against the defined limits of a design in order to deliberately change them."
 references = []
 +++
 

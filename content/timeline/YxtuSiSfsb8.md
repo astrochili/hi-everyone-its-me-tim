@@ -4,7 +4,7 @@ date = "2025-01-31"
 id = "YxtuSiSfsb8"
 status = "transcript"
 tags = ["Quest Design", "Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Dynamic Quest Design."
+summary = "I talk about how I would design and implement a dynamic quest system."
 references = ["4NorMGww9CA", "pw6tOlmwwYE", "5l7YcGCQ5Ck", "i1SnVddY4k0", "ETCLEt-PEPM"]
 +++
 

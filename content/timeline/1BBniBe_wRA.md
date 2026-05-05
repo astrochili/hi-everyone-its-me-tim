@@ -4,7 +4,7 @@ date = "2024-01-09"
 id = "1BBniBe_wRA"
 status = "transcript"
 tags = ["Temple of Elemental Evil", "Game Design", "IP"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about my thoughts on a temple remake, a remake of Temple of Elemental Evil, with things I would like to do that either I ran out of time to do or wish"
+summary = "I talk about what I would add and change if I were to remake The Temple Of Elemental Evil today."
 references = ["pgn2sQ4vAkU", "hUrNahAr5ho"]
 +++
 

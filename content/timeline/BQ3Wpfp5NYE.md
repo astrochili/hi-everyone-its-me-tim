@@ -4,7 +4,7 @@ date = "2025-03-05"
 id = "BQ3Wpfp5NYE"
 status = "transcript"
 tags = ["Management", "Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about onboarding new team members."
+summary = "I talk about how to bring new team members up to speed on the game project you are making."
 references = ["lgajXqRVwdw", "IADSh_P05As"]
 +++
 

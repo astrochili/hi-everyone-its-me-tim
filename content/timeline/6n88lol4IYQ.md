@@ -4,7 +4,7 @@ date = "2024-01-17"
 id = "6n88lol4IYQ"
 status = "transcript"
 tags = ["Combat Design", "Progression"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about enemy progression."
+summary = "I talk about enemy progression and basic techniques to put together more difficult enemy encounters."
 references = ["za5u4j6lc-w", "RACW99lvJJg"]
 +++
 

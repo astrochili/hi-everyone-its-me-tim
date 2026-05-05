@@ -4,7 +4,7 @@ date = "2026-03-18"
 id = "6buACYLTHBI"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about mini games."
+summary = "I talk about the pros and cons of putting mini games in your roleplaying game."
 references = ["3s7IBpFTaKY"]
 +++
 

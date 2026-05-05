@@ -4,7 +4,7 @@ date = "2024-09-09"
 id = "_I6PWzqzrTs"
 status = "transcript"
 tags = ["Networking", "Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about pxs 2024."
+summary = "I talk about my attending PAX 2024 in Seattle over the long Labor Day weekend."
 references = []
 +++
 

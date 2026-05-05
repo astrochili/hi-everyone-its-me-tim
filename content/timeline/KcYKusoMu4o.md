@@ -4,7 +4,7 @@ date = "2025-02-19"
 id = "KcYKusoMu4o"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk to you about what you should do when your game doesn't sell."
+summary = "I talk about what to do if you ship a game that doesn't sell well."
 references = ["fyu2DJBWPOc", "vp17yIB6Ijo", "lmgJVUuS1I8"]
 +++
 

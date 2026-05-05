@@ -4,7 +4,7 @@ date = "2023-09-19"
 id = "hUrNahAr5ho"
 status = "transcript"
 tags = ["Fallout", "Game Design", "IP"]
-summary = "Hi everyone. It's me, Tim. Today I want to answer a question from Evan shantlin Who, full disclosure, worked on QA on Fallout."
+summary = "I talk about how I would remake Fallout today...including defining what I mean by \"remake\"."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2026-04-20"
 id = "1xvLwldNHc4"
 status = "production"
 tags = ["Dialogue", "Quest Design", "Player Choice"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about dialogue quest solutions."
+summary = "I talk about dialog-based quest solutions in RPGs and some problems I see with them."
 references = ["vlkksy6casU"]
 +++
 

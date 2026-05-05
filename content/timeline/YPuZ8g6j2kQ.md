@@ -4,7 +4,7 @@ date = "2024-04-09"
 id = "YPuZ8g6j2kQ"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about perseverance."
+summary = "I talk about perseverance and all the times I thought about leaving the games industry."
 references = ["59Ez1oyamFU", "a8fmAt3Ro_Y", "ho-g8KVx9hU"]
 +++
 

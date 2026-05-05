@@ -4,7 +4,7 @@ date = "2024-07-05"
 id = "lEWshPGT6HM"
 status = "transcript"
 tags = ["Fallout", "Lore"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the number of vaults in Fallout."
+summary = "I talk about the number of vaults that have appeared in the Fallout series, and why the cannon number of 1,000 is probably an overestimate of the actual number of vaults constructed."
 references = ["oWd4RBdeoaM", "FqKhMeAcKTM", "VWvSaAGt9N8"]
 +++
 

@@ -4,7 +4,7 @@ date = "2026-03-06"
 id = "_smS4XBoTy0"
 status = "transcript"
 tags = ["Storytime", "Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about scenes from unretirement."
+summary = "Enjoy some photos and videos of my new life of being unretired."
 references = ["akKcwfEkuKQ", "c6YwaDiSdTg", "5D_C0gNjaiw"]
 +++
 

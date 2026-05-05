@@ -4,7 +4,7 @@ date = "2026-03-16"
 id = "R4ojwXNkcSI"
 status = "transcript"
 tags = ["Feedback"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about handling advice."
+summary = "I talk about how to handle people telling you what to do."
 references = ["Gtcl1ZbWyX8", "-72btgrwKzA", "0wBEMGov0HY"]
 +++
 

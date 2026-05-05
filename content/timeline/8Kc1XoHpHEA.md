@@ -4,7 +4,7 @@ date = "2024-03-05"
 id = "8Kc1XoHpHEA"
 status = "transcript"
 tags = ["Bugs", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about bugs and particularly bugs and RPGs."
+summary = "I talk about why there are bugs in RPGs, forever and always."
 references = ["jWEuSV_nbfA", "xM6Cr04wWSc"]
 +++
 

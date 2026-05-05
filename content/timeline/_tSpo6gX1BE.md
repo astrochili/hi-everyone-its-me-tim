@@ -4,7 +4,7 @@ date = "2023-05-08"
 id = "_tSpo6gX1BE"
 status = "production"
 tags = ["Troika Games", "Prototype", "IP", "Game Engines", "Worldbuilding"]
-summary = "Hi everyone. It's me, Tim."
+summary = "I discuss the demo that Troika Games made for our own post-apocalyptic IP. I talk about why we made it, some details about the setting and mechanics, and what happened to it."
 references = []
 +++
 

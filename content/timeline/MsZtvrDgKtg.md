@@ -4,7 +4,7 @@ date = "2025-07-23"
 id = "MsZtvrDgKtg"
 status = "transcript"
 tags = ["Worldbuilding"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about anamoya, which is feeling nostalgia for a time and place that you've never known — And yes"
+summary = "I talk about anemoia, or nostalgia for a past time you’ve never known, and why you want to evoke that in your games."
 references = ["MiAEBpXlelk", "3KMUaVsp9Zs", "kNpSGR7bRW4", "z8Vx8eBr0KU"]
 +++
 

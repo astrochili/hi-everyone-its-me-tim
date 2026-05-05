@@ -4,7 +4,7 @@ date = "2025-05-19"
 id = "a2D1-X_9iOA"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about unpopular game opinions."
+summary = "I talk about what it's like to prefer game features that other don't (and vice versa), as a gamer and a developer."
 references = ["vp17yIB6Ijo", "fyu2DJBWPOc", "UZJ-1AS4UKA", "lmgJVUuS1I8"]
 +++
 

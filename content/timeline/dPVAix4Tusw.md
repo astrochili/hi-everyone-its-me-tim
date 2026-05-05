@@ -4,7 +4,7 @@ date = "2025-12-08"
 id = "dPVAix4Tusw"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim."
+summary = "I answer a commonly asked question \"Why are modern games so much bigger than older games\" in excruciating detail."
 references = []
 +++
 

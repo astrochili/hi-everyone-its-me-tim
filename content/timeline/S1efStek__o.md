@@ -4,7 +4,7 @@ date = "2025-10-31"
 id = "S1efStek__o"
 status = "transcript"
 tags = ["Temple of Elemental Evil", "Dungeons & Dragons"]
-summary = "Hi everyone. It's me, Tim. Today I want to share with you questions I sent to Wizards of the Coast about Temple of Elemental Evil."
+summary = "These are questions I asked Wizards of the Coast about the Temple of Elemental Evil module, when I was making the video game version back in the early 2000s."
 references = ["lb6agFgh11E", "q8T255IglJw"]
 +++
 

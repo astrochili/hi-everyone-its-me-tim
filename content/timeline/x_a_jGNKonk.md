@@ -4,7 +4,7 @@ date = "2024-05-14"
 id = "x_a_jGNKonk"
 status = "transcript"
 tags = ["IP"]
-summary = "Hi everyone, this is Tim. Today I want to talk about another new IP idea."
+summary = "I talk about another new IP idea I have had, this one centering on a unique mechanic in an otherwise typical fantasy RPG."
 references = ["ZonqVO0FNbc"]
 +++
 

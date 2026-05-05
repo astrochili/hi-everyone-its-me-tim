@@ -4,7 +4,7 @@ date = "2025-06-30"
 id = "o4QcRQ5ucBk"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about tiles, walking and projection And just off the top, let me just say"
+summary = "I talk about your choices for tiling, walking animations, and projection type in 2D games."
 references = []
 +++
 

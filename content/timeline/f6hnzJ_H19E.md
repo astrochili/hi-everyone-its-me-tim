@@ -4,7 +4,7 @@ date = "2024-07-03"
 id = "f6hnzJ_H19E"
 status = "transcript"
 tags = ["Management"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how to remedy problematic behaviors and these are on people on a team you're on, in fact."
+summary = "I talk about problems that team members can cause during development and how to handle them."
 references = ["gMiQ9_MzM6Q", "ne9IIn7nEV4"]
 +++
 

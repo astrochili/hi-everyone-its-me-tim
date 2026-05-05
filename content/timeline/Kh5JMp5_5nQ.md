@@ -4,7 +4,7 @@ date = "2023-06-22"
 id = "Kh5JMp5_5nQ"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everyone, it's me, Tim, so I've been telling a lot of stories."
+summary = "I talk about the lessons I learned from things that went wrong, which often taught me more than when things went right."
 references = []
 +++
 

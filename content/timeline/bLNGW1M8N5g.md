@@ -4,7 +4,7 @@ date = "2024-03-06"
 id = "bLNGW1M8N5g"
 status = "transcript"
 tags = ["Game Industry", "YouTube"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about why there aren't more game developers doing channels like this."
+summary = "I talk about the reasons you don't see more game developers doing channels like this one, and why I don't do more interview chats on this channel, and why it took me so long to even make a channel like this one."
 references = []
 +++
 

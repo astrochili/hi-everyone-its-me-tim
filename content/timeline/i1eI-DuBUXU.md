@@ -4,7 +4,7 @@ date = "2025-11-14"
 id = "i1eI-DuBUXU"
 status = "transcript"
 tags = ["Rags to Riches", "Interplay"]
-summary = "Hi everyone. It's me, Tim. Today I want to read to you a Rags to Rich's review written by Tom Decker, the producer and designer of the game."
+summary = "This is a review of Rags to Riches by its producer and designer, Tom Decker, as written in an Interplay newsletter from June 1993."
 references = ["_aDdWpYcIok"]
 +++
 

@@ -4,7 +4,7 @@ date = "2025-06-06"
 id = "x-438XTmFBE"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about RPG myths, and what do I mean by that?"
+summary = "I talk about the various things that most RPGs try to convince you are true...and they're not."
 references = []
 +++
 

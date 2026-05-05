@@ -4,7 +4,7 @@ date = "2024-01-15"
 id = "AnhAzecN150"
 status = "transcript"
 tags = ["Publishing"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about piracy."
+summary = "I talk about my thoughts on video game piracy."
 references = []
 +++
 

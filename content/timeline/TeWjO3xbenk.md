@@ -4,7 +4,7 @@ date = "2024-12-12"
 id = "TeWjO3xbenk"
 status = "transcript"
 tags = ["Progression"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about grind specifically."
+summary = "I talk about grind: what is it, why is it in games, and can you make a game without it."
 references = []
 +++
 

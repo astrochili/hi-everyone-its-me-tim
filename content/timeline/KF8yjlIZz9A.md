@@ -4,7 +4,7 @@ date = "2023-06-29"
 id = "KF8yjlIZz9A"
 status = "transcript"
 tags = ["Arcanum", "Character Systems"]
-summary = "Hi everybody. It's me, Tim. Today I want to go over the effects of the attributes in Arcanum."
+summary = "I talk about the systemic effects of each of the eight attributes in Arcanum."
 references = []
 +++
 

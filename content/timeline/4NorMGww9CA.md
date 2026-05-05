@@ -4,7 +4,7 @@ date = "2025-01-27"
 id = "4NorMGww9CA"
 status = "transcript"
 tags = ["Writing", "TTRPG"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about writing my own TBL toop roleplaying game."
+summary = "I talk about my thoughts on making a paper-and-pencil RPG and what advantages and disadvantages I might have from my experience of making computer RPGs."
 references = ["DqL9R5PqE20"]
 +++
 

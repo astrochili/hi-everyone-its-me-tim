@@ -4,7 +4,7 @@ date = "2026-01-30"
 id = "4-FahKBaiG0"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about toys and games."
+summary = "I talk about what makes a toy and what makes a game."
 references = ["mHMFG8uvOb0", "CA7gIg5b6_8", "wpbUuoyGPBM", "oCKPphehFGk", "YYSDWFfXzlg", "niZtYIiIxOw", "kVV_2Yy_aXY", "GKKEY94Ikb0", "FqKhMeAcKTM"]
 +++
 

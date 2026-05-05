@@ -4,7 +4,7 @@ date = "2025-01-22"
 id = "qJ7GRXVEf_0"
 status = "transcript"
 tags = ["Character Systems", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about deck builder RPGs."
+summary = "I give my opinion on deckbuilder RPGs, where your abilities are randomly assigned to your character."
 references = ["DqL9R5PqE20", "XSKxD6v06P4"]
 +++
 

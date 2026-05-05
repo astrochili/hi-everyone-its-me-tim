@@ -4,7 +4,7 @@ date = "2024-02-08"
 id = "HFDQkYVozwo"
 status = "transcript"
 tags = ["Narrative Design", "Player Choice"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about gray morality."
+summary = "I talk about grey morality, when you have to choose an option among a set of  options that seem neither right or wrong. This happens in games and in life, and I like it in the former."
 references = ["vlkksy6casU", "UGfaCXEu0tE", "SrAuoqdl0os"]
 +++
 

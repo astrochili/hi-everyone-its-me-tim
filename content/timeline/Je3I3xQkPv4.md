@@ -4,7 +4,7 @@ date = "2024-06-24"
 id = "Je3I3xQkPv4"
 status = "transcript"
 tags = ["Careers", "Game Industry"]
-summary = "It's me, Tim, so you want to make games today?"
+summary = "I talk about all of the questions you might want to ask yourself before going into the game industry."
 references = ["HqCe8tS47jg", "R6zZyfOmliQ", "nQ2IMGC569U", "Qc8zuhaqWPM", "qmfZFoc53ss", "4XzaRlW2sio", "dekd1zMcXB4"]
 +++
 

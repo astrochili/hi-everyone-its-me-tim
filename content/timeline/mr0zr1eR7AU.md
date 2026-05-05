@@ -4,7 +4,7 @@ date = "2024-06-11"
 id = "mr0zr1eR7AU"
 status = "transcript"
 tags = ["Fallout", "Wasteland"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Fallout and Wasteland."
+summary = "I talk about the influence of Wasteland (1988) on Fallout (1997), both made at Interplay."
 references = ["Q8XTWJRBFeM"]
 +++
 

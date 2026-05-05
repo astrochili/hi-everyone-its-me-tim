@@ -4,7 +4,7 @@ date = "2025-09-01"
 id = "PJ15olgEW3Q"
 status = "transcript"
 tags = ["Narrative Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about endings."
+summary = "I talk about endings...and game endings...and why they are hard to craft."
 references = ["NnlnJSaj6z0", "V6rDgA5NXQc"]
 +++
 

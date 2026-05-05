@@ -4,7 +4,7 @@ date = "2025-03-12"
 id = "AHiwa1nruUU"
 status = "transcript"
 tags = ["Feedback"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about collecting feedback, specifically how and when and what to do with the feedback that you get on the game you're making."
+summary = "I talk about collecting feedback on your game, including different sources and what to do with it."
 references = ["xM6Cr04wWSc", "sCGeOsHV4Ag", "gCjHipuMir8", "bA-P3p7PdEc"]
 +++
 

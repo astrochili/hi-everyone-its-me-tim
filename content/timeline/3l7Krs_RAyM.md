@@ -4,7 +4,7 @@ date = "2024-10-14"
 id = "3l7Krs_RAyM"
 status = "transcript"
 tags = ["Real Life", "YouTube"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Channel analytics."
+summary = "I present data on my channel, from April 2023 to August 2024."
 references = ["UGfaCXEu0tE", "5D_C0gNjaiw", "LMVQ30c7TcA", "7bFBLAbwMA0", "oWd4RBdeoaM"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-12-30"
 id = "GqStN9u1Yjc"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about mentoring."
+summary = "I talk about mentoring, which is getting advice from someone older, wiser, and/or more experienced than you, and how I wish I had had a mentor earlier in my life."
 references = []
 +++
 

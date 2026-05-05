@@ -4,7 +4,7 @@ date = "2024-01-31"
 id = "jWEuSV_nbfA"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about emergent gameplay."
+summary = "I talk about emergent gameplay, defining what it is and also explaining how to have it in your game."
 references = []
 +++
 

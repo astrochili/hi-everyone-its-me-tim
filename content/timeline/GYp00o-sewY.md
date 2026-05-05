@@ -4,7 +4,7 @@ date = "2026-01-28"
 id = "GYp00o-sewY"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about code comments."
+summary = "I talk about commenting your source code."
 references = ["azJDI3Wvx9g"]
 +++
 

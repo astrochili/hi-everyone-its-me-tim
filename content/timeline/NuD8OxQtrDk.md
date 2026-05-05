@@ -4,7 +4,7 @@ date = "2024-09-17"
 id = "NuD8OxQtrDk"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about horror and non horror games."
+summary = "I talk about how to introduce horror elements in other genres."
 references = ["qQ7PpOztJyA", "K8nYj-wdaHE"]
 +++
 

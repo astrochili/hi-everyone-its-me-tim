@@ -4,7 +4,7 @@ date = "2026-03-20"
 id = "JQChYkjG4W4"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about making one more game."
+summary = "If I were to make one more game, what should I make?"
 references = ["gCjHipuMir8", "bA-P3p7PdEc"]
 +++
 

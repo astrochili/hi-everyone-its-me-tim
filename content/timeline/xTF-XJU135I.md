@@ -4,7 +4,7 @@ date = "2024-06-20"
 id = "xTF-XJU135I"
 status = "transcript"
 tags = ["Note-Taking", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about my notes again."
+summary = "I talk about my notes some more, and what I want people to learn from my stories. I'll use a Fallout story as an example of what I mean."
 references = ["P0NKR9R0XTg", "VgwDZDCaZso", "JOVgSfjWeVI"]
 +++
 

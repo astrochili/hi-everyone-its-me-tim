@@ -4,7 +4,7 @@ date = "2023-05-29"
 id = "0IZwda2fCKY"
 status = "transcript"
 tags = ["Fallout", "Arcanum", "Q&A"]
-summary = "Hi everyone. It's me, Tim."
+summary = "I answer many questions that have been asked over the last few weeks, so hopefully people can watch this video and refer back to it if those questions are asked again."
 references = []
 +++
 

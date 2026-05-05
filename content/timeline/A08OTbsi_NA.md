@@ -4,7 +4,7 @@ date = "2023-04-27"
 id = "A08OTbsi_NA"
 status = "production"
 tags = ["YouTube", "Game Development", "Storytime"]
-summary = "Hi there, my name is Timothy Cain and I've been a professional game developer for more than 40 years. Back in the 80s, I made a game called Grand Slam Bridge and most recently I made an RPG called The Outer Worlds. In between, I made a lot of other games."
+summary = "I am going to share some videos where I tell stories that cover more than forty years of game development, since the time I started professionally in 1981 at the age of 16, to the current day, where I am still active as a contractor at several different game companies. Feel free to follow this channel and ask questions in the comments. Let me know what topics you'd like to hear about!"
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-08-17"
 id = "l-Vuw-qWCgY"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I'm going to ask and answer another question from Tommy salami6694, who asks: hey, Tim, I was wondering if speedrunning has any effect on the games you've made, specifically the scope of bug fixes, post launch and internal developer views on speedrunning."
+summary = "I talk about my thoughts on speedrunning in video games."
 references = []
 +++
 

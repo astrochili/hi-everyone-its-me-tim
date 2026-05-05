@@ -4,7 +4,7 @@ date = "2025-07-09"
 id = "0O19mDanbJM"
 status = "transcript"
 tags = ["UI/UX"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about inventory UI and specifically, gridbased versus listbased user interfaces."
+summary = "I talk about the pros and cons of list versus grid based user interfaces."
 references = ["woOxKMxYoyI", "DnOmC1G3MPA", "xVNZZlmTSrg"]
 +++
 

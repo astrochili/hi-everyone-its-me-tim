@@ -4,7 +4,7 @@ date = "2026-04-10"
 id = "m00yuIP8uyE"
 status = "production"
 tags = ["AI", "Game Industry", "Game Preservation", "Modding", "Player Choice"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the future of generative AI."
+summary = "I try to predict how generative AI will change gaming, entertainment, and life in general."
 references = ["7MRx_i9gvWw", "7UGeI_fU5Lk", "68srUJOV3j4", "ETCLEt-PEPM"]
 +++
 

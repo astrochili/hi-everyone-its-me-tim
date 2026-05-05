@@ -4,7 +4,7 @@ date = "2023-05-15"
 id = "lb6agFgh11E"
 status = "transcript"
 tags = ["Temple of Elemental Evil", "Storytime"]
-summary = "Hi everyone, it's me, Tim, so yesterday's video about Temple development to evil was a little heavier."
+summary = "I had a lot of great times making The Temple of Elemental Evil. I mean, I got to talk to Gary Gygax, so let's talk about that!"
 references = []
 +++
 

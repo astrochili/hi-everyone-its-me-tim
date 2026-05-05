@@ -4,7 +4,7 @@ date = "2024-04-23"
 id = "qsqCDLgBBSo"
 status = "transcript"
 tags = ["Game Industry", "Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the missing R&D department, and by R&D I mean research and development."
+summary = "I talk about something that rarely exists in game development that is commonplace in other industries: the Research & Development Department."
 references = ["jHIabSKo26U", "c7Qg_vWzxXw"]
 +++
 

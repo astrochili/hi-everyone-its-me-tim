@@ -4,7 +4,7 @@ date = "2024-01-01"
 id = "OoJ6CDDfYiU"
 status = "transcript"
 tags = ["Player Choice"]
-summary = "Hi everyone, it's me, Tim, and let's start off the new year by talking about player agency."
+summary = "I talk about the continuum of player agency in games, including what I like to include in my own."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2025-09-15"
 id = "MhhjmTGnwEg"
 status = "transcript"
 tags = ["Character Systems", "Combat Design"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about using non-combat skills in combat."
+summary = "I talk about ways that non combat skills (and perks and attributes) can have effects in combat."
 references = ["C-W993q9xEg"]
 +++
 

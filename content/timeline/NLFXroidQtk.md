@@ -4,7 +4,7 @@ date = "2024-07-17"
 id = "NLFXroidQtk"
 status = "transcript"
 tags = ["Game Design", "Balance"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about gameplay options now."
+summary = "I talk about the issues caused by having too many gameplay options in your game."
 references = ["wUI6LZaCKCg"]
 +++
 

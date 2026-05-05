@@ -4,7 +4,7 @@ date = "2026-02-23"
 id = "SwYr0vRyOtk"
 status = "transcript"
 tags = ["Prototype", "Game Production"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about seeing the game in the prototype — Now."
+summary = "I talk about how important a prototype for your game is, and why game development leaders need the ability to imagine the final game from its prototype."
 references = ["IADSh_P05As", "dkl_hjWeYhg", "YG4i-F67YOk"]
 +++
 

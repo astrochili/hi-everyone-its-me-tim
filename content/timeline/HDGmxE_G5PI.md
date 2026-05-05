@@ -4,7 +4,7 @@ date = "2025-05-23"
 id = "HDGmxE_G5PI"
 status = "production"
 tags = ["Fallout", "Programming", "Bugs", "Game Preservation", "IP"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the challenges of making a Fallout remaster."
+summary = "I talk about the challenges facing anyone who tries to make a Fallout remaster."
 references = ["hUrNahAr5ho", "hZEosFcqmcU"]
 +++
 

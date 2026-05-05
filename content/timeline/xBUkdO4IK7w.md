@@ -4,7 +4,7 @@ date = "2023-05-03"
 id = "xBUkdO4IK7w"
 status = "production"
 tags = ["Fallout", "Dialogue", "Dungeons & Dragons", "Game Design", "TTRPG"]
-summary = "Hi. It's me, Tim. Today I want to tell a story."
+summary = "I tell the story of how playing Dungeons & Dragons in high school led to addition of dumb dialog (i.e., conversation options for low intelligence player characters) in Fallout and many of my subsequent games."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2025-10-22"
 id = "gVQgXp7gN6s"
 status = "transcript"
 tags = ["Management"]
-summary = "Hi everybody. It's me, Tim. Today I'm going to talk about flem."
+summary = "I talk about how employees are not interchangeable, even though companies want them to be."
 references = ["F707wIeTX2g", "pAK0dtNT3kc", "3mfl_jOf-Jw"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-08-27"
 id = "h3vynoyQNa0"
 status = "transcript"
 tags = ["Leadership"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about consistency in leadership, and maybe a better way to put that would be: if you're going to be a good leader, you have to be consistent."
+summary = "I talk about being consistent as a leader and why this is so important to your team."
 references = ["-72btgrwKzA", "Dk-QorAz1UM"]
 +++
 

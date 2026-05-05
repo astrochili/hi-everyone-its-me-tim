@@ -4,7 +4,7 @@ date = "2025-12-12"
 id = "uVaM2B4Qr-M"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to do a brainstorming example."
+summary = "A while back I made a video on brainstorming. Let's do an example here."
 references = ["9lYuzefVvMA"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-02-15"
 id = "fyu2DJBWPOc"
 status = "transcript"
 tags = ["Game Industry", "South Park: The Stick of Truth", "Pillars Of Eternity"]
-summary = "Hi everyone. It's me, Tim. Today I want to look at data, specifically data for my own games."
+summary = "I look at the objective data on my computer role playing games (numbers like team size, budget, sales, and review scores) to see if there are any conclusions I can reach."
 references = []
 +++
 

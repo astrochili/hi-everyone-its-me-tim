@@ -4,7 +4,7 @@ date = "2024-10-17"
 id = "xVNZZlmTSrg"
 status = "transcript"
 tags = ["Game Design", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about encumbrance again."
+summary = "I talk more about encumbrance, based on the discussions in the comment section of the first video...which you really should watch before watching this one."
 references = ["DnOmC1G3MPA"]
 +++
 

@@ -4,7 +4,7 @@ date = "2026-01-05"
 id = "7vBUHmSm7vA"
 status = "transcript"
 tags = ["Management"]
-summary = "Hi everyone. It's me, Tim. Today I'm going to talk about running meetings, something I know you all love."
+summary = "I talk about how to run meetings, which when run well are better than no meetings at all."
 references = ["int5XZHsgiU", "9lYuzefVvMA"]
 +++
 

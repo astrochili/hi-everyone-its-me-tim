@@ -4,7 +4,7 @@ date = "2025-04-11"
 id = "YbbRAS1JL1A"
 status = "transcript"
 tags = ["Vampire: The Masquerade - Bloodlines", "Multiplayer"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about counter bite, the Vampire: The Masquerade — Bloodlines multiplayer mode that we had suggested, that we had designed but never implemented for Vampire: The Masquerade — Bloodlines."
+summary = "I talk about the design specification for CounterBite, the planned multiplayer mode for my game Vampire The Masquerade Bloodlines."
 references = ["6iugDcbR-gE"]
 +++
 

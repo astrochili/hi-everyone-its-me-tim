@@ -4,7 +4,7 @@ date = "2024-12-18"
 id = "T6SlmvboQaU"
 status = "transcript"
 tags = ["Writing", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about my rejected Star Trek next Generation script."
+summary = "I talk about a screenplay I co-wrote for Star Trek The Next Generation. It was not accepted."
 references = []
 +++
 

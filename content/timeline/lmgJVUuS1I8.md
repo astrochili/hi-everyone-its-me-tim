@@ -4,7 +4,7 @@ date = "2024-04-02"
 id = "lmgJVUuS1I8"
 status = "transcript"
 tags = ["Game Industry", "Marketing"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about discoverability."
+summary = "I talk about the sheer number of new games coming out and why that makes it hard to find a game you want to play, as well as making it hard for new games to find their customers."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-09-16"
 id = "BPzMDnev_hE"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hey everyone. It's me, Tim. Today I want to answer another question about weapon durability — ice dog 111 asks: I was wondering if you could do a video about weapon durability or equipment durability as a game mechanic."
+summary = "I talk about item durability and why those mechanics are used in many RPGs."
 references = []
 +++
 

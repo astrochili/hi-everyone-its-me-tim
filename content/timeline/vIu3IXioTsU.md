@@ -4,7 +4,7 @@ date = "2025-12-10"
 id = "vIu3IXioTsU"
 status = "transcript"
 tags = ["Game Engines"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about game engines and feature creep."
+summary = "I talk about how pre-made game engines can lead to feature creep in modern games."
 references = ["Iw3bCdIvAj0", "dPVAix4Tusw", "goZlBF8Vsgs"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-03-29"
 id = "YUaellOkDGc"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hey everyone. It's me, Tim. Today's Friday. So let's talk about something fun."
+summary = "I talk about chocolate and my daily chocolate eating meeting at work...and what this has to do with game development."
 references = []
 +++
 

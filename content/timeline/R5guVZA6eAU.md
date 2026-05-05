@@ -4,7 +4,7 @@ date = "2023-05-10"
 id = "R5guVZA6eAU"
 status = "transcript"
 tags = ["Troika Games", "AI", "Programming"]
-summary = "Hi everyone, it's me Tim."
+summary = "Troika was known for making three games: Arcanum, Temple of Elemental Evil, and Vampire Bloodlines. But there was a fourth project...for the U.S. Department of Defense! We made a version of Temple that an external AI could play."
 references = []
 +++
 

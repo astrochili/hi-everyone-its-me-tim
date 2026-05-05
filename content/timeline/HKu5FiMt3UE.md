@@ -4,7 +4,7 @@ date = "2023-05-02"
 id = "HKu5FiMt3UE"
 status = "production"
 tags = ["Troika Games", "Prototype", "Arcanum", "Game Engines", "IP"]
-summary = "Hi everyone. It's me Tim."
+summary = "After the sequel to Arcanum was turned down, we made a design for a Lord of the Rings game for Sierra. It never got made, but I can show you some of the small demo we made in 2001."
 references = []
 +++
 

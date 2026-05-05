@@ -4,7 +4,7 @@ date = "2025-10-24"
 id = "sDthq0VtpmM"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to share lessons I've learned as an old person."
+summary = "I talk about things I think of differently now that I am older."
 references = ["Kh5JMp5_5nQ", "OGwAez5SNd0", "uuO1t-D2MuM", "kIYa7NjTMxY", "vp17yIB6Ijo", "ho-g8KVx9hU"]
 +++
 

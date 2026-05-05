@@ -4,7 +4,7 @@ date = "2024-10-16"
 id = "lauoxw_m6cg"
 status = "transcript"
 tags = ["Publishing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Romany, which is a new term that I learned and I will get into defining in a second."
+summary = "I talk about the rise of romantasy, the combination of romance and fantasy genres, and its effect on other genres, in both books and games."
 references = []
 +++
 

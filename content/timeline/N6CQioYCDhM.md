@@ -4,7 +4,7 @@ date = "2023-10-13"
 id = "N6CQioYCDhM"
 status = "transcript"
 tags = ["Arcanum", "Press Event"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about arcanum's press event."
+summary = "I talk about Arcanum's press event \"Editors Day\", held in April 2000 in Los Angeles."
 references = []
 +++
 

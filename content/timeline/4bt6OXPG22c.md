@@ -4,7 +4,7 @@ date = "2025-05-30"
 id = "4bt6OXPG22c"
 status = "transcript"
 tags = ["Game Design", "TTRPG"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about traditional game mechanics and what I tried to do in video games based on those mechanics."
+summary = "I talk about mechanics from traditional games (e.g. board games, dice games, card games, etc.) that I used in my own video games, and that I tried to avoid using, and even ones I wanted to use and couldn't figure out how."
 references = ["bNf601IoBpc", "MKEfcaSn7Ko", "4NorMGww9CA", "kqMsdT3Djdw", "qJ7GRXVEf_0", "S2-q_kswvwU"]
 +++
 

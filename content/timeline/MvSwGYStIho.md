@@ -4,7 +4,7 @@ date = "2026-01-02"
 id = "MvSwGYStIho"
 status = "transcript"
 tags = ["IP"]
-summary = "Hi everyone. It's me, Tim. It's a fun Friday, so I want to tell you a story called."
+summary = "I am asked frequently \"Why aren't you making a new IP?\", so I thought I would answer with a Fun Friday story video."
 references = []
 +++
 

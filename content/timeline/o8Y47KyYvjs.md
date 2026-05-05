@@ -4,7 +4,7 @@ date = "2025-12-24"
 id = "o8Y47KyYvjs"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Christmas."
+summary = "Here's a pre-holiday video for my viewers...even if you don't celebrate Christmas."
 references = []
 +++
 

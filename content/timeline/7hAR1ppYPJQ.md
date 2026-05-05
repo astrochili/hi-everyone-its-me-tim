@@ -4,7 +4,7 @@ date = "2026-04-22"
 id = "7hAR1ppYPJQ"
 status = "production"
 tags = ["Game Industry", "Feedback"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about why I don't post on forums anymore."
+summary = "I explain why I don't post on forums anymore, even though I used to be very active."
 references = ["QvgttRI7oSU", "YmW06yNx7Ts", "gCjHipuMir8", "bA-P3p7PdEc", "-72btgrwKzA"]
 +++
 

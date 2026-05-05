@@ -4,7 +4,7 @@ date = "2025-04-28"
 id = "iFuAULY5sgU"
 status = "transcript"
 tags = ["NPCs", "Narrative Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about NPC reaction pros and cons."
+summary = "I talk about why or why not you would want to add NPC reactions to your game."
 references = ["2tfhirqSito", "OXdyfCNcahw"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-06-26"
 id = "-GmXrTBX7p8"
 status = "transcript"
 tags = ["Narrative Design", "NPCs", "Dialogue", "Writing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about writing good NPCs."
+summary = "I talk about how you can write interesting and memorable NPCs without falling into the same old overused tropes."
 references = ["BBaZHtlcHAU", "WlPhIfr-JgM", "xBUkdO4IK7w", "phMzoU7DOFA"]
 +++
 

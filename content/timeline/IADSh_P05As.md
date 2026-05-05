@@ -4,7 +4,7 @@ date = "2023-11-10"
 id = "IADSh_P05As"
 status = "transcript"
 tags = ["Production", "Game Production", "Prototype"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about game production stages."
+summary = "I talk about all of the stages a game's production goes through, including the names of those stages and what their purposes are."
 references = []
 +++
 

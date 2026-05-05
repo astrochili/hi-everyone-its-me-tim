@@ -4,7 +4,7 @@ date = "2024-12-03"
 id = "wEIOUsAB-xU"
 status = "transcript"
 tags = ["IP", "Publishing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about using an IP in a different medium, and"
+summary = "I talk about how using an Intellectual Property in a new medium can mess up...in many different ways."
 references = ["cycAlba00p8", "7bFBLAbwMA0", "waUjJ2VjvaE", "Kh5JMp5_5nQ", "vp17yIB6Ijo"]
 +++
 

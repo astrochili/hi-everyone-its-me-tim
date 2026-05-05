@@ -4,7 +4,7 @@ date = "2023-10-11"
 id = "mmt9mB7HAwU"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how I structure code, and I don't really mean like I'm going to break down code into structures."
+summary = "I talk about the stages I go through in writing code for a new game."
 references = []
 +++
 

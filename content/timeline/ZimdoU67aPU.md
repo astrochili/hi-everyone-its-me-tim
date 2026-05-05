@@ -4,7 +4,7 @@ date = "2024-11-29"
 id = "ZimdoU67aPU"
 status = "transcript"
 tags = ["Fallout", "Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to tell you a real life Fallout story with lasers."
+summary = "I tell a story with the phrase \"she used her foot to shoot me in the face with a laser\" while talking about Fallout. Enjoy."
 references = []
 +++
 

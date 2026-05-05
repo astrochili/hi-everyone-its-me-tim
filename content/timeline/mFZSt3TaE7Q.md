@@ -4,7 +4,7 @@ date = "2023-06-11"
 id = "mFZSt3TaE7Q"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Foreign, It's me, Tim. Today I want to talk about why I don't review other people's games and, as a quick side note, why I haven't been talking about The Outer Worlds very much, so real quick in the The Outer Worlds. I'm getting a lot of questions about it, but I've told you guys I'm working on The Outer Worlds too, so I'm a contractor with obsidian to give them consultancy on that game's design. Many of your questions are things like: what do you wish wasn't cut or what would you do different?"
+summary = "I talk about why I don't review games on this channel, and as an aside, why I am not talking about The Outer Worlds."
 references = []
 +++
 

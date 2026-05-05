@@ -4,7 +4,7 @@ date = "2023-06-18"
 id = "JOVgSfjWeVI"
 status = "transcript"
 tags = ["Management", "Fallout"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about credits and how people get credited in games, and I'm going to do that by telling you a story, because I'm frequently asked: hey uh, who did the companions in Fallout?"
+summary = "I talk about the difficulty in assigning credit to developers on video games, and I use the story of companions in Fallout to illustrate this problem. I have seen this problem my whole career, it's still happening, and I am not sure how to solve it."
 references = []
 +++
 

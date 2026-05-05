@@ -4,7 +4,7 @@ date = "2023-09-12"
 id = "BCPawvnlU5o"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I'm going to answer a question from banefane who asks: are you planning to retire from game development?"
+summary = "I talk about why I am semi-retired and what semi-retired even means."
 references = ["cdHqBi1IPOY"]
 +++
 

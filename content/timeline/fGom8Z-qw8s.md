@@ -4,7 +4,7 @@ date = "2023-10-08"
 id = "fGom8Z-qw8s"
 status = "transcript"
 tags = ["Fallout", "Press Event"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the Fallout 4 launch party."
+summary = "I talk about the Fallout 4  launch party in November of 2015 in Los Angeles."
 references = []
 +++
 

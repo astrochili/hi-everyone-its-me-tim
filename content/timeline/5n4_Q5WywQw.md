@@ -4,7 +4,7 @@ date = "2024-06-27"
 id = "5n4_Q5WywQw"
 status = "production"
 tags = ["RPG Design", "Game Design", "Quest Design", "Worldbuilding", "Troika Games"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about some ideas for a generic fantasy RPG."
+summary = "I talk about some old (early 2000s) ideas I had for a fantasy game. These ideas that are not detailed enough to form an IP, but they would be useful to explore in a brainstorming session."
 references = ["ZonqVO0FNbc", "x_a_jGNKonk"]
 +++
 

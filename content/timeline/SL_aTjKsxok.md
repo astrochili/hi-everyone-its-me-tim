@@ -4,7 +4,7 @@ date = "2024-01-11"
 id = "SL_aTjKsxok"
 status = "transcript"
 tags = ["Character Systems", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about skill design in RPGs in particular."
+summary = "I talk about designing skills for role playing games, from deciding what skills to include to what numerical ranges those skills should have."
 references = []
 +++
 

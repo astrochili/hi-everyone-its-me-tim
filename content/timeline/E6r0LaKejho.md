@@ -4,7 +4,7 @@ date = "2026-04-27"
 id = "E6r0LaKejho"
 status = "production"
 tags = ["YouTube", "Game Industry", "Careers", "Storytime"]
-summary = "Hi everyone, it's me, Tim. Today I want to talk about this channel's third year anniversary."
+summary = "I talk about this channel and the last three years, and what's coming up in the future."
 references = ["3l7Krs_RAyM", "ctsDH-Y6X0s"]
 +++
 

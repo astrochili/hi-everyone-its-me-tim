@@ -4,7 +4,7 @@ date = "2023-07-26"
 id = "_1jZuasGDn8"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about what makes a good game."
+summary = "I talk about all the ways that people try to make objective arguments about what makes a \"good\" game."
 references = []
 +++
 

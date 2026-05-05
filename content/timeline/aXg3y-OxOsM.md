@@ -4,7 +4,7 @@ date = "2025-06-23"
 id = "aXg3y-OxOsM"
 status = "transcript"
 tags = ["Dialogue", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about topic versus branchb-based dialogue in RPGs."
+summary = "I discuss the differences between topic and branched based dialogs in RPGs."
 references = []
 +++
 

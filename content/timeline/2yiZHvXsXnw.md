@@ -4,7 +4,7 @@ date = "2023-08-24"
 id = "2yiZHvXsXnw"
 status = "transcript"
 tags = ["Bugs"]
-summary = "Hi everyone. It's me, Tim. And today I want to answer another question, this time from bite your own teeth, 2100."
+summary = "I talk about how some game bugs become game features, and give examples of this from several of my own games."
 references = []
 +++
 

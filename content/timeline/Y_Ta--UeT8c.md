@@ -4,7 +4,7 @@ date = "2024-04-11"
 id = "Y_Ta--UeT8c"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about managing game expectations, and let me explain what I mean by that."
+summary = "I talk about how to manage the expectations that players will form about your game, using examples from a couple of my own games."
 references = ["lmgJVUuS1I8", "F7uaMQnMsvI", "sYZCYDRQtSs", "N7b7LFXBZ9M", "t4718r53zAs", "v22ACVVC4C0"]
 +++
 

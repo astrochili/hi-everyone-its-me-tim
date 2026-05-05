@@ -4,7 +4,7 @@ date = "2024-05-29"
 id = "S5bWSh5uVLg"
 status = "transcript"
 tags = ["Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about games predicting our future."
+summary = "I talk about how we designed games that somehow predicted future events in our society. TLDW: we were surprised too!"
 references = []
 +++
 

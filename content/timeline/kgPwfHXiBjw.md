@@ -4,7 +4,7 @@ date = "2023-05-11"
 id = "kgPwfHXiBjw"
 status = "transcript"
 tags = ["Fallout", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how, in just two weeks, right near the end, about four or five months before Fallout shipped, we replaced gurps with special."
+summary = "I talk about how the team converted Fallout from GURPS to SPECIAL in near-record time, thanks to Chris Taylor's homebrew system and a modular programming design philosophy."
 references = []
 +++
 

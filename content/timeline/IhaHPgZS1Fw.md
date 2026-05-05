@@ -4,7 +4,7 @@ date = "2023-07-29"
 id = "IhaHPgZS1Fw"
 status = "transcript"
 tags = ["Arcanum", "Prototype", "Procedural Generation"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about prototypes and structures in Arcanum."
+summary = "I talk about how we stored object prototypes and created building structures in Arcanum. This is a follow-up to the video on Arcanum's procedural generation, found here:"
 references = ["BbI7hFoT6TQ"]
 +++
 

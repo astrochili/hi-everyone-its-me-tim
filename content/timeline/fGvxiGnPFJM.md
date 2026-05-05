@@ -4,7 +4,7 @@ date = "2025-08-29"
 id = "fGvxiGnPFJM"
 status = "transcript"
 tags = ["Game Development", "Management"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about game development."
+summary = "I talk about game development through the lens of a family vacation in a car."
 references = ["yqk-A-MmrbE", "SrAuoqdl0os", "puYzP1Uax0k", "F7uaMQnMsvI", "sYZCYDRQtSs", "85trmtqR-s8", "N7b7LFXBZ9M", "U4UMW5rVQ-Y", "VWvSaAGt9N8", "IADSh_P05As"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-07-08"
 id = "8g0aLMYxl4A"
 status = "transcript"
 tags = ["Arcanum", "Combat Design"]
-summary = "Hi everyone, this is Tim. Today I want to talk about how criticals work in Arcanum."
+summary = "I talk about how critical successes and failures work in Arcanum."
 references = []
 +++
 

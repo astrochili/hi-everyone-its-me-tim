@@ -4,7 +4,7 @@ date = "2024-06-26"
 id = "yLzKJECKSC0"
 status = "transcript"
 tags = ["Real Life", "YouTube"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Channel memberships."
+summary = "I talk about channel memberships, what levels are available, and why I am adding them."
 references = []
 +++
 

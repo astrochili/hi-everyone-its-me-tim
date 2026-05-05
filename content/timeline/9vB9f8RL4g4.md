@@ -4,7 +4,7 @@ date = "2024-05-24"
 id = "9vB9f8RL4g4"
 status = "transcript"
 tags = ["Real Life", "Favorites"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk to you about my favorite chocolate."
+summary = "I talk about my favorite chocolate bar and my favorite brands of chocolate."
 references = ["YUaellOkDGc"]
 +++
 

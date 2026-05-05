@@ -4,7 +4,7 @@ date = "2024-04-08"
 id = "AH0jo26TQ_c"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about replaying Diablo."
+summary = "I have been playing Diablo again and I wanted to talk about my experience."
 references = ["jkXd503iCRI", "rHSlfFuIuls"]
 +++
 

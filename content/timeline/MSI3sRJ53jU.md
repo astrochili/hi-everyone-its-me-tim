@@ -4,7 +4,7 @@ date = "2025-11-24"
 id = "MSI3sRJ53jU"
 status = "transcript"
 tags = ["Arcanum", "Progression"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the Arcanum experience point system, the design behind it and how it's kind of contentious."
+summary = "I talk about the design philosophy behind Arcanum's XP system, and what I would do differently today."
 references = ["0NHDATFgswY", "NyVZlvaAYX4", "AK5nnqOCaCg", "keTG-5WPccU"]
 +++
 

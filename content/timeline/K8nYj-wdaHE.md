@@ -4,7 +4,7 @@ date = "2024-06-12"
 id = "K8nYj-wdaHE"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about deep learning."
+summary = "I explain deep learning and how it can keep you from enjoying some games you might otherwise like."
 references = ["3mfl_jOf-Jw", "vp17yIB6Ijo"]
 +++
 

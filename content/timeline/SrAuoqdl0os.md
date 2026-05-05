@@ -4,7 +4,7 @@ date = "2023-12-27"
 id = "SrAuoqdl0os"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about people I like working with, and"
+summary = "I talk about what characteristics I like to see in my team, things that not only make the game better but make working with them on the game better."
 references = []
 +++
 

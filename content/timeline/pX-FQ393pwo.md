@@ -4,7 +4,7 @@ date = "2025-08-13"
 id = "pX-FQ393pwo"
 status = "transcript"
 tags = ["Marketing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk to you about how to talk to press."
+summary = "I give six specific pieces of advice on how to talk to the press about your game."
 references = ["6CNtLuKyx3E"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-04-24"
 id = "UDfv3COnfgo"
 status = "transcript"
 tags = ["Lore", "Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today let's talk about lore drift."
+summary = "I talk about lore drift and what I mean by that term. Then I apply it to various IPs, including Fallout."
 references = ["waUjJ2VjvaE", "FFjjn8hBjJw", "V6rDgA5NXQc", "7bFBLAbwMA0", "RWN6tV3sLU0"]
 +++
 

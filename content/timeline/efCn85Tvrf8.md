@@ -4,7 +4,7 @@ date = "2023-05-18"
 id = "efCn85Tvrf8"
 status = "transcript"
 tags = ["Fallout", "GURPS"]
-summary = "Hi everyone. It's me, Tim. Today I wanted to do a little bit of video game archeology or paleontology, I don't know — demon ontology, because"
+summary = "I talk about how Fallout began its life as three different GURPS apps in 1991. One app made star systems, one simulated combat between two characters, and the third one supported character creation using the rules in any of the GURPS books."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-07-11"
 id = "rtrBgSyZAf0"
 status = "transcript"
 tags = ["Arcanum", "Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the void in Arcanum and this is something that somebody asked about."
+summary = "I talk about the Void in Arcanum. I answer how we came up with the idea, how we planned to use it, and whether it would appear in sequels."
 references = []
 +++
 

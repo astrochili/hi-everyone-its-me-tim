@@ -4,7 +4,7 @@ date = "2023-10-12"
 id = "I37RXM71qmU"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about board games — games Charlie K 5964 asks: do you ever play board games?"
+summary = "I talk about what board games I like playing, what features I like to see in my board games, and my list of Top 5 board games."
 references = []
 +++
 

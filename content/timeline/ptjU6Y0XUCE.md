@@ -4,7 +4,7 @@ date = "2024-10-29"
 id = "ptjU6Y0XUCE"
 status = "transcript"
 tags = ["Management", "Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about communication between roles, specifically, how to handle all the different roles of people on your development team and getting them to talk to each other."
+summary = "I talk about how to get team members in different development roles to interact with each other."
 references = ["DEnlUqYkMTk"]
 +++
 

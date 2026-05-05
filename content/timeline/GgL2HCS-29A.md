@@ -4,7 +4,7 @@ date = "2023-07-05"
 id = "GgL2HCS-29A"
 status = "transcript"
 tags = ["Storytime", "Multiplayer"]
-summary = "Hey everyone. It's me, Tim. Today I want to talk about why I got into MMOs, like why I even went to carbine in the first place to make an MMO, because a lot of people thought that this was a bit of a Divergence from what"
+summary = "I talk about how I loved MMOs (starting with LPMuds) and why I wanted to make one myself."
 references = []
 +++
 

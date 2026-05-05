@@ -4,7 +4,7 @@ date = "2024-04-01"
 id = "96uGEA0r6Bo"
 status = "transcript"
 tags = ["Balance", "Combat Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about damaged numbers again, because I already did a video on damage numbers, but that video was mostly about how they should appear in the HUD."
+summary = "I talk more about damage numbers, this time about how to select a good numerical range for those numbers."
 references = ["GTMdWT8Lb9k", "SL_aTjKsxok", "G_2kCbPO2sU", "DqL9R5PqE20"]
 +++
 

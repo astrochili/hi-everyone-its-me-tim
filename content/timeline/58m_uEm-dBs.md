@@ -4,7 +4,7 @@ date = "2023-11-23"
 id = "58m_uEm-dBs"
 status = "transcript"
 tags = ["Dungeons & Dragons", "TTRPG", "Modding"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about modding the original advanced Dungeons and Dragons."
+summary = "I talk about the changes I made to the base game of Advanced Dungeons & Dragons when I ran sessions as a DM."
 references = []
 +++
 

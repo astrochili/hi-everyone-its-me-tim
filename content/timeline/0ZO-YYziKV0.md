@@ -4,7 +4,7 @@ date = "2025-09-10"
 id = "0ZO-YYziKV0"
 status = "transcript"
 tags = ["Management"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about prioritizing tasks."
+summary = "I talk about how (and why) to prioritize tasks during game development."
 references = ["8Kc1XoHpHEA", "nnH4XJBHvFQ", "2yiZHvXsXnw", "gMiQ9_MzM6Q", "Ooe44v7j-bo"]
 +++
 

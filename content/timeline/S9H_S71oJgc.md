@@ -4,7 +4,7 @@ date = "2024-03-18"
 id = "S9H_S71oJgc"
 status = "transcript"
 tags = ["Work-Life Balance"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about avoiding burnout and specifically want to talk about how I avoided burnout."
+summary = "I talk about burnout, and how I think I managed to avoid it during my career. I expect pushback on this video, but I will emphasize that this is my experience. Your own experience might be quite different."
 references = ["qRAUcX8cRZQ", "mHMFG8uvOb0", "UGfaCXEu0tE", "YMY5LUNdS-8", "FFjjn8hBjJw", "qqP6oa7ShRw"]
 +++
 

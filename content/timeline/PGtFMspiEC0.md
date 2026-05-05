@@ -4,7 +4,7 @@ date = "2025-12-01"
 id = "PGtFMspiEC0"
 status = "transcript"
 tags = ["Temple of Elemental Evil", "Press Event", "Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Temple of Elemental Evil design highlights."
+summary = "I talk about the design highlights for Temple of Elemental Evil that I wrote in May of 2003 for use at a press event later that year."
 references = ["Fo-tYpW9m98", "N6CQioYCDhM", "pX-FQ393pwo"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-10-26"
 id = "VeVwjNJr2K8"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game pacing."
+summary = "I talk about how to pace your games, both in terms of narrative and within gameplay itself."
 references = []
 +++
 

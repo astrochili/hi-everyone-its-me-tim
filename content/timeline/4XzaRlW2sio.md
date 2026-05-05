@@ -4,7 +4,7 @@ date = "2023-06-15"
 id = "4XzaRlW2sio"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hey everyone. It's me, Tim. Today I want to talk about what it's like to be a computer game designer — I - I originally was going to say what it was like to also be a programmer and an artist, even though the art one I pretty much watched, seen what they go through."
+summary = "I talk about my experiences as a game designer, including some unique challenges designers may face."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2026-03-25"
 id = "ZaKSVOXjzvQ"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about that."
+summary = "I talk about how it's OK to change your opinion on things, and how some people seem terrified to do that."
 references = ["UgySuU7_xcQ", "UZJ-1AS4UKA", "Kh5JMp5_5nQ"]
 +++
 

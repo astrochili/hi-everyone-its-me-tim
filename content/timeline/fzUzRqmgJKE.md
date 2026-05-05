@@ -4,7 +4,7 @@ date = "2024-01-29"
 id = "fzUzRqmgJKE"
 status = "transcript"
 tags = ["Narrative Design", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about game plays: influence on story."
+summary = "I talk about gameplay and how it influences story in RPGs, and how you can design a story to give the player the most flexibility in gameplay."
 references = []
 +++
 

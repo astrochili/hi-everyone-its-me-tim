@@ -4,7 +4,7 @@ date = "2023-09-05"
 id = "OoOH4qYCMto"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about Elden ring and EverQuest, and you may be going."
+summary = "I talk about the similarities of Elden Ring and EverQuest, which led me to liking both of those games."
 references = []
 +++
 

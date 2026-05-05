@@ -4,7 +4,7 @@ date = "2023-07-20"
 id = "AaHVCy_EQ0s"
 status = "transcript"
 tags = ["Game Industry", "Work-Life Balance"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about my thoughts on work-life balance in the game industry."
+summary = "I talk about my thoughts on work-life balance in the game industry and its association with passion for making games."
 references = []
 +++
 

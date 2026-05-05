@@ -4,7 +4,7 @@ date = "2025-02-05"
 id = "kqMsdT3Djdw"
 status = "transcript"
 tags = ["TTRPG", "IP", "Publishing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about adapting tabletop role playing games into video games versus adapting a non-game IP into a video game."
+summary = "I talk about the differences in adapting tabletop RPGs into videos games versus adapting a non-game IP into a video game."
 references = ["GTQxb8p0BCc", "wEIOUsAB-xU"]
 +++
 

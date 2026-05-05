@@ -4,7 +4,7 @@ date = "2026-03-30"
 id = "3rUsUExrLHw"
 status = "transcript"
 tags = ["Game Design", "Writing"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about the evolution of design documentation."
+summary = "I talk about how design documentation has changed over the last forty-five years."
 references = ["ohHLUKj3NTk", "gmDX1p-WZ7g", "Lm0qhfquv74"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-07-22"
 id = "7ZyK9V9Q-xY"
 status = "transcript"
 tags = ["Work-Life Balance", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about my lost decade which is what I call 1993 to 2003, and I think"
+summary = "I talk about my lost decade, from 1993 to 2003, where I worked so much that I barely was home and knew almost nothing going on outside of work. Consider this a cautionary tale of work-life imbalance."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-08-01"
 id = "5l7YcGCQ5Ck"
 status = "transcript"
 tags = ["Arcanum", "Dialogue", "Narrative Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about arcanum's generated dialogue system, and I know"
+summary = "I talk about how we created procedural dialog in Arcanum, to add variety and extra reactivity to conversations."
 references = []
 +++
 

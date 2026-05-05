@@ -4,7 +4,7 @@ date = "2024-09-04"
 id = "0_cPr0XCtOs"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about flow."
+summary = "I talk about \"flow\", that mind state where ideas and work efficiently happen."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-09-20"
 id = "1gWQ8WVdZZc"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to answer a question from Wyatt's Vlog who asks: could you talk about the steps you take when exploring and implementing a feature?"
+summary = "I talk about the process of taking a feature from an idea to a shipped implementation."
 references = ["qmfZFoc53ss", "4XzaRlW2sio", "Qc8zuhaqWPM", "JOVgSfjWeVI"]
 +++
 

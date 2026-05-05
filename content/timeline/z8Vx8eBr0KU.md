@@ -4,7 +4,7 @@ date = "2025-03-19"
 id = "z8Vx8eBr0KU"
 status = "transcript"
 tags = ["Arcanum", "Lore", "Worldbuilding"]
-summary = "Hi everybody. It's me, Tim. I want to talk to you today about Arcanum lore exploration."
+summary = "I talk about the lore that I would like to explore in an Arcanum sequel."
 references = ["bTQzNiXH56U", "-72btgrwKzA", "IPEe0s6fjdw", "rtrBgSyZAf0"]
 +++
 

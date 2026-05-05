@@ -4,7 +4,7 @@ date = "2024-09-24"
 id = "nnH4XJBHvFQ"
 status = "transcript"
 tags = ["Game Design", "Balance"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about balancing game features."
+summary = "I talk about how I balance game features with a method I call \"stick a pin in it\"."
 references = []
 +++
 

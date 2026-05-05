@@ -4,7 +4,7 @@ date = "2024-03-14"
 id = "kNpSGR7bRW4"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about research, specifically the research that you do when you first start a game."
+summary = "I talk about the research that goes into making a video game, using examples from Fallout and Arcanum."
 references = ["Q8XTWJRBFeM", "fwiXTYMCc6A"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-04-25"
 id = "ojYBHy-9xTo"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim."
+summary = "I have been hearing that it is a terrible time for games...and gamers...and game developers...FOR DECADES. It just isn't true."
 references = ["9GX0T_Khs28", "d3Udo6XjMhY", "qRAUcX8cRZQ"]
 +++
 

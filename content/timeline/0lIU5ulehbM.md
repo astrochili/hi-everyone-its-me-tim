@@ -4,7 +4,7 @@ date = "2025-10-20"
 id = "0lIU5ulehbM"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about adding a feature to a game back in the day compared to today."
+summary = "I talk about why adding a feature now takes longer (and costs more) than it did 20-30 years ago, leading to longer development times and higher costs."
 references = []
 +++
 

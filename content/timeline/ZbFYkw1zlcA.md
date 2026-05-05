@@ -4,7 +4,7 @@ date = "2023-08-21"
 id = "ZbFYkw1zlcA"
 status = "transcript"
 tags = ["Fallout", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. Today I want to answer a question from commenter Brian Eno 608 better be a real name, don't taunt me like that."
+summary = "I talk about my biggest development regrets, one for Fallout and one for Fallout 2."
 references = []
 +++
 

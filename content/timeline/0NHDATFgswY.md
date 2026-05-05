@@ -4,7 +4,7 @@ date = "2023-08-16"
 id = "0NHDATFgswY"
 status = "transcript"
 tags = ["Progression"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about leveling and progression, and this is actually me answering a question from — and I hope I'm pronouncing this user's name right — stavrus nicolao."
+summary = "I talk about my thoughts on player level progression, including how experience points are earned, what is awarded to players when their levels advance, and how players spend those awards."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-10-16"
 id = "RY_tqjx_iFc"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about my university class in game design."
+summary = "I read through my lecture notes from a class I taught on game development at the University of California Irvine in 1999."
 references = []
 +++
 

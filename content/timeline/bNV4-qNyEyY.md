@@ -4,7 +4,7 @@ date = "2024-07-18"
 id = "bNV4-qNyEyY"
 status = "transcript"
 tags = ["Temple of Elemental Evil", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. Today let's do the Temple of Elemental Evil development timeline."
+summary = "I talk about the development of The Temple of Elemental Evil, from January 2002 to September 2003."
 references = ["jHIabSKo26U", "ETVsAHbTh2c", "HKu5FiMt3UE", "t4718r53zAs", "lb6agFgh11E", "4WlWKSlAyrg", "IADSh_P05As", "Fo-tYpW9m98"]
 +++
 

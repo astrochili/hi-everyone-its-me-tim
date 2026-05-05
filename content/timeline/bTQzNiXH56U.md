@@ -4,7 +4,7 @@ date = "2023-05-01"
 id = "bTQzNiXH56U"
 status = "production"
 tags = ["Arcanum", "Troika Games", "Retrospective", "Game Design", "Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the sequel to Arcanum called Journey to the Center of Arcanum."
+summary = "In this video I talk about the planned sequel to Arcanum, called \"Journey to the Center of Arcanum\". Of course, that sequel never got made, and Troika went on to make Temple of Elemental Evil and Vampire Bloodlines instead."
 references = []
 +++
 

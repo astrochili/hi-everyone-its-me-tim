@@ -4,7 +4,7 @@ date = "2024-05-15"
 id = "0TX4mXmSoVE"
 status = "transcript"
 tags = ["Contracting", "Careers"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about game development Contracting."
+summary = "I talk about the pros and cons of being a contractor, as opposed to an employee, while doing game development work."
 references = ["d3Udo6XjMhY", "IADSh_P05As"]
 +++
 

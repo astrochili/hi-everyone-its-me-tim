@@ -4,7 +4,7 @@ date = "2024-04-04"
 id = "DR71Dcmxz5c"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about my family history book."
+summary = "I have mentioned writing my memoir, and I talk about another book I wrote about my family history. I use this story as a way to encourage viewers to find time for the things they want to do."
 references = ["qqP6oa7ShRw", "QvgttRI7oSU"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-10-20"
 id = "za5u4j6lc-w"
 status = "transcript"
 tags = ["Character Systems", "Balance"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about level scaling."
+summary = "I talk about my thoughts on level scaling (which is adjusting the level of NPCs based on the PCs level), both how I have used it and how I think it should be used."
 references = []
 +++
 

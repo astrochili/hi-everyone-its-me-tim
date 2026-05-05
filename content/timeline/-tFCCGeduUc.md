@@ -4,7 +4,7 @@ date = "2025-10-13"
 id = "-tFCCGeduUc"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about why I don't solo dev."
+summary = "I talk about why I don't do solo game development and probably never will."
 references = ["v6a-neSq0VA", "yqk-A-MmrbE", "9lYuzefVvMA", "mHMFG8uvOb0", "UZJ-1AS4UKA"]
 +++
 

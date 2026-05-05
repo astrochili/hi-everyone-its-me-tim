@@ -4,7 +4,7 @@ date = "2023-06-30"
 id = "G_2kCbPO2sU"
 status = "transcript"
 tags = ["Character Systems", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about attributes in role-playing games in general, because the last couple days"
+summary = "After the previous two videos where I talked about the specific effects of attributes in Fallout and Arcanum, in this video I talk about attribute design in general, including where my current thoughts lie on how they should be used in games."
 references = []
 +++
 

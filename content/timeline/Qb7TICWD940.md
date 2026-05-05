@@ -4,7 +4,7 @@ date = "2025-09-03"
 id = "Qb7TICWD940"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how I'm not a typical gamer."
+summary = "I talk about how I am not the typical gamer...whatever that is."
 references = ["CYl1KSZGfEg", "knsk2Pt9nvQ", "qQ7PpOztJyA", "a2D1-X_9iOA", "fHUAFYDzN3U", "3KMUaVsp9Zs", "sGkb-nzTgC4"]
 +++
 

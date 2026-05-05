@@ -4,7 +4,7 @@ date = "2024-11-06"
 id = "9Pdcv7Aj8S0"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about remote work and specifically, this is an answer to a question from R3 M1 who asks: hey Tim, what's your take on remote staff versus having the team work in an office?"
+summary = "I talk about the pros and cons of remote work."
 references = ["R6zZyfOmliQ", "PuEdppkPjfo"]
 +++
 

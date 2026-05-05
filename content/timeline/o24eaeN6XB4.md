@@ -4,7 +4,7 @@ date = "2024-08-26"
 id = "o24eaeN6XB4"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about playing games now, probably one of the most frequent questions or question types I get on this channel."
+summary = "I talk about how you should play games, but feeling like you need to play ALL games before you can discuss, review, develop, or finish your own games is a trap."
 references = ["mFZSt3TaE7Q", "9vB9f8RL4g4", "lmgJVUuS1I8"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-09-20"
 id = "oCKPphehFGk"
 status = "transcript"
 tags = ["Toy Update"]
-summary = "Hi everyone. It's me Tim."
+summary = "For Friday Funday I talk about the latest updates to my space game, which are mostly a shader and a gradient with a dash of transparency!"
 references = ["wpbUuoyGPBM", "CA7gIg5b6_8"]
 +++
 

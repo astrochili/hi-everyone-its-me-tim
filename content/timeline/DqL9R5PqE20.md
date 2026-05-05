@@ -4,7 +4,7 @@ date = "2023-08-03"
 id = "DqL9R5PqE20"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about randomness."
+summary = "I talk about randomness and how I have implemented \"random\" features in different games."
 references = []
 +++
 

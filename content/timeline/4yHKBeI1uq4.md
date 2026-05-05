@@ -4,7 +4,7 @@ date = "2023-09-03"
 id = "4yHKBeI1uq4"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about ambient music."
+summary = "I talk about ambient music and how I have listened to it since college and how it affected my work."
 references = []
 +++
 

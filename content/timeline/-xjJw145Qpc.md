@@ -4,7 +4,7 @@ date = "2025-05-28"
 id = "-xjJw145Qpc"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about eating your own dog food."
+summary = "I talk about why you should play your own game, before AND after it ships."
 references = ["kyrfV9-67OI", "PuEdppkPjfo", "kdeDSAcLZa8", "zX1Htqt9_iY"]
 +++
 

@@ -4,7 +4,7 @@ date = "2025-03-24"
 id = "9mMdNjiGdnY"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game length in particular."
+summary = "I talk about the pros of short versus long games."
 references = []
 +++
 

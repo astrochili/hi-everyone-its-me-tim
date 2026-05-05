@@ -4,7 +4,7 @@ date = "2024-07-24"
 id = "OGwAez5SNd0"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about what lessons I learned by company."
+summary = "I talk about some of the lessons I learned over my time in game development, broken down by where I was working at the time."
 references = ["GqNcNtxHU6E", "Kh5JMp5_5nQ", "QvgttRI7oSU", "0TX4mXmSoVE"]
 +++
 

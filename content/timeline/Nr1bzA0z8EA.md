@@ -4,7 +4,7 @@ date = "2024-06-14"
 id = "Nr1bzA0z8EA"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about pets."
+summary = "I talk about all the pets I have ever had."
 references = []
 +++
 

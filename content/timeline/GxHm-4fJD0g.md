@@ -4,7 +4,7 @@ date = "2026-03-13"
 id = "GxHm-4fJD0g"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about lenses."
+summary = "I talk about lenses and why it is very important to be aware of yours and when it is (and is not) applicable."
 references = ["mHMFG8uvOb0"]
 +++
 

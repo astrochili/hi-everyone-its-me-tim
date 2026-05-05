@@ -4,7 +4,7 @@ date = "2025-01-13"
 id = "bA-P3p7PdEc"
 status = "transcript"
 tags = ["Feedback"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about do devs know what Gamers want."
+summary = "I talk about why devs don't know what gamers want."
 references = ["gCjHipuMir8", "-72btgrwKzA", "0wBEMGov0HY", "DnOmC1G3MPA", "xVNZZlmTSrg", "hyj6X7EaBsY", "wUI6LZaCKCg", "NLFXroidQtk"]
 +++
 

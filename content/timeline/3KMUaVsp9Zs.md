@@ -4,7 +4,7 @@ date = "2025-05-16"
 id = "3KMUaVsp9Zs"
 status = "transcript"
 tags = ["Game Industry", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about gaming in the 1980s."
+summary = "I talk about what video gaming was like in the 1980's."
 references = ["3nLc-pULEhw", "W8hesnidqqE", "lmgJVUuS1I8", "lEyMipiH7qE", "9mMdNjiGdnY"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-11-20"
 id = "CqMfiL7ySng"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about loot tables, or my theory of loot tables, and I'll talk about what a loot table is, and then I'm going to talk about my theory and the literally hardcore design elements that go into deciding what items go on to loot tables."
+summary = "I talk about how I made and used loot tables in my games. I go into more details than I did in this video: https://youtu.be/ne9IIn7nEV4?si=-yH0PUn-2xrG-PPH"
 references = ["ne9IIn7nEV4"]
 +++
 

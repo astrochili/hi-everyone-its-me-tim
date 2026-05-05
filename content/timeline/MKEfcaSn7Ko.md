@@ -4,7 +4,7 @@ date = "2024-12-16"
 id = "MKEfcaSn7Ko"
 status = "transcript"
 tags = ["Dungeons & Dragons", "TTRPG"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about DND influences by addition."
+summary = "I talk about influences of different D&D editions on my work, and one case of my work influencing D&D."
 references = ["bNf601IoBpc", "xBUkdO4IK7w", "jGixGnDa-ck", "bNV4-qNyEyY"]
 +++
 

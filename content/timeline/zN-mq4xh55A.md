@@ -4,7 +4,7 @@ date = "2024-10-03"
 id = "zN-mq4xh55A"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game minimum specifications and ratings."
+summary = "I talk about the process for determining a game's minimum (and recommended) specification, as well as its rating."
 references = ["hZEosFcqmcU", "fHUAFYDzN3U", "AH0jo26TQ_c", "NfBcWu22wIE", "vQj5rJry4Pw"]
 +++
 

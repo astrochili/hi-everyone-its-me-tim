@@ -4,7 +4,7 @@ date = "2023-08-07"
 id = "QWAetn0Ch9I"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about optimization."
+summary = "I talk about optimization (mostly for code) to save both processor cycles and memory, and how this process has changed over the years."
 references = []
 +++
 

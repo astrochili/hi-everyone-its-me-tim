@@ -4,7 +4,7 @@ date = "2025-10-08"
 id = "fYhg1f2JJ1w"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about passivity."
+summary = "I talk about being passive and how that can be ok...until it's not."
 references = ["AaHVCy_EQ0s", "PuEdppkPjfo", "eXJkecLBhOE", "qqP6oa7ShRw", "W8hesnidqqE", "uljC4cZh-Oc", "R6zZyfOmliQ"]
 +++
 

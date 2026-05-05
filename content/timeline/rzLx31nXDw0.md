@@ -4,7 +4,7 @@ date = "2024-12-02"
 id = "rzLx31nXDw0"
 status = "transcript"
 tags = ["Game Design", "Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about your game design portfolio or, more specifically, what you, as a game designer, should include in a portfolio that you're sending to a game company when you apply for a job."
+summary = "I talk about what I expect to see in a designer portfolio when they apply for a job."
 references = ["W8hesnidqqE", "uljC4cZh-Oc", "1WxB2c02_Js"]
 +++
 

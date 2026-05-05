@@ -4,7 +4,7 @@ date = "2025-09-08"
 id = "CvILSkc20vo"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about psychology in video games because a good designer thinks about how people think."
+summary = "I talk about how game design is as much about psychology as about math."
 references = ["gKEIE47vN9Y", "vp17yIB6Ijo"]
 +++
 

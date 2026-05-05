@@ -4,7 +4,7 @@ date = "2026-03-04"
 id = "WX9sih4_o9o"
 status = "transcript"
 tags = ["Player Choice", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about restricting content based on player choice."
+summary = "I talk about the pros and cons of making a roleplaying game that restricts content based on choices you make in character creation or while playing."
 references = []
 +++
 

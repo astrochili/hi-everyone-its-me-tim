@@ -4,7 +4,7 @@ date = "2023-05-12"
 id = "FLq3h5zk1LA"
 status = "transcript"
 tags = ["Fallout", "UI/UX"]
-summary = "Hi. It's me, Tim. Today I want to talk about something that's near and dear to me, which is fallout's music."
+summary = "I talk about my love of ambient music and the specific artists I chose as inspiration for Mark Morgan, the creator of Fallout's soundtrack."
 references = []
 +++
 

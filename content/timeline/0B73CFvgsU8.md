@@ -4,7 +4,7 @@ date = "2023-12-22"
 id = "0B73CFvgsU8"
 status = "transcript"
 tags = ["Prototype", "Publishing"]
-summary = "Hi everyone. It's me, Tim. And today let's talk about game pitches."
+summary = "I talk about game pitches to publishers, including what they should contain and what I used for game pitches in the past."
 references = ["N7b7LFXBZ9M", "IADSh_P05As"]
 +++
 

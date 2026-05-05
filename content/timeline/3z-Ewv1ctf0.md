@@ -4,7 +4,7 @@ date = "2024-02-26"
 id = "3z-Ewv1ctf0"
 status = "transcript"
 tags = ["Programming", "Game Development"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about the best operating system to make games."
+summary = "I talk about the best operating system to make games for (not necessarily the best one to work in or even the best one overall)."
 references = ["hZEosFcqmcU"]
 +++
 

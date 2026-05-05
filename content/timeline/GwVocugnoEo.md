@@ -4,7 +4,7 @@ date = "2023-12-05"
 id = "GwVocugnoEo"
 status = "transcript"
 tags = ["Game Design", "Careers"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about my work pattern for Designing, and you can consider this a companion video to the one I did on programming, which I'll put a link in the description."
+summary = "I talk about what a typical work day is like for a game designer."
 references = ["jIV4BTuq6QQ"]
 +++
 

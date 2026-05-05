@@ -4,7 +4,7 @@ date = "2024-05-30"
 id = "ETVsAHbTh2c"
 status = "transcript"
 tags = ["Arcanum", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. Today let's walk through the Arcanum development timeline."
+summary = "I talk about the development of Arcanum, from February 1998 to September 2001."
 references = ["UGfaCXEu0tE", "_P4-2Nv_Or8", "coPkWyJIl-M", "GYWEgQAh6So", "5l7YcGCQ5Ck", "RY_tqjx_iFc", "jGixGnDa-ck", "Njwv5tbmhzg", "wz96ELi0EjE", "N6CQioYCDhM", "keTG-5WPccU", "bTQzNiXH56U", "HKu5FiMt3UE", "t4718r53zAs", "lb6agFgh11E"]
 +++
 

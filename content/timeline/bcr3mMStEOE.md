@@ -4,7 +4,7 @@ date = "2023-06-09"
 id = "bcr3mMStEOE"
 status = "production"
 tags = ["Interplay", "Game Design", "Storytime"]
-summary = "Hi everyone, it's Tim. In previous videos I've talked about playing D&D and GURPS and LP MUDs. In this video I want to talk about how my game playing really took off when I started at Interplay. Now I thought I was a game player as a kid, you know, in high school and college, but nothing prepared me for just how much game playing went on at Interplay after I started. Now this is pretty much after I got hired, so in early 92 to about when Fallout kicked into high gear in 95, which also corresponds to about the time we switched buildings."
+summary = "I talk about how my game playing really ramped up after starting at Interplay full time, and how those games influenced my own game development."
 references = []
 +++
 

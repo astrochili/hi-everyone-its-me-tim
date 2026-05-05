@@ -4,7 +4,7 @@ date = "2025-01-24"
 id = "dI1CTmnMNiQ"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to tell you the story of Raising Cane, or how I went from being a baby to the gorgeous super hunk you see before you today."
+summary = "I show a visual history from my birth until I graduate from high school, which was a year after I started working at a game company. Now you have the whole story of raising Cain."
 references = ["Nr1bzA0z8EA"]
 +++
 

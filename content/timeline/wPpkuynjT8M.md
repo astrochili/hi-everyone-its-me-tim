@@ -4,7 +4,7 @@ date = "2023-09-13"
 id = "wPpkuynjT8M"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Nuance again, particularly watching my videos and commenting on them."
+summary = "Continuing my videos about nuance, I talk about how people comment on my channel (and elsewhere)."
 references = []
 +++
 

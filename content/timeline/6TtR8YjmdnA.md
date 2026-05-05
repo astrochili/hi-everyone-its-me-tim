@@ -4,7 +4,7 @@ date = "2024-01-10"
 id = "6TtR8YjmdnA"
 status = "transcript"
 tags = ["Q&A"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about questions I can't or won't answer."
+summary = "I talk about the questions I am skipping in my channel's comment section, either because I cannot answer them or because I simply do not want to."
 references = ["d3Udo6XjMhY"]
 +++
 

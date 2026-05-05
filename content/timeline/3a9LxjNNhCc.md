@@ -4,7 +4,7 @@ date = "2023-07-21"
 id = "3a9LxjNNhCc"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about what I like in an RPG, and what I mean by that is: what elements do I like to see in RPGs that I play, which are, unsurprisingly, elements and RPGs that I made?"
+summary = "I talk about the features I like and expect to see in an RPG when I play one, which are unsurprisingly the features I add to my own RPGs."
 references = []
 +++
 

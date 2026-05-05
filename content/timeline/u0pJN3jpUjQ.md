@@ -4,7 +4,7 @@ date = "2023-05-24"
 id = "u0pJN3jpUjQ"
 status = "transcript"
 tags = ["Player Choice"]
-summary = "Hi. It's me, Tim. Today I want to talk about the origin of reactivity in my computer games."
+summary = "I talk about how my experiences with tabletop RPGs led to my prioritizing reactivity in my video games. Players never do what you expect them to do, so expect that instead of resisting it."
 references = []
 +++
 

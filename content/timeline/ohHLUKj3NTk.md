@@ -4,7 +4,7 @@ date = "2023-06-05"
 id = "ohHLUKj3NTk"
 status = "transcript"
 tags = ["Game Development", "Game Design"]
-summary = "Hi everyone, it's me, Tim. I've told a lot of stories about game development, but today I actually want to talk about process, specifically how I make my design documents."
+summary = "I talk about the process I use to write game design documents, both in the order I write them and their contents."
 references = []
 +++
 

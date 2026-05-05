@@ -4,7 +4,7 @@ date = "2025-01-01"
 id = "xAbrZtmDQfM"
 status = "transcript"
 tags = ["RPG Design", "Combat Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about violence as the as the default in AAA RPGs."
+summary = "I talk about why so many AAA RPGs expect and often require the player to do combat."
 references = []
 +++
 

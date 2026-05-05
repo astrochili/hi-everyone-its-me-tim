@@ -4,7 +4,7 @@ date = "2024-12-09"
 id = "_Q3sMpSOxmo"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about insecurity."
+summary = "I talk about feeling insecurity...and how I caused that in others."
 references = ["yCmw7Hxb9HM", "ht25L6fzEYQ", "wVFSCsv0GqY"]
 +++
 

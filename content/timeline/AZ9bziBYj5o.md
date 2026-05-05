@@ -4,7 +4,7 @@ date = "2025-04-18"
 id = "AZ9bziBYj5o"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about a day in the life of moonman."
+summary = "I present a typical day in the life of Moon Man, the happy mascot of Spacer's Choice. Have a Fun Friday!"
 references = []
 +++
 

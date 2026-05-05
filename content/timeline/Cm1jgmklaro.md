@@ -4,7 +4,7 @@ date = "2023-10-19"
 id = "Cm1jgmklaro"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. And today I not only want to talk about issues that come up in game development, but how to fix them."
+summary = "I talk about how I think many issues in game development should be solved."
 references = []
 +++
 

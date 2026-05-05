@@ -4,7 +4,7 @@ date = "2023-11-06"
 id = "S2-q_kswvwU"
 status = "transcript"
 tags = ["Character Systems", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about the evolution of flaws."
+summary = "I talk about the decades-long process by which flaws eventually made it into one of my games."
 references = []
 +++
 

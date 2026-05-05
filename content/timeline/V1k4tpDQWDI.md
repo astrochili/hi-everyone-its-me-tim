@@ -4,7 +4,7 @@ date = "2025-08-18"
 id = "V1k4tpDQWDI"
 status = "transcript"
 tags = ["Character Systems", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Funky Town, directions 2 and subloations within."
+summary = "I talk about the respec feature, when a game refunds and lets you respend the points you gained from leveling."
 references = ["lY1jhsgHE70", "mbMAufVe_ds", "JczYH1MhrfM"]
 +++
 

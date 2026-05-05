@@ -4,7 +4,7 @@ date = "2023-10-27"
 id = "TzIMMnDAMP4"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about my only self-censored video on this channel."
+summary = "I talk about a video that I made that I decided not to post, and why I decided not to post it, and what I learned from that."
 references = []
 +++
 

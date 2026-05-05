@@ -4,7 +4,7 @@ date = "2026-02-09"
 id = "3YYdwnOzdig"
 status = "transcript"
 tags = ["Management"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about taking responsibility as a lead."
+summary = "I start by talking about taking responsibility as a lead on a project, and end by talking about just taking responsibility period."
 references = ["DEnlUqYkMTk", "nQ2IMGC569U", "0l6AhAhJu-0", "h3vynoyQNa0", "8rhgaSkmY_s", "CZn7WDIjM1E"]
 +++
 

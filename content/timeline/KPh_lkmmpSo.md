@@ -4,7 +4,7 @@ date = "2025-06-09"
 id = "KPh_lkmmpSo"
 status = "transcript"
 tags = ["Game Industry", "Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about industry pendulum swings."
+summary = "I talk about things that seem to come and go and come back again in the game industry, mostly production processes and game features."
 references = []
 +++
 

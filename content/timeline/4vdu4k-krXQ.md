@@ -4,7 +4,7 @@ date = "2025-02-17"
 id = "4vdu4k-krXQ"
 status = "transcript"
 tags = ["Combat Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about damage types."
+summary = "I explain all the different kinds of damage types you might want in your game, including physical, elemental, and specialized damage types. I also talk about the pros and cons of adding multiple damage types to your game."
 references = ["H_Ddhxf7ASk", "SH35RmM1BFM", "GTMdWT8Lb9k", "96uGEA0r6Bo", "nnH4XJBHvFQ"]
 +++
 

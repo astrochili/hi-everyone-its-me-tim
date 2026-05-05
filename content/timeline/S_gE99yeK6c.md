@@ -4,7 +4,7 @@ date = "2024-03-11"
 id = "S_gE99yeK6c"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about loading and saving games."
+summary = "I talk about the decisions you need to make about your game's load and save systems. For details on how to implement such systems, I recommend looking up \"serialization\" for the language and/or game engine you are using."
 references = []
 +++
 

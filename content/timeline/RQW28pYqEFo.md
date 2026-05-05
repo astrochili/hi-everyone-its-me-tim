@@ -4,7 +4,7 @@ date = "2026-01-21"
 id = "RQW28pYqEFo"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk to you about trying role playing."
+summary = "I suggest a different way to play computer roleplaying games...by roleplaying."
 references = []
 +++
 

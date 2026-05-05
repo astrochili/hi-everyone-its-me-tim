@@ -4,7 +4,7 @@ date = "2023-04-28"
 id = "85a-xD8Qd_4"
 status = "production"
 tags = ["Favorites", "Worldbuilding"]
-summary = "Hi, it's Tim. I'm back with the answer to the first topic that, uh, someone had a question about on my last video, and that was user Hyperion said that"
+summary = "I talk about my favorite sci fi novel, Lord of Light by Roger Zelazny, and how I would turn it into a game."
 references = []
 +++
 

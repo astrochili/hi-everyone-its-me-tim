@@ -4,7 +4,7 @@ date = "2023-06-06"
 id = "v9j5k3K29Rw"
 status = "transcript"
 tags = ["Programming", "Retrospective"]
-summary = "Hi. It's me, Tim. Today I want to talk about the making of Bard's tail construction set."
+summary = "I talk about how the Bard's Tale Construction Set video game was made in 1991 at Interplay. I forgot to show the box for the game, but you can see a giant poster board reproduction of it on top of the display cabinet behind me."
 references = []
 +++
 

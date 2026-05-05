@@ -4,7 +4,7 @@ date = "2025-06-20"
 id = "6n5vnrkwAzI"
 status = "transcript"
 tags = ["Narrative Design"]
-summary = "Hello everyone. It's me, Tim. Today I want to talk to you about neutral factions."
+summary = "I talk about the narrative use of neutral factions in games."
 references = []
 +++
 

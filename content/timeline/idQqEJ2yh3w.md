@@ -4,7 +4,7 @@ date = "2026-05-04"
 id = "idQqEJ2yh3w"
 status = "production"
 tags = ["Hiring", "Careers", "Game Design", "RPG Design", "Interviews and Chats"]
-summary = "Hi everyone, it's me, Tim. Today I want to go through a detailed interview question on crafting, something I found in my notes, and I've already done videos on the kind of questions I like to ask people in interviews, and I wanted to do this one because it's very specific and very detailed, and I will give you the context."
+summary = "I go into detail on how I would ask a single, multi-part interview question to a system design candidate that I was considering hiring to make a crafting system for my role playing game."
 references = []
 +++
 

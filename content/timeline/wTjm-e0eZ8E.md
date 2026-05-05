@@ -4,7 +4,7 @@ date = "2024-03-27"
 id = "wTjm-e0eZ8E"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hi everyone, it's me, Tim."
+summary = "I talk about the three programming languages I used to make all of my video games: C, C++, and C#. Overall, C++ is the best and most useful, but C# is the easiest to learn."
 references = []
 +++
 

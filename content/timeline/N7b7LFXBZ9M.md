@@ -4,7 +4,7 @@ date = "2023-07-17"
 id = "N7b7LFXBZ9M"
 status = "transcript"
 tags = ["Game Design", "Game Director"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about design pillars."
+summary = "I talk about game design pillars, specifically what they are, how you write them, and how they are used. I give examples of these pillars from Fallout, Arcanum, and The Outer Worlds."
 references = []
 +++
 

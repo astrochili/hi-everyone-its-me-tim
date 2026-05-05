@@ -4,7 +4,7 @@ date = "2025-07-28"
 id = "CtTF0PQh-Oc"
 status = "transcript"
 tags = ["RPG Design", "Multiplayer"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about getting jiggy with it or, more specifically, the application of jiggy oriented procedures to a variety of activities In particular."
+summary = "I talk about the pros and cons of single player RPG designs compared to multiplayer RPG designs."
 references = ["-cG8OfcFkew", "goZlBF8Vsgs", "GBIdfazHxM4"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-05-23"
 id = "xM6Cr04wWSc"
 status = "transcript"
 tags = ["The Outer Worlds", "Production"]
-summary = "Hi. It's me, Tim. Today I want to talk about play testing in the inner worlds."
+summary = "I talk about the playtesting of The Outer Worlds and why it was better than the QA some of my previous games received."
 references = []
 +++
 

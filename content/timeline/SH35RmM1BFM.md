@@ -4,7 +4,7 @@ date = "2025-02-12"
 id = "SH35RmM1BFM"
 status = "transcript"
 tags = ["Programming", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about status effect implementation."
+summary = "I talk about how to implement status effects in your games."
 references = ["pw6tOlmwwYE", "S_gE99yeK6c"]
 +++
 

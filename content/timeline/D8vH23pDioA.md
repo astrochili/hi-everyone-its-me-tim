@@ -4,7 +4,7 @@ date = "2025-07-18"
 id = "D8vH23pDioA"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about taking risks."
+summary = "I talk about taking risks and what is necessary to do that."
 references = ["LMVQ30c7TcA", "X9ejDUuu7Sc", "bLNGW1M8N5g", "-72btgrwKzA"]
 +++
 

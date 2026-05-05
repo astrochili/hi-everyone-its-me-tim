@@ -4,7 +4,7 @@ date = "2025-07-14"
 id = "gKEIE47vN9Y"
 status = "transcript"
 tags = ["Fallout", "Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Fallout Footsliding, which I think is a good case study of R&D, especially in game development in the 1980s and 1990s."
+summary = "I talk about fixing the foot sliding problem in Fallout and why I bring it up so much. It's an example of development in the 90s and how we needed to solve problems without external help. There's also the question of whether we should have solved it at all."
 references = ["o4QcRQ5ucBk", "IADSh_P05As", "XgEPFzamR5I"]
 +++
 

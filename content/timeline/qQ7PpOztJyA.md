@@ -4,7 +4,7 @@ date = "2024-08-02"
 id = "qQ7PpOztJyA"
 status = "transcript"
 tags = ["Fallout", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about two recent momentos I now have — and they're behind me, and I'll Point them out in a few minutes."
+summary = "I talk about two recent mementos I have gotten...well, three if you count chocolate."
 references = ["2Qxgbq2Edz4", "HD9fH-DOFDY", "STbUQVbQvQE", "9vB9f8RL4g4", "7yfWmNZV3_U"]
 +++
 

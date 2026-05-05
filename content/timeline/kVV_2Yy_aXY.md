@@ -4,7 +4,7 @@ date = "2024-11-22"
 id = "kVV_2Yy_aXY"
 status = "transcript"
 tags = ["Postmortem"]
-summary = "Hi everyone. It's me, Tim. Today I want to do a toy postmortem."
+summary = "I perform a post mortem of my space game, talking about the pros and cons of the final product, and how I could possibly improve it."
 references = ["mFZSt3TaE7Q", "niZtYIiIxOw", "YYSDWFfXzlg", "oCKPphehFGk", "wpbUuoyGPBM", "CA7gIg5b6_8", "mHMFG8uvOb0", "am52Ceuzgh8"]
 +++
 

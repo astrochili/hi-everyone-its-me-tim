@@ -4,7 +4,7 @@ date = "2023-05-05"
 id = "6iugDcbR-gE"
 status = "production"
 tags = ["Multiplayer", "Vampire: The Masquerade - Bloodlines", "Game Development", "Postmortem"]
-summary = "Hi, it's me Tim, uh. Today I want to talk about Vampire: The Masquerade — Bloodlines, the lost multiplayer content."
+summary = "I talk about the lost multiplayer component to 2004's Vampire Bloodlines, where vampires fought with vampire hunters in an arena that I called...CounterBite!"
 references = []
 +++
 

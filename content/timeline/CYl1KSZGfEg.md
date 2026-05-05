@@ -4,7 +4,7 @@ date = "2025-04-04"
 id = "CYl1KSZGfEg"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I'm going to talk about these bookshelves."
+summary = "I go through the black bookshelves behind me, talking about what they hold."
 references = ["knsk2Pt9nvQ", "a1jFfLCfbqY", "qQ7PpOztJyA", "hglS31y7ZbE", "BsZC8A_XB_k", "PnQll2PhAcA", "bNf601IoBpc", "tBUPySwWmkM", "6Nu6okKdL2M", "t8V1vxX-iEI", "MKEfcaSn7Ko", "jGixGnDa-ck"]
 +++
 

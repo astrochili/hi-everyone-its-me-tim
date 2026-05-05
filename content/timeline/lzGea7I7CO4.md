@@ -4,7 +4,7 @@ date = "2025-11-28"
 id = "lzGea7I7CO4"
 status = "transcript"
 tags = ["Worldbuilding", "Lore"]
-summary = "Hi everyone. It's me, Tim. Today, let's talk about Canon."
+summary = "I talk about canon and how I use that term on this channel, along with interpretation and intent."
 references = []
 +++
 

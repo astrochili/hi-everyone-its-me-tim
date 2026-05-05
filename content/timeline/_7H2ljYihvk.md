@@ -4,7 +4,7 @@ date = "2025-05-09"
 id = "_7H2ljYihvk"
 status = "transcript"
 tags = ["Fallout", "Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about an alternate Fallout radiation design."
+summary = "I talk about a radiation design specification that I made years after making Fallout."
 references = ["-7VfUXTOMxU", "6bOe2JH5FZw", "QJHpuJxMqiA", "eXJkecLBhOE", "T7ToTnHj-CI"]
 +++
 

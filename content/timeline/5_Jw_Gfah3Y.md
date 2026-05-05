@@ -4,7 +4,7 @@ date = "2026-04-01"
 id = "5_Jw_Gfah3Y"
 status = "production"
 tags = ["Feedback", "Game Director", "Game Development", "Leadership", "Real Life"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about toxic positivity, and I really want to talk about this."
+summary = "I talk about toxic positivity, which is only seeing the positives of something and refusing to admit there are negatives."
 references = ["C2gszd5fi_g", "VgwDZDCaZso", "7UB4s3mJdQo"]
 +++
 

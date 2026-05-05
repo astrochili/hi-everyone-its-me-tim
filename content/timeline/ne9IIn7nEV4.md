@@ -4,7 +4,7 @@ date = "2023-09-30"
 id = "ne9IIn7nEV4"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about game economy."
+summary = "I talk about game economy and why it is so hard to balance the economy in them."
 references = []
 +++
 

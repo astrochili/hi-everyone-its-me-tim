@@ -4,7 +4,7 @@ date = "2026-02-06"
 id = "HttAjfi-GWg"
 status = "transcript"
 tags = ["Careers", "Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game development as an identity And"
+summary = "I talk about having game development as an identity and what that will mean for my eventual retirement."
 references = ["cdHqBi1IPOY", "BCPawvnlU5o", "HqCe8tS47jg", "4-FahKBaiG0"]
 +++
 

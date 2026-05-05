@@ -4,7 +4,7 @@ date = "2025-03-03"
 id = "P935C85WIpU"
 status = "transcript"
 tags = ["Programming", "NPCs"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Event Systems."
+summary = "I talk about how event systems work and why you might want to use them in your RPGs."
 references = ["2tfhirqSito", "OXdyfCNcahw", "QWAetn0Ch9I"]
 +++
 

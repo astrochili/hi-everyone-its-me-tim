@@ -4,7 +4,7 @@ date = "2023-09-17"
 id = "jWrrhj_uAT4"
 status = "transcript"
 tags = ["Q&A"]
-summary = "Hi everyone. It's me, Tim. Today I'm going to try to answer several questions that I've gotten on the channel through comments."
+summary = "I answer a lot of questions in one video, including my most inspirational setting, company food catering, the difference between AA and AAA games, making better boss encounters, thoughts on save scumming, and thoughts on asset reuse."
 references = []
 +++
 

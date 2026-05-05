@@ -4,7 +4,7 @@ date = "2024-12-31"
 id = "kOC0iUR0Sx0"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about changes — well, changes as of 2024."
+summary = "I talk about changes, and how they always happen, and you can't stop that. And that's OK."
 references = ["vp17yIB6Ijo", "EyjSONUeFAQ", "7UGeI_fU5Lk", "68srUJOV3j4", "wEIOUsAB-xU", "waUjJ2VjvaE"]
 +++
 

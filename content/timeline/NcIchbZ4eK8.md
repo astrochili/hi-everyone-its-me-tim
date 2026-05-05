@@ -4,7 +4,7 @@ date = "2025-09-22"
 id = "NcIchbZ4eK8"
 status = "transcript"
 tags = ["Arcanum", "Game Engines"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about keeping the game and the engine separate in Arcanum."
+summary = "I talk about how the game and the game engine were kept separate in Arcanum...which is how Temple of Elemental Evil was made so quickly."
 references = ["hZEosFcqmcU"]
 +++
 

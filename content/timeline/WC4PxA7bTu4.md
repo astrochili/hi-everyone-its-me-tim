@@ -4,7 +4,7 @@ date = "2023-09-29"
 id = "WC4PxA7bTu4"
 status = "transcript"
 tags = ["Fallout", "Press Event"]
-summary = "Hey everybody. It's me, Tim. Today I want to talk about Fallout 3 and the E3 showing and the ship party"
+summary = "I talk about attending the Fallout 3 press event at E3 in 2007 and its launch party in 2008."
 references = []
 +++
 

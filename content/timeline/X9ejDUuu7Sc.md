@@ -4,7 +4,7 @@ date = "2023-11-03"
 id = "X9ejDUuu7Sc"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everyone. It's me, Tim. And today I want to do part two of game development caution, because that video got a lot of views and a lot of comments and I kind of want to talk about it."
+summary = "I talk more about development caution, based on comments from my first video."
 references = ["LMVQ30c7TcA"]
 +++
 

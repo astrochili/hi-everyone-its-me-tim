@@ -4,7 +4,7 @@ date = "2023-10-31"
 id = "8rhgaSkmY_s"
 status = "transcript"
 tags = ["Troika Games", "Management"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about flat management hierarchies."
+summary = "I talk about Troika's experiment with a flat team hierarchy while making Arcanum."
 references = []
 +++
 

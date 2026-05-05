@@ -4,7 +4,7 @@ date = "2023-11-30"
 id = "v22ACVVC4C0"
 status = "transcript"
 tags = ["The Outer Worlds", "Marketing"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about marketing and specifically marketing on The Outer Worlds."
+summary = "I talk about my experience with marketing The Outer Worlds, why I enjoyed it so much, and why marketing is more important now than ever before."
 references = []
 +++
 

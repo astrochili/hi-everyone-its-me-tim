@@ -4,7 +4,7 @@ date = "2025-06-02"
 id = "U81khTQiQTk"
 status = "transcript"
 tags = ["Game Design", "Balance"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about unneeded realistic designs."
+summary = "I talk about the pros and cons of adding realistic features to your game."
 references = ["TshXDFgfiTg", "IhF-8-5S5OE", "DnOmC1G3MPA", "xVNZZlmTSrg"]
 +++
 

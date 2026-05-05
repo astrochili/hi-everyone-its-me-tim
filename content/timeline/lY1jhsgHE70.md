@@ -4,7 +4,7 @@ date = "2025-05-14"
 id = "lY1jhsgHE70"
 status = "transcript"
 tags = ["Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about cheese."
+summary = "I talk about dead levels, which are character levels where nothing impactful is gained."
 references = ["MKEfcaSn7Ko", "SL_aTjKsxok", "nnH4XJBHvFQ"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-11-13"
 id = "EdhQl2mI0WQ"
 status = "transcript"
 tags = ["Q&A"]
-summary = "Hi everyone. It's me, Tim. Today I want to answer more questions, so I'm going to do a question and answers — part two, which I haven't done for a while."
+summary = "I answer some viewer questions, including:"
 references = ["jWrrhj_uAT4", "0IZwda2fCKY", "5nOwzRRGEhI"]
 +++
 

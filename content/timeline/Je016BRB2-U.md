@@ -4,7 +4,7 @@ date = "2024-11-19"
 id = "Je016BRB2-U"
 status = "transcript"
 tags = ["Production", "Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Rising Game budgets."
+summary = "I talk about the contributing factors to the rising costs of making video games."
 references = ["fyu2DJBWPOc", "hyj6X7EaBsY", "ETCLEt-PEPM", "LDSF7Ek4wec", "lmgJVUuS1I8"]
 +++
 

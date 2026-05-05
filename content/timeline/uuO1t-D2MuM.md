@@ -4,7 +4,7 @@ date = "2024-09-10"
 id = "uuO1t-D2MuM"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about good Lessons From a Bad Teacher."
+summary = "I talk in detail about how I learned some good lessons from a bad college teacher."
 references = ["R6zZyfOmliQ"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-09-09"
 id = "7hGE18GGDj8"
 status = "transcript"
 tags = ["Production", "Game Development"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about game development time."
+summary = "I talk about game development time, how it has increased for some games and how this affects game franchises."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2024-12-19"
 id = "N68agdRYFb4"
 status = "transcript"
 tags = ["WildStar", "Character Systems"]
-summary = "Hi everybody. It's me, Tim. Today I'm going to do the Wild Star class summary from November 2008."
+summary = "I talk about the nine classes for Wildstar that I designed in the first 90 days in my position as Design Director on the game."
 references = ["YMY5LUNdS-8", "1NtaWFyo1ps"]
 +++
 

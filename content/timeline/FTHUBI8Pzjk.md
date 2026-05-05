@@ -4,7 +4,7 @@ date = "2024-06-05"
 id = "FTHUBI8Pzjk"
 status = "transcript"
 tags = ["Game Director", "Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about why I directed one last time and specifically what I mean by that is why I stepped up to be a game director on The Outer Worlds, even after I said I wi it."
+summary = "I talk about how it happened that I made one last game in the role of Game Director, for The Outer Worlds."
 references = ["YMY5LUNdS-8", "vQj5rJry4Pw", "LMVQ30c7TcA"]
 +++
 

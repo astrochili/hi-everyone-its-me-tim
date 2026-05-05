@@ -4,7 +4,7 @@ date = "2024-08-12"
 id = "ZjI-iTy11uM"
 status = "transcript"
 tags = ["The Outer Worlds", "Production", "Prototype"]
-summary = "Hi everyone. It's me, Tim. Today I have a very special video to show you."
+summary = "In this video I will show you the vertical slice made for The Outer Worlds."
 references = ["IADSh_P05As"]
 +++
 

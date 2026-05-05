@@ -4,7 +4,7 @@ date = "2023-06-27"
 id = "P0NKR9R0XTg"
 status = "transcript"
 tags = ["Note-Taking"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about my note-taking system I've had a lot of questions about."
+summary = "I talk about my extensive note-taking, starting in grad school, and how I went from paper to electronic and back again. All those notes are what led to this channel's existence."
 references = []
 +++
 

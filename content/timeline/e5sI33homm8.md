@@ -4,7 +4,7 @@ date = "2025-02-21"
 id = "e5sI33homm8"
 status = "transcript"
 tags = ["Arcanum", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk to you about Arcanum backgrounds and I will talk a little bit about them."
+summary = "I talk about why we designed Arcanum backgrounds and what were some of my favorites."
 references = []
 +++
 

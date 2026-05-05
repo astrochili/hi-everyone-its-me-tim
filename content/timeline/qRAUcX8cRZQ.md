@@ -4,7 +4,7 @@ date = "2023-08-12"
 id = "qRAUcX8cRZQ"
 status = "transcript"
 tags = ["Careers", "Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about career longevity."
+summary = "I talk about the factors that led to my long career in game development."
 references = []
 +++
 

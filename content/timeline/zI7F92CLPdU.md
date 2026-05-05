@@ -4,7 +4,7 @@ date = "2024-11-28"
 id = "zI7F92CLPdU"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about stress testing games."
+summary = "I talk about how to stress test games to make sure they work with a wide variety of different machines, beyond just the minimum specification."
 references = ["xM6Cr04wWSc", "kdeDSAcLZa8", "zN-mq4xh55A"]
 +++
 

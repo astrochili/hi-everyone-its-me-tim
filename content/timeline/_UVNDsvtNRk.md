@@ -4,7 +4,7 @@ date = "2023-08-20"
 id = "_UVNDsvtNRk"
 status = "transcript"
 tags = ["Real Life", "YouTube"]
-summary = "Hi everyone. It's me, Tim. Today I want to digress from Game Dev and just talk a little bit about what"
+summary = "In a brief digression from talking about game development, I discuss some lessons I have learned about making a YouTube channel."
 references = []
 +++
 

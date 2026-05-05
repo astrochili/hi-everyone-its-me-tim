@@ -4,7 +4,7 @@ date = "2024-08-13"
 id = "tv74Z8rByAY"
 status = "transcript"
 tags = ["TTRPG", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk to you about an off the rails tabletop RPG campaign."
+summary = "I talk about a table top role playing campaign that went completely sideways during the first (and only) session."
 references = []
 +++
 

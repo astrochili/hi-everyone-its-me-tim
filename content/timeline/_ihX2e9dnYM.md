@@ -4,7 +4,7 @@ date = "2023-10-03"
 id = "_ihX2e9dnYM"
 status = "transcript"
 tags = ["Careers", "Game Industry"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about the decline of generalists, and I'll describe what that is."
+summary = "I talk about what a generalist is and why having fewer of them in the game industry is causing some issues."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2025-12-17"
 id = "nGGMpHgHTZc"
 status = "transcript"
 tags = ["Quest Design", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about escort quests."
+summary = "Let's talk about escort quests...and my viewers' solutions to bad examples of this quest type."
 references = ["ONIBOhQiaRw"]
 +++
 

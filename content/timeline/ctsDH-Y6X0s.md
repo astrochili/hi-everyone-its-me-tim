@@ -4,7 +4,7 @@ date = "2025-04-25"
 id = "ctsDH-Y6X0s"
 status = "transcript"
 tags = ["Real Life", "YouTube"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about this Channel's second anniversary."
+summary = "I talk about this channel's two year anniversary...with metrics!"
 references = ["d3Udo6XjMhY", "3l7Krs_RAyM", "yLzKJECKSC0", "t8V1vxX-iEI", "UGfaCXEu0tE", "7bFBLAbwMA0"]
 +++
 

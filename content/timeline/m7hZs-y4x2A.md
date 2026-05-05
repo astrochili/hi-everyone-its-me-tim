@@ -4,7 +4,7 @@ date = "2025-02-07"
 id = "m7hZs-y4x2A"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about learning from Steam data."
+summary = "I talk about a wonderful video about trends seen in current Steam game data and what my takeaways are about that data."
 references = ["lmgJVUuS1I8"]
 +++
 

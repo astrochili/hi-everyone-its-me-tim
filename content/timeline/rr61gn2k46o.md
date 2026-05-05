@@ -4,7 +4,7 @@ date = "2024-03-26"
 id = "rr61gn2k46o"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about technological Evolution."
+summary = "I talk about how dramatically technology changed (and continues to change) in the game industry and how that is a source of excitement and stress."
 references = ["Iw3bCdIvAj0"]
 +++
 

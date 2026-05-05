@@ -4,7 +4,7 @@ date = "2023-05-25"
 id = "6i8Bx4zYIKQ"
 status = "transcript"
 tags = ["Fallout", "Interplay"]
-summary = "Hi everyone. It's me, Tim."
+summary = "I talk about how Fallout was never a high-status project at Interplay until very shortly before it shipped."
 references = []
 +++
 

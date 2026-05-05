@@ -4,7 +4,7 @@ date = "2026-04-06"
 id = "dxI7vErdauA"
 status = "production"
 tags = ["Fallout", "Arcanum", "Narrative Design", "Quest Design", "Player Choice"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Fallout versus Arcanum's story states."
+summary = "I compare the story states of Fallout and Arcanum, in terms of length and linearity, and I list the states in detail."
 references = []
 +++
 

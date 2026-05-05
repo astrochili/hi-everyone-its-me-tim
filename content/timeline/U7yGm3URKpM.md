@@ -4,7 +4,7 @@ date = "2026-04-29"
 id = "U7yGm3URKpM"
 status = "production"
 tags = ["Arcanum", "Character Systems", "Game Design", "Storytime", "Q&A"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about why are there so many ugly characters in games."
+summary = "I get asked this a lot. It really seems to trigger many people, so let's tackle it."
 references = []
 +++
 

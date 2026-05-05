@@ -4,7 +4,7 @@ date = "2025-09-17"
 id = "X_bbscwVvzc"
 status = "transcript"
 tags = ["Character Systems", "Combat Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about using combat skills outside of combat."
+summary = "I talk about how combat skills can be made to have utility outside of combat. This is a companion piece to the previous video on non combat skill usage in combat, linked below."
 references = ["MhhjmTGnwEg", "xAbrZtmDQfM"]
 +++
 

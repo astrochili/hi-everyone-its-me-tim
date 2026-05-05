@@ -4,7 +4,7 @@ date = "2024-10-10"
 id = "7UGeI_fU5Lk"
 status = "transcript"
 tags = ["AI", "Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how technology changes jobs."
+summary = "I talk about how technological advances change jobs, and I give my prediction for AI and its effect on the game industry."
 references = ["68srUJOV3j4", "7MRx_i9gvWw"]
 +++
 

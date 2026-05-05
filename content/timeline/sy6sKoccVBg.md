@@ -4,7 +4,7 @@ date = "2025-10-29"
 id = "sy6sKoccVBg"
 status = "transcript"
 tags = ["UI/UX"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about sound effects."
+summary = "I talk about the importance of sound effects in your game."
 references = ["FLq3h5zk1LA", "4yHKBeI1uq4", "yI8N1bCCF6c", "P935C85WIpU"]
 +++
 

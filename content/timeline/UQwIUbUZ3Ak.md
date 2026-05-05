@@ -4,7 +4,7 @@ date = "2023-08-08"
 id = "UQwIUbUZ3Ak"
 status = "transcript"
 tags = ["Q&A"]
-summary = "Hey everyone. It's me, Tim. Today I want to talk about a variety of topics that have been questions that people have submitted that"
+summary = "I talk about a variety of topics, including questions I received from commenters, that have no simple answers, i.e. answers that begin with \"Well, it depends...\"."
 references = []
 +++
 

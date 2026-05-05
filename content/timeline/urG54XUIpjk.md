@@ -4,7 +4,7 @@ date = "2023-12-06"
 id = "urG54XUIpjk"
 status = "transcript"
 tags = ["Fallout", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to tell a story about a picture that floats around on the internet of me with a paper bag on my head sitting at my desk."
+summary = "I tell the story of the photo of me wearing a bag on my head. The photo was taken during Fallout's development."
 references = []
 +++
 

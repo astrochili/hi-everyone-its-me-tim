@@ -4,7 +4,7 @@ date = "2023-09-07"
 id = "kC7StCQZW7Y"
 status = "transcript"
 tags = ["Arcanum", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Arcanum Tech skills and schematics, and the reason I want to talk about that is"
+summary = "I talk about Arcanum's tech skills, which started out very differently from what ended up shipping, and I discuss my love of the tech schematics artwork."
 references = []
 +++
 

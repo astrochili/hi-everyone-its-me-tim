@@ -4,7 +4,7 @@ date = "2025-04-23"
 id = "F707wIeTX2g"
 status = "transcript"
 tags = ["Game Preservation"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game preservation."
+summary = "I talk about game preservation, why it's important, and what games I think will stand the test of time."
 references = ["2j6qqh3H-0Y", "hZEosFcqmcU"]
 +++
 

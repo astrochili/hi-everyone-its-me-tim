@@ -4,7 +4,7 @@ date = "2023-10-25"
 id = "qBKd2z43K7E"
 status = "transcript"
 tags = ["Fallout", "Storytime"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about the Fallout team."
+summary = "I talk about the Fallout team, about each one individually and how I remembered them years later. It was a very good team."
 references = []
 +++
 

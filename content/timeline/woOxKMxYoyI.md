@@ -4,7 +4,7 @@ date = "2023-11-15"
 id = "woOxKMxYoyI"
 status = "transcript"
 tags = ["UI/UX"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about ux design specifically."
+summary = "I talk about the history of UX design and how I have handled it in my games."
 references = []
 +++
 

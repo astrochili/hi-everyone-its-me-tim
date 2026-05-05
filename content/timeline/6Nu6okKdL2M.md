@@ -4,7 +4,7 @@ date = "2024-12-27"
 id = "6Nu6okKdL2M"
 status = "production"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Wiz War, a study in great board game design."
+summary = "I talk about good design lessons from the board game WizWar."
 references = ["bcr3mMStEOE", "I37RXM71qmU"]
 +++
 

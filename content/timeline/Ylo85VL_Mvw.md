@@ -4,7 +4,7 @@ date = "2025-11-05"
 id = "Ylo85VL_Mvw"
 status = "transcript"
 tags = ["Character Systems", "Balance"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about temporary buffs."
+summary = "I answer several questions about temporary buffs in RPGs, from how to make them required at high difficulties and how to make them impactful, to what numerical ranges to use for them and how to make crafting buffing items less grinding."
 references = ["wUI6LZaCKCg", "4vdu4k-krXQ", "SL_aTjKsxok", "96uGEA0r6Bo", "ne9IIn7nEV4", "ESVby0UG-Ao", "DnOmC1G3MPA", "xVNZZlmTSrg", "AK5nnqOCaCg", "N7b7LFXBZ9M"]
 +++
 

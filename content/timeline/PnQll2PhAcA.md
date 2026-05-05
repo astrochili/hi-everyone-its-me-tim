@@ -4,7 +4,7 @@ date = "2024-10-25"
 id = "PnQll2PhAcA"
 status = "transcript"
 tags = ["TTRPG", "Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about dice."
+summary = "It's a Friday Fun Day video about my dice collection...or my dice addiction, depending on how you want to view it."
 references = ["_I6PWzqzrTs", "lb6agFgh11E"]
 +++
 

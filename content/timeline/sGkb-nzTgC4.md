@@ -4,7 +4,7 @@ date = "2024-09-18"
 id = "sGkb-nzTgC4"
 status = "transcript"
 tags = ["Multiplayer"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about why I don't play online games much anymore, and I'm particularly talking about multiplayer, and I did it for a long time."
+summary = "I talk about how I played online and multiplayer games for decades...and now I don't."
 references = ["-lerxozozis", "2j6qqh3H-0Y"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-11-01"
 id = "Bz8EjZ7QTLc"
 status = "transcript"
 tags = ["Character Systems", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about perk ideas."
+summary = "I talk about ideas I have had for perks over the years, including reactions I have received to them and the reasons I never included them in my games."
 references = ["8Kc1XoHpHEA", "keTG-5WPccU"]
 +++
 

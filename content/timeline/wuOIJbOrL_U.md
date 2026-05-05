@@ -4,7 +4,7 @@ date = "2023-05-13"
 id = "wuOIJbOrL_U"
 status = "transcript"
 tags = ["Vampire: The Masquerade - Bloodlines", "Troika Games", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about two potential expansions — or you could say it's SQL — that Troika had designed for Vampire: The Masquerade — Bloodlines."
+summary = "I talk about two different proposals that Troika created in 2003 for expansions to Vampire Bloodlines...plus a one-line mention of a third one, which would have made the games into a trilogy."
 references = []
 +++
 

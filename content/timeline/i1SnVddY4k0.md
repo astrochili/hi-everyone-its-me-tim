@@ -4,7 +4,7 @@ date = "2024-05-08"
 id = "i1SnVddY4k0"
 status = "transcript"
 tags = ["Game Design", "MUDs"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about B's player archetypes, which is also known as the ble taxonomy of players."
+summary = "I talk about the Bartle taxonomy of players and how I have used that in my games."
 references = ["-lerxozozis", "hZEosFcqmcU", "YMY5LUNdS-8"]
 +++
 

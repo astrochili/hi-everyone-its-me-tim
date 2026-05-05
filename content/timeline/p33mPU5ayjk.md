@@ -4,7 +4,7 @@ date = "2024-08-16"
 id = "p33mPU5ayjk"
 status = "transcript"
 tags = ["Writing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about being a good story teller."
+summary = "I talk about how I learned to tell good stories...at least spoken stories."
 references = ["QvgttRI7oSU", "-GmXrTBX7p8", "u0pJN3jpUjQ", "bNf601IoBpc"]
 +++
 

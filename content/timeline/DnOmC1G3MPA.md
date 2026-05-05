@@ -4,7 +4,7 @@ date = "2024-09-03"
 id = "DnOmC1G3MPA"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about encumbrance."
+summary = "I have talked a lot about encumbrance and carry weight mechanics in other videos, so I have collected all my thoughts in one place."
 references = ["ne9IIn7nEV4", "ESVby0UG-Ao", "TshXDFgfiTg"]
 +++
 

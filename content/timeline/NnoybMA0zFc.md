@@ -4,7 +4,7 @@ date = "2025-09-26"
 id = "NnoybMA0zFc"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about early morning workers."
+summary = "People have commented on my dark videos. I like to start work early, and I wanted to give my appreciation to other early morning workers."
 references = []
 +++
 

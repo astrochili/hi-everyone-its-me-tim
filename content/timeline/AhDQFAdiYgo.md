@@ -4,7 +4,7 @@ date = "2024-02-23"
 id = "AhDQFAdiYgo"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the people in game development and specifically"
+summary = "I was asked what I enjoyed more, the game development process or the end result? And I realized it was neither. It was the people I made the games with."
 references = ["qBKd2z43K7E", "jGixGnDa-ck"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-09-11"
 id = "VBT1CrLGOAo"
 status = "transcript"
 tags = ["Hiring", "Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about hiring people."
+summary = "I talk about how I hired people to work on my projects."
 references = ["RY_tqjx_iFc", "c6CJUMW-3p0", "1WxB2c02_Js", "uljC4cZh-Oc", "W8hesnidqqE"]
 +++
 

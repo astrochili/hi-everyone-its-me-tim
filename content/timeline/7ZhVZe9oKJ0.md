@@ -4,7 +4,7 @@ date = "2024-10-24"
 id = "7ZhVZe9oKJ0"
 status = "transcript"
 tags = ["Game Design", "Balance"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about balancing friction, and this comes from a question from padon Roso — I hope I'm pronouncing your name correctly — who asked: can you talk about balancing friction in RPGs and games?"
+summary = "I talk about how to balance friction points in a game...starting with defining what a \"friction point\" is."
 references = ["DnOmC1G3MPA", "xVNZZlmTSrg", "nnH4XJBHvFQ", "IADSh_P05As", "sCGeOsHV4Ag"]
 +++
 

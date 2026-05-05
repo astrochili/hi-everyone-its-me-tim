@@ -4,7 +4,7 @@ date = "2024-10-01"
 id = "26zFDKHLD_8"
 status = "transcript"
 tags = ["Writing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about understanding someone else's point of view."
+summary = "I talk about how I try to understand other people's points of view, even when I don't agree with or support them, and why this is important for game development."
 references = ["mFZSt3TaE7Q", "R6zZyfOmliQ", "yqk-A-MmrbE", "9lYuzefVvMA", "eeZE8UBsfrs", "-GmXrTBX7p8"]
 +++
 

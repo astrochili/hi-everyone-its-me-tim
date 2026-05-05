@@ -4,7 +4,7 @@ date = "2024-04-18"
 id = "yhJEJKG-aK8"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about error handling."
+summary = "I talk about how I handle error handling in the code of my games."
 references = ["lwlRDhPZxLc"]
 +++
 

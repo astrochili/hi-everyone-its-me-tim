@@ -4,7 +4,7 @@ date = "2025-06-18"
 id = "9wIx8zd8qvA"
 status = "transcript"
 tags = ["Balance", "Combat Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about action points, part two."
+summary = "I answer follow-up questions to my action points video, linked below."
 references = ["ay6Ue5fAqxQ"]
 +++
 

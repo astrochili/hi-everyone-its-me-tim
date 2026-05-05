@@ -4,7 +4,7 @@ date = "2024-04-05"
 id = "jHIabSKo26U"
 status = "transcript"
 tags = ["Fallout", "Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to do the Fallout development timeline."
+summary = "I combed through my notes to create a detailed timeline of the development of Fallout."
 references = ["efCn85Tvrf8", "Ieqw-dwsXIA", "N7b7LFXBZ9M", "hZEosFcqmcU", "u0clHu19vCE", "shH7tTIUNWc"]
 +++
 

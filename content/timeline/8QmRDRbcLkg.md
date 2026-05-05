@@ -4,7 +4,7 @@ date = "2025-01-20"
 id = "8QmRDRbcLkg"
 status = "transcript"
 tags = ["Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today I want to give you a World building tip and of course, before I do it, I kind of want to give you context and then I'll give you the tip, which is a one sentence tip, and then I'll talk about it at length."
+summary = "I give advice on making lore and building worlds for games."
 references = ["kW7gOPHmr-Q", "5nOwzRRGEhI", "waUjJ2VjvaE"]
 +++
 

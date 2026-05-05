@@ -4,7 +4,7 @@ date = "2026-02-27"
 id = "FBSIw-5L6Oc"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about great developers."
+summary = "I talk about some great game developers I have had the honor to work with over the years."
 references = []
 +++
 

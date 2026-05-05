@@ -4,7 +4,7 @@ date = "2023-07-15"
 id = "ho-g8KVx9hU"
 status = "transcript"
 tags = ["Careers", "Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about ageism in the game industry and that's why I'm wearing a shirt which you may have noticed, is a little tight."
+summary = "I talk about ageism in the game industry, how much I have noticed it, and specifically how it seems to be the last publicly acceptable discrimination."
 references = []
 +++
 

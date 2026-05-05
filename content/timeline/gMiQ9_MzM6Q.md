@@ -4,7 +4,7 @@ date = "2024-07-02"
 id = "gMiQ9_MzM6Q"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about time estimation."
+summary = "I talk about the best ways to accurately estimate the time it will take to do tasks, and what happens if you under (or over) estimate the time. Most of my examples are programming tasks, since that is the area in which I have the most experience."
 references = ["QJHpuJxMqiA", "eXJkecLBhOE", "v9j5k3K29Rw", "FT0fLk0WjZA"]
 +++
 

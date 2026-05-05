@@ -4,7 +4,7 @@ date = "2024-03-01"
 id = "6mvH-sWq9Zo"
 status = "transcript"
 tags = ["Troika Games"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the origin of the name for Troika Games."
+summary = "I talk about where we got the name for Troika Games."
 references = ["tPuXYk6FvFU", "8rhgaSkmY_s"]
 +++
 

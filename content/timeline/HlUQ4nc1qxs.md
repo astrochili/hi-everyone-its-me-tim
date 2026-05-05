@@ -4,7 +4,7 @@ date = "2025-05-26"
 id = "HlUQ4nc1qxs"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the pros and cons of long RPGs."
+summary = "I discuss the pros and cons of long RPGs, where \"long\" means 100+ hours of play time."
 references = ["9mMdNjiGdnY"]
 +++
 

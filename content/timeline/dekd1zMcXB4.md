@@ -4,7 +4,7 @@ date = "2024-03-04"
 id = "dekd1zMcXB4"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about what makes a good producer."
+summary = "I talk about the five traits that I found in every good producer I worked with, namely:"
 references = ["FkvBuyaJgIU"]
 +++
 

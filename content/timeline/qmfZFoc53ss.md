@@ -4,7 +4,7 @@ date = "2023-06-17"
 id = "qmfZFoc53ss"
 status = "transcript"
 tags = ["Art"]
-summary = "Hi everyone. It's me, Tim. Today I want to finish my series on challenges that game developers face by talking about the challenges that artists face, and I almost didn't do this one because I know"
+summary = "Despite not being a game artist, I have watched the challenges they have faced over the course of many decades and many projects, and I talk about those challenges in this video."
 references = []
 +++
 

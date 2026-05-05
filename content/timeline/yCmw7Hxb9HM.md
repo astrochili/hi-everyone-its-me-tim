@@ -4,7 +4,7 @@ date = "2023-11-24"
 id = "yCmw7Hxb9HM"
 status = "transcript"
 tags = ["Troika Games", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about late stage troa, because I've told a lot of troa stories already and you can look them up."
+summary = "I talk about the last year and a half of Troika Games, and what I think I learned from it."
 references = []
 +++
 

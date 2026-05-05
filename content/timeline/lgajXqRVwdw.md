@@ -4,7 +4,7 @@ date = "2025-01-03"
 id = "lgajXqRVwdw"
 status = "transcript"
 tags = ["Fallout", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about a collection of Fallout photos I have from 1994 through 1997."
+summary = "This is every photo I have that shows a Fallout team member between 1994-1997 (plus one photo of some Fallout clay heads)."
 references = ["c6YwaDiSdTg", "2wUODD82kmI", "jHIabSKo26U", "Fo-tYpW9m98"]
 +++
 

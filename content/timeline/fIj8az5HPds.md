@@ -4,7 +4,7 @@ date = "2026-02-25"
 id = "fIj8az5HPds"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about fences."
+summary = "I talk about fences, or more specifically, I talk about understanding what's happening on both sides of different divides in the game industry."
 references = ["YG4i-F67YOk"]
 +++
 

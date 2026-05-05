@@ -4,7 +4,7 @@ date = "2026-01-23"
 id = "9IMrf9jngIw"
 status = "transcript"
 tags = ["Fallout", "Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about a typical day of making Fallout, kind of to give you an insight into what it was like."
+summary = "I walk you through a typical day of making Fallout in the mid 1990s."
 references = []
 +++
 

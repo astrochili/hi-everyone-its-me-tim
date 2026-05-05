@@ -4,7 +4,7 @@ date = "2023-10-30"
 id = "hCGaYZzpb-8"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about why you should challenge yourself and I'm going to cut to the Chase and tell you right now: success comes from challenging yourself."
+summary = "I talk about why I think it is critically important to challenge yourself. Specifically, you should find ways to take some risks and push yourself so that when opportunities arise, you will be able to take advantage of them."
 references = []
 +++
 

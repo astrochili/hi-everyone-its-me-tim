@@ -4,7 +4,7 @@ date = "2024-04-22"
 id = "Ooe44v7j-bo"
 status = "transcript"
 tags = ["Management"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about delegation, the dreaded delegation."
+summary = "I talk about delegating tasks to others, including when and how I do that."
 references = []
 +++
 

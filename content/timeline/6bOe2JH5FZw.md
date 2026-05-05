@@ -4,7 +4,7 @@ date = "2023-08-19"
 id = "6bOe2JH5FZw"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about a common phrase I hear in the industry called perfect is the enemy of good."
+summary = "I talk about the phrase \"perfect is the enemy of good\" and its implications on game development."
 references = []
 +++
 

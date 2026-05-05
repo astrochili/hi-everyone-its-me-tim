@@ -4,7 +4,7 @@ date = "2024-12-13"
 id = "kIYa7NjTMxY"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I'm going to talk about game lessons from collecting fragrances."
+summary = "I talk about my fragrance collection...and some lessons I learned that also apply to games."
 references = ["YUaellOkDGc", "9vB9f8RL4g4", "PnQll2PhAcA"]
 +++
 

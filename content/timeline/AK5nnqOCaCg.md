@@ -4,7 +4,7 @@ date = "2024-04-10"
 id = "AK5nnqOCaCg"
 status = "transcript"
 tags = ["Progression", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about skill-based XP."
+summary = "I talk about skill-based XP progression, where games give their players XP based on their use of skills. I discuss the problems this method can cause that you will need to either fix or dismiss as a non-issue for your game. This progression can also apply to perks, traits, backgrounds, or anything about the player build that affects the game."
 references = ["NyVZlvaAYX4", "scvCVwGnT2E", "jkXd503iCRI", "Kh5JMp5_5nQ"]
 +++
 

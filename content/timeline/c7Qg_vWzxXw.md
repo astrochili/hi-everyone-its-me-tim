@@ -4,7 +4,7 @@ date = "2023-06-25"
 id = "c7Qg_vWzxXw"
 status = "transcript"
 tags = ["Fallout", "Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the beginning, the creation of the origin of the Fallout setting."
+summary = "I talk about the origin of Fallout's post apocalyptic setting, trying to get as close to the actual timeline as my notes allow."
 references = []
 +++
 

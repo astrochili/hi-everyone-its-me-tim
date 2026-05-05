@@ -4,7 +4,7 @@ date = "2025-03-21"
 id = "XALrVhS-Idg"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about video games and the theater."
+summary = "I talk about the similarities between the game development and the theater businesses."
 references = ["wEIOUsAB-xU", "wVFSCsv0GqY"]
 +++
 

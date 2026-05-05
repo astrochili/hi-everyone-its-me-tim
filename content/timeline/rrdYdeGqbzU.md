@@ -4,7 +4,7 @@ date = "2024-08-28"
 id = "rrdYdeGqbzU"
 status = "transcript"
 tags = ["Contracting", "Publishing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about contractor contracts."
+summary = "I talk about the contracts typically used in game development contracting, and specifically I mention things to look for and things you will want."
 references = ["0TX4mXmSoVE", "BObrovcTZZw"]
 +++
 

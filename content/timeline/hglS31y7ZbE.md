@@ -4,7 +4,7 @@ date = "2023-09-18"
 id = "hglS31y7ZbE"
 status = "transcript"
 tags = ["RPG Design", "Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today I want to answer another question, this one from aramel whisperwind, who asks."
+summary = "I talk about my ideas to translate the book Lord Of Light by Roger Zelazny into a computer role playing game."
 references = []
 +++
 

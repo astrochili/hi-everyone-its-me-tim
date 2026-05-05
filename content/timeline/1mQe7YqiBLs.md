@@ -4,7 +4,7 @@ date = "2025-06-16"
 id = "1mQe7YqiBLs"
 status = "transcript"
 tags = ["Work-Life Balance", "Game Development"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about recent findings in fossilized endothermic theorapsids."
+summary = "I talk about ways in which game development can be unhealthy and ways it has improved at places I have worked."
 references = ["tLD4AaDDN0U", "AaHVCy_EQ0s", "PuEdppkPjfo", "Nr1bzA0z8EA", "fHUAFYDzN3U"]
 +++
 

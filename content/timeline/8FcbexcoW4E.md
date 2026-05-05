@@ -4,7 +4,7 @@ date = "2025-02-03"
 id = "8FcbexcoW4E"
 status = "transcript"
 tags = ["Marketing", "Feedback"]
-summary = "Hi everybody. It's me, Tim. Today I want to give more thoughts on game marketing and look, I exist in daytime."
+summary = "I give constructive feedback on how to be a game marketer."
 references = ["LDSF7Ek4wec", "-72btgrwKzA", "IADSh_P05As"]
 +++
 

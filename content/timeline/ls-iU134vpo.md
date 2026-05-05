@@ -4,7 +4,7 @@ date = "2023-08-13"
 id = "ls-iU134vpo"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about what it's like to work with other people who know who I am."
+summary = "I talk about how my development experience changed over time, depending on how people viewed my past work."
 references = []
 +++
 

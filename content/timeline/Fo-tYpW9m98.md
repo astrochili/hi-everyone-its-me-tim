@@ -4,7 +4,7 @@ date = "2023-10-04"
 id = "Fo-tYpW9m98"
 status = "transcript"
 tags = ["Temple of Elemental Evil", "Press Event"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about the Temple of Elemental Evil press event."
+summary = "I talk about my experience at The Temple Of Elemental Evil press event that Atari held in the UK in 2003."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2025-03-10"
 id = "mbMAufVe_ds"
 status = "transcript"
 tags = ["Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about character build fairness."
+summary = "I talk about what I consider \"fairness\" in single player RPGS, and that's allowing any character build to complete the main story."
 references = ["SmYBsCOp-OY", "vlkksy6casU", "phMzoU7DOFA"]
 +++
 

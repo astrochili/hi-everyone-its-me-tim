@@ -4,7 +4,7 @@ date = "2025-08-06"
 id = "Jb2y1zGkT6w"
 status = "transcript"
 tags = ["Publishing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game rights, Specifically, who owns the rights to games that you're playing and how the individuals who worked on those games, what they own and what they don't own."
+summary = "I explain how rights work with respect to who owns/controls video game IPs."
 references = ["mFZSt3TaE7Q", "0IZwda2fCKY", "hZEosFcqmcU"]
 +++
 

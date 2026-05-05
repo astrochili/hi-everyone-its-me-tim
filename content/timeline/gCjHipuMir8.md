@@ -4,7 +4,7 @@ date = "2025-01-08"
 id = "gCjHipuMir8"
 status = "transcript"
 tags = ["Feedback"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the question: do game players even know what they like?"
+summary = "I talk about how many gamers don't seem to know what they like, only what they don't like."
 references = ["-72btgrwKzA", "0wBEMGov0HY", "hyj6X7EaBsY", "wUI6LZaCKCg", "DnOmC1G3MPA", "xVNZZlmTSrg", "Je016BRB2-U"]
 +++
 

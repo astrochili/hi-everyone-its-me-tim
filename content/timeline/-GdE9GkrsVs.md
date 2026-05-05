@@ -4,7 +4,7 @@ date = "2026-05-01"
 id = "-GdE9GkrsVs"
 status = "production"
 tags = ["Game Design", "Game Development", "Game Industry", "Marketing", "YouTube"]
-summary = "Cherry. Hi everyone, it's me, Tim. Today I want to talk about how the internet changed game design. This is from a question from Pedroni Rosso — hope I'm pronouncing your name right. How did your thought process in designing and making games change, or maybe what adaptations did you see in general in making games by the industry around you with the advent of social media and video game streamers? To what extent and how do developers and their publishers keep in mind how streamable their current projects in development are? I'm sure that video game streaming cannot be ignored as a sort of mostly free commercial and promotion circuit for a modern-day game. So how do you guys manage this change from what making and selling games was only 10 to 20 years ago?"
+summary = "I talk about how the internet changed how designers approached making games and how the player received information about those games."
 references = []
 +++
 

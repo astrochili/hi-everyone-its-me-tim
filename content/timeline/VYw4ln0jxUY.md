@@ -4,7 +4,7 @@ date = "2024-08-01"
 id = "VYw4ln0jxUY"
 status = "transcript"
 tags = ["Arcanum", "Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about arcanum's dat files."
+summary = "I talk about how Arcanum stored its game data files in big monolithic files...and why we did that."
 references = ["bmz6XSd7xGM"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-11-04"
 id = "8goxpsqusxc"
 status = "transcript"
 tags = ["GURPS", "TTRPG"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about gerps everything, which was an attempt of mine to run a gerps campaign in the 9s using the basic set and every single Source book that I owned — not the World Books, not the ones that had particular settings in them, but all the source books, like the extensions on, like magic and sanics and I'll talk about that."
+summary = "I describe my GURPS Everything campaign from the 1990s. By \"everything\", I mean I allowed the players to use any skill or ability from any GURPS sourcebook. Fun times ensued."
 references = ["kgPwfHXiBjw", "tv74Z8rByAY"]
 +++
 

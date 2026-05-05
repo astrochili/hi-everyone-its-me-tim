@@ -4,7 +4,7 @@ date = "2023-07-03"
 id = "CvVWp8DmD9I"
 status = "transcript"
 tags = ["Fallout", "Combat Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to explain exactly how criticals work in Fallout, and by criticals I mean both critical successes and critical failures."
+summary = "I talk about how critical hits and misses work in Fallout."
 references = []
 +++
 

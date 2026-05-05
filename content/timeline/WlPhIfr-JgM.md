@@ -4,7 +4,7 @@ date = "2024-05-16"
 id = "WlPhIfr-JgM"
 status = "transcript"
 tags = ["Narrative Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about subverting tropes because I did a video on tropes that I think get overused."
+summary = "I talk about tropes that I like to use, or more specifically, how I like to use them."
 references = ["sGPJJWjrymw", "FFjjn8hBjJw"]
 +++
 

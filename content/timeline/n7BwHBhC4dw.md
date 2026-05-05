@@ -4,7 +4,7 @@ date = "2023-08-28"
 id = "n7BwHBhC4dw"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to answer another question, good one from octopus RPG who asks: I'm curious if there are any games that you didn't work on with mechanics or design that made you think — quote: wow, I wish"
+summary = "I talk about game design elements from other people's games that I was very impressed by."
 references = []
 +++
 

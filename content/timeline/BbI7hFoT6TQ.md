@@ -4,7 +4,7 @@ date = "2023-07-25"
 id = "BbI7hFoT6TQ"
 status = "transcript"
 tags = ["Arcanum", "Procedural Generation"]
-summary = "Hi everyone. It's me, Tim. Today I wanted to talk about arcanum's procedural terrain generation system, gotten some questions about this for years."
+summary = "I talk about how Arcanum used procedural generation to create our world and keep its storage cost low. The Arcanum map was 128 miles on each side, and it could have been 4.2 million miles on each side. Either way, that's a lot of map."
 references = []
 +++
 

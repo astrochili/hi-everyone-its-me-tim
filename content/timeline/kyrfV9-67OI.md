@@ -4,7 +4,7 @@ date = "2025-03-26"
 id = "kyrfV9-67OI"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how much devs should play."
+summary = "I talk about needing to play your competitor's games...but not too much or too little."
 references = ["o24eaeN6XB4", "m7hZs-y4x2A", "26zFDKHLD_8", "bcr3mMStEOE"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-07-23"
 id = "3mfl_jOf-Jw"
 status = "transcript"
 tags = ["Narrative Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about humor in video games, but before I do I want to point out"
+summary = "I talk about humor in games and how it is hard to get right. Still, I have added it to all of my games."
 references = []
 +++
 

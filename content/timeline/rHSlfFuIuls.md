@@ -4,7 +4,7 @@ date = "2023-11-21"
 id = "rHSlfFuIuls"
 status = "transcript"
 tags = ["Retrospective"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about playing my older games."
+summary = "I played my first four RPGs (Fallout, Arcanum, The Temple of Elemental Evil, and Vampire: Bloodlines) and give my thoughts about experiencing them now, decades later."
 references = []
 +++
 

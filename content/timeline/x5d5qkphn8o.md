@@ -4,7 +4,7 @@ date = "2023-06-26"
 id = "x5d5qkphn8o"
 status = "transcript"
 tags = ["Arcanum", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the Arcanum attribute system and specifically the original attributes, the way they were designed, not the ones we shipped with, and I'm answering a question."
+summary = "I talk about the original design of Arcanum's attributes, why they were changed, and what they became."
 references = []
 +++
 

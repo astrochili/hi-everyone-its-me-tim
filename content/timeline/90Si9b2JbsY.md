@@ -4,7 +4,7 @@ date = "2023-08-31"
 id = "90Si9b2JbsY"
 status = "transcript"
 tags = ["TTRPG", "Dungeons & Dragons"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about appendix, and Josh James 582, asked for my thoughts on appendix n, which is in the DM's guide for advanced Dungeons and Dragons, which lets me show off something I'm super excited about."
+summary = "I talk about Appendix N, the suggested reading list in the AD&D Dungeon Master's Guide, and how I used it to discover some great books and authors."
 references = []
 +++
 

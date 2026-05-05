@@ -4,7 +4,7 @@ date = "2026-03-02"
 id = "G8IpRg9bPm0"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about design potholes."
+summary = "I talk about some common general design issues and how to avoid them."
 references = ["akKcwfEkuKQ", "XSKxD6v06P4", "N7b7LFXBZ9M"]
 +++
 

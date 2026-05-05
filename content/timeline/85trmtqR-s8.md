@@ -4,7 +4,7 @@ date = "2024-02-09"
 id = "85trmtqR-s8"
 status = "transcript"
 tags = ["Game Director"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about ego and game directors and how those two things often seem conflated in people's minds and I want to talk about."
+summary = "I talk about why game directors seem to have strong egos...and I don't mean being egotistical. Instead, they have well-developed game development philosophies."
 references = ["F7uaMQnMsvI", "sYZCYDRQtSs", "ohHLUKj3NTk"]
 +++
 

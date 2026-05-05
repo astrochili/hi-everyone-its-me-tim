@@ -4,7 +4,7 @@ date = "2025-08-27"
 id = "ny3jMBT_2mU"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about timelessness."
+summary = "I talk about my efforts to make this channel timeless and, to the extent I can, my games timeless as well."
 references = ["mFZSt3TaE7Q", "0Z5fFE0r8bs", "3mfl_jOf-Jw"]
 +++
 

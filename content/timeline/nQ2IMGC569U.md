@@ -4,7 +4,7 @@ date = "2023-10-10"
 id = "nQ2IMGC569U"
 status = "transcript"
 tags = ["Careers", "Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to answer another question, this one from ATA 94, who asks: can you tell me what is the difference between a lead position and a so-called not lead position?"
+summary = "I talk about the differences among programmer roles, from lead programmer to junior programmer."
 references = []
 +++
 

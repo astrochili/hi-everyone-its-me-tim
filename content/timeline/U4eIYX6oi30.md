@@ -4,7 +4,7 @@ date = "2024-11-07"
 id = "U4eIYX6oi30"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about adding new features after launch, and by that I mean I'm going to talk about why it can be very difficult sometimes to add a new feature after the game has shipped."
+summary = "I talk about the reasons it can be hard to add new features to a game after it ships."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-11-08"
 id = "sCGeOsHV4Ag"
 status = "transcript"
 tags = ["UI/UX"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about focus groups because I have a LoveHate relationship with focus group testing and"
+summary = "I talk about my love-hate relationship with focus group testing."
 references = []
 +++
 

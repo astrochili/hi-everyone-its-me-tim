@@ -4,7 +4,7 @@ date = "2024-07-16"
 id = "YMvl3t0u9WU"
 status = "transcript"
 tags = ["Game Industry", "Management", "Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the business side of game development."
+summary = "I talk about the business issues and concerns of running a game company."
 references = []
 +++
 

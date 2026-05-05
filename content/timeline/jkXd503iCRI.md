@@ -4,7 +4,7 @@ date = "2023-09-22"
 id = "jkXd503iCRI"
 status = "transcript"
 tags = ["Game Design", "Procedural Generation"]
-summary = "Hey everyone. It's me, Tim. Today I want to talk about procedural versus handmade content in games."
+summary = "I talk about my thoughts on how games can use both procedural and handmade content, based on how I have used it in my past games and how I have wanted to use it in those games."
 references = []
 +++
 

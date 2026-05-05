@@ -4,7 +4,7 @@ date = "2024-01-05"
 id = "5-Jl1ptf6vs"
 status = "transcript"
 tags = ["Management"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about designed by committee versus design by collaboration."
+summary = "I talk about the differences between games made by committee and games made by collaboration."
 references = []
 +++
 

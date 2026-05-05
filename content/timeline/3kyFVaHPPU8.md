@@ -4,7 +4,7 @@ date = "2023-11-27"
 id = "3kyFVaHPPU8"
 status = "transcript"
 tags = ["Prototype", "Game Development"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about a development methodology called Fast fail."
+summary = "I talk about the fast fail methodology, which I have always called rapid prototyping."
 references = ["IADSh_P05As"]
 +++
 

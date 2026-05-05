@@ -4,7 +4,7 @@ date = "2023-09-27"
 id = "LMVQ30c7TcA"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about something that, for a lack of a better phrase, I'm going to call game development caution."
+summary = "I talk about game development caution and how it seems to be affecting newer games."
 references = []
 +++
 

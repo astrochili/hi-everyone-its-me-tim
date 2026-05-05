@@ -4,7 +4,7 @@ date = "2026-02-20"
 id = "C2gszd5fi_g"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about overanalyzing games."
+summary = "Be careful overanalyzing games (or other entertainment) because you can analyze all the fun and joy right out of it."
 references = ["3mfl_jOf-Jw", "LMVQ30c7TcA", "X9ejDUuu7Sc", "IhF-8-5S5OE", "tBUPySwWmkM"]
 +++
 

@@ -4,7 +4,7 @@ date = "2025-11-10"
 id = "ONIBOhQiaRw"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about RPG features nobody asked for This is kind of a video for my fellow RPG game developers, because I keep seeing these features in RPGs and I don't think anybody wants them and I don't know what's going on."
+summary = "I talk about RPG features I keep seeing appear in games that no one has asked for and many people complain about. And I offer some solutions."
 references = []
 +++
 

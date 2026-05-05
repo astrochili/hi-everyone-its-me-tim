@@ -4,7 +4,7 @@ date = "2024-11-18"
 id = "hyj6X7EaBsY"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about fast travel."
+summary = "I talk about the pros and cons of fast travel in games...and why you probably need to include it in your game."
 references = ["TiL2wa66wxs"]
 +++
 

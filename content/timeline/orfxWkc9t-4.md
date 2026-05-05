@@ -4,7 +4,7 @@ date = "2023-08-30"
 id = "orfxWkc9t-4"
 status = "transcript"
 tags = ["Game Industry", "Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to ask a question from, or answer a question — I keep doing that from — Jeremy Mason 9802 asks: do you think game development is harder or Worse nowadays compared to, say, the 90s, or is it better or the same?"
+summary = "I talk about how game development has changed over time, sometimes for the better, sometimes not."
 references = []
 +++
 

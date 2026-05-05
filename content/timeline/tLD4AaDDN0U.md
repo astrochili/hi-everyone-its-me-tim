@@ -4,7 +4,7 @@ date = "2025-06-13"
 id = "tLD4AaDDN0U"
 status = "transcript"
 tags = ["Work-Life Balance"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about being happy."
+summary = "I talk about what you can do to be happy. At least, as it pertains to video games."
 references = ["-72btgrwKzA", "FFjjn8hBjJw", "fyu2DJBWPOc"]
 +++
 

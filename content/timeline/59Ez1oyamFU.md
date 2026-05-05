@@ -4,7 +4,7 @@ date = "2023-06-14"
 id = "59Ez1oyamFU"
 status = "transcript"
 tags = ["Fallout", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk to you about the first time Fallout almost got canceled."
+summary = "I talk about the first time Fallout was almost canceled or certainly in peril of continuing...because of me."
 references = []
 +++
 

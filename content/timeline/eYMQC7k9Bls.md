@@ -4,7 +4,7 @@ date = "2023-05-15"
 id = "eYMQC7k9Bls"
 status = "transcript"
 tags = ["Real Life", "YouTube"]
-summary = "So I just found out that some people are seeing ads in my videos. I did not think that ads would show up in unmonetized videos, but apparently they can be inserted. So what I've done is I turned on monetization, and immediately made all the ad skippable, and got rid of what are called mid-roll ads, which are ones that can show up in the middle of my videos. That's the best I can do, except if I make videos that are, at least, it said, longer than eight minutes, but I tried it with some of my eight minute eight and a half minutes and it didn't work. So it looks like it's nine minutes or longer."
+summary = "People have reported seeing ads in my videos, even though I had monetization turned off. So I turned it on and made all ads skippable, plus I eliminated mid-roll ads. As long as I make videos that are 9 minutes or longer from now on, I can eliminate starting ads in those videos too. That's the best I can do."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2025-08-11"
 id = "kLbRnZDEYX4"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game punishments, where the player does something in the game and gets punished for it."
+summary = "I talk about ways to punish players in ways that are fair and acceptable to most players."
 references = []
 +++
 

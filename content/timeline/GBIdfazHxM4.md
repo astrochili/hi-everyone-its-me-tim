@@ -4,7 +4,7 @@ date = "2025-05-21"
 id = "GBIdfazHxM4"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about first versus third person."
+summary = "I talk about the advantages of first vs third person views in RPGs, and what you should consider in picking the viewpoint for your own game."
 references = ["-cG8OfcFkew", "-QUDeipApgU", "yVN2IlzORoE", "o4QcRQ5ucBk"]
 +++
 

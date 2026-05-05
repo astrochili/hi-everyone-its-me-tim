@@ -4,7 +4,7 @@ date = "2025-11-26"
 id = "EwmZwvmcLaM"
 status = "transcript"
 tags = ["Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about leaving some mystery in your games."
+summary = "I talk about why it's a good thing to leave some mystery in your games, meaning some unanswered questions and some unexplored lore."
 references = ["xvdw3CyEGFQ", "Vtwsdb7hasM", "r4ut4EVe2GU", "pzY6sZWpGQQ"]
 +++
 

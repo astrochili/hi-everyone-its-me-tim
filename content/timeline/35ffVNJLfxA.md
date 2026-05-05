@@ -4,7 +4,7 @@ date = "2026-03-11"
 id = "35ffVNJLfxA"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the credits problem, part two."
+summary = "I talk about another problem with game credits, which is people exaggerating their contributions to games they are credited on."
 references = ["hZEosFcqmcU", "JOVgSfjWeVI"]
 +++
 

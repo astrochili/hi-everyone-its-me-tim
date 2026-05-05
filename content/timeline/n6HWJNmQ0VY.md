@@ -4,7 +4,7 @@ date = "2025-09-29"
 id = "n6HWJNmQ0VY"
 status = "transcript"
 tags = ["Leadership"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about when to step out of the way — or my alternate title, which was way too long to fit on the title card — Things I didn't do as much as didn't stop from happening, which isn't something that I said."
+summary = "The alternate title was \"Things I Didn't Do As Much As Didn't Stop From Happening\". Stepping aside is probably the most important thing a leader needs to know how to do."
 references = ["PJ15olgEW3Q", "UZJ-1AS4UKA", "85trmtqR-s8"]
 +++
 

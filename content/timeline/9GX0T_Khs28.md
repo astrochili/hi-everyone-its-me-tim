@@ -4,7 +4,7 @@ date = "2024-02-20"
 id = "9GX0T_Khs28"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the future of games, like where I think games are going to go."
+summary = "I speculate on the future of games...or at least, the future I'd like to see."
 references = ["vlkksy6casU"]
 +++
 

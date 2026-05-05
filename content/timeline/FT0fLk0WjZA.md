@@ -4,7 +4,7 @@ date = "2023-09-06"
 id = "FT0fLk0WjZA"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to answer a question from echoness, who asks: Tim, which type of Personality are you?"
+summary = "I talk about whether I am an extrovert or an introvert, and how that impacted my work in game development."
 references = []
 +++
 

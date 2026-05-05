@@ -4,7 +4,7 @@ date = "2024-08-05"
 id = "Xo-YMgXP1M4"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how did the internet change game development?"
+summary = "I talk about how the rise of the internet changed game development, for better and for worse."
 references = []
 +++
 

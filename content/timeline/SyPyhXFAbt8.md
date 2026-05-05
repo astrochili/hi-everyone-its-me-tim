@@ -4,7 +4,7 @@ date = "2023-11-16"
 id = "SyPyhXFAbt8"
 status = "transcript"
 tags = ["Storytime"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about me being the bad guy."
+summary = "I tell several development stories where I am the bad guy."
 references = []
 +++
 

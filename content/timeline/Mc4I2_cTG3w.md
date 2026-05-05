@@ -4,7 +4,7 @@ date = "2026-04-08"
 id = "Mc4I2_cTG3w"
 status = "production"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the game industry going from carefree to careful."
+summary = "I talk about how games have gone from carefree to careful in the past 4-5 decades. I offer no analysis, just stories."
 references = ["bNf601IoBpc", "bcr3mMStEOE", "LMVQ30c7TcA", "X9ejDUuu7Sc"]
 +++
 

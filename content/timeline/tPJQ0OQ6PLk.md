@@ -4,7 +4,7 @@ date = "2023-08-22"
 id = "tPJQ0OQ6PLk"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk to you about hedonic adaptation."
+summary = "I talk about hedonic adaptation in video games, also known as \"getting used to things\", and how this affects game development."
 references = []
 +++
 

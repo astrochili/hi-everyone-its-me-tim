@@ -4,7 +4,7 @@ date = "2024-12-26"
 id = "dzJCtA-ANvs"
 status = "transcript"
 tags = ["Modding", "Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the cost of modability, specifically the cost of making your video game modable by end users."
+summary = "I talk about what it costs (in time and money) to make your game moddable by your players."
 references = ["LH4llMQmJ1E", "coPkWyJIl-M", "T7ToTnHj-CI"]
 +++
 

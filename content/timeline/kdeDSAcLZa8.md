@@ -4,7 +4,7 @@ date = "2024-07-19"
 id = "kdeDSAcLZa8"
 status = "transcript"
 tags = ["The Outer Worlds", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about eight playthroughs of The Outer Worlds."
+summary = "I discuss the details of eight different character builds with which I finished the Outer Worlds. As a bonus, I include a list of purchase requests I received during the development of that game."
 references = ["xM6Cr04wWSc"]
 +++
 

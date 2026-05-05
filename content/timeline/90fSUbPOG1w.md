@@ -4,7 +4,7 @@ date = "2026-01-16"
 id = "90fSUbPOG1w"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about being real."
+summary = "I was told I am very \"real\" on this channel, so let's talk about being real and what that means."
 references = []
 +++
 

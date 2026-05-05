@@ -4,7 +4,7 @@ date = "2023-06-19"
 id = "_K9UdXrLges"
 status = "transcript"
 tags = ["Interviews and Chats", "Fallout"]
-summary = "Hi everyone. It's me, Tim. Today I'm going to chat with Jason Taylor, JT, who was the first person on what would later be called team Fallout."
+summary = "I talk with Jason Taylor, one of the very first Interplay developers assigned to the game that would become Fallout."
 references = []
 +++
 

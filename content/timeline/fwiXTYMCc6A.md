@@ -4,7 +4,7 @@ date = "2023-12-21"
 id = "fwiXTYMCc6A"
 status = "transcript"
 tags = ["Narrative Design", "Lore", "Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about game lore."
+summary = "I talk about how to deliver game lore to the player, and more importantly, how to make the players want to know more game lore."
 references = []
 +++
 

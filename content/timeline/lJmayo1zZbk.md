@@ -4,7 +4,7 @@ date = "2024-10-07"
 id = "lJmayo1zZbk"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about learning game design from old sitcoms."
+summary = "I watched old sitcoms spanning from the 1950's through the 2010's, and I saw some lessons there for game design."
 references = ["7ZyK9V9Q-xY", "3mfl_jOf-Jw"]
 +++
 

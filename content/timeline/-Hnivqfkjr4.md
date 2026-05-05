@@ -4,7 +4,7 @@ date = "2024-12-11"
 id = "-Hnivqfkjr4"
 status = "transcript"
 tags = ["Networking"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about networking, something that I have never been good at but that I recommend you do."
+summary = "I talk about networking with other game developers, something I was never very good at and wished I had done better."
 references = ["ht25L6fzEYQ", "MZB516hovas", "lpIJ7h4JVW8"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-10-28"
 id = "T7ToTnHj-CI"
 status = "transcript"
 tags = ["Game Design", "Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about design fallbacks now."
+summary = "I talk about the importance of having design fallback plans for when you need to remove features."
 references = ["DnOmC1G3MPA", "xVNZZlmTSrg"]
 +++
 

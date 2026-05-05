@@ -4,7 +4,7 @@ date = "2023-10-24"
 id = "TshXDFgfiTg"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about game design: fun versus realism, and this has come up in the past."
+summary = "I talk about my views on game design as it pertains to fun versus realistic design...and I am sure it will be no surprise how I feel about this dichotomy."
 references = []
 +++
 

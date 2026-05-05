@@ -4,7 +4,7 @@ date = "2024-11-27"
 id = "nJdyR0nO17E"
 status = "transcript"
 tags = ["Arcanum", "Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Arcanum optimization."
+summary = "I talk about how we optimized Arcanum for both time and space considerations."
 references = ["QWAetn0Ch9I", "IhaHPgZS1Fw", "hZEosFcqmcU", "Iw3bCdIvAj0"]
 +++
 

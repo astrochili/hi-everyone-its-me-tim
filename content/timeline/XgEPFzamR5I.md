@@ -4,7 +4,7 @@ date = "2024-01-18"
 id = "XgEPFzamR5I"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how to pick the right project, and this comes from a question from Bridges, chroma 1832, who asks: can you talk about how project approval decisions are made in game companies?"
+summary = "I talk about how to pick the right project for you, based on your team size, team strengths, and budget."
 references = []
 +++
 

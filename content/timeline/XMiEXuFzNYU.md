@@ -4,7 +4,7 @@ date = "2025-02-14"
 id = "XMiEXuFzNYU"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about learning design from travel."
+summary = "I talk about design lessons I learned while becoming a better traveler."
 references = ["Kh5JMp5_5nQ", "OGwAez5SNd0", "4WlWKSlAyrg", "lJmayo1zZbk", "lM3tSFuB4eM", "uuO1t-D2MuM", "kIYa7NjTMxY", "6Nu6okKdL2M"]
 +++
 

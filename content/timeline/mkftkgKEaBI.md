@@ -4,7 +4,7 @@ date = "2024-04-15"
 id = "mkftkgKEaBI"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about some career advice from Adam Savage."
+summary = "I watched a great video about career advice from Adam Savage (of MythBusters fame), and I realized a lot of it applied to my own career in game development, and probably yours too."
 references = ["Kh5JMp5_5nQ", "SrAuoqdl0os", "UGfaCXEu0tE", "YMY5LUNdS-8", "Lm0qhfquv74"]
 +++
 

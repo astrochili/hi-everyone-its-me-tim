@@ -4,7 +4,7 @@ date = "2025-12-31"
 id = "1MCZ-AFbAAs"
 status = "transcript"
 tags = ["Worldbuilding", "Lore"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about self-consistent lore."
+summary = "I talk about making your game's lore self-consistent. This is different than making your game realistic, and it's different than lore drift too."
 references = ["TshXDFgfiTg", "U81khTQiQTk", "EwmZwvmcLaM", "lzGea7I7CO4", "UDfv3COnfgo"]
 +++
 

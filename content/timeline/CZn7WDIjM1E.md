@@ -4,7 +4,7 @@ date = "2025-07-21"
 id = "CZn7WDIjM1E"
 status = "transcript"
 tags = ["Management"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the blame problem."
+summary = "I talk about the difficulty of assigning blame for a bad feature, bad game, or even bad company to one person."
 references = ["JOVgSfjWeVI", "UZJ-1AS4UKA"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-10-21"
 id = "r4ut4EVe2GU"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about my games theme."
+summary = "I talk about the single theme that runs through all of my games, and why it's a good idea for you to develop your own point of view for your games."
 references = ["7OsWuFo2jp4", "VgwDZDCaZso"]
 +++
 

@@ -4,7 +4,7 @@ date = "2025-07-02"
 id = "kHArBvi1OKU"
 status = "transcript"
 tags = ["Game Design", "Modding"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about playing games as intended."
+summary = "I talk about playing games the way the developers intended, and what this means for mods and patches."
 references = ["U4UMW5rVQ-Y", "wUI6LZaCKCg", "LH4llMQmJ1E", "hyj6X7EaBsY", "TiL2wa66wxs", "DnOmC1G3MPA", "xVNZZlmTSrg", "dzJCtA-ANvs"]
 +++
 

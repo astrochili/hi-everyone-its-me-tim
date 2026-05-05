@@ -4,7 +4,7 @@ date = "2025-06-25"
 id = "hCKIaT3Lamo"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about digital stealing in quotes and fairness."
+summary = "When is \"stealing\" fair? Does it depend on what you steal, how you steal, how much you steal? These questions arise frequently in game development."
 references = ["7OsWuFo2jp4", "LMVQ30c7TcA", "X9ejDUuu7Sc", "gCjHipuMir8", "bA-P3p7PdEc", "AnhAzecN150", "OvrJrra-gQQ"]
 +++
 

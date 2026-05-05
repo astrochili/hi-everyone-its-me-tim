@@ -4,7 +4,7 @@ date = "2024-08-20"
 id = "aYnnGpLY9M4"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about creativity Under Pressure."
+summary = "I talk about how to be creative under pressure in order to make a great game...and the secret is to work with great people."
 references = ["Naig0iJ_E9E", "qBKd2z43K7E", "SrAuoqdl0os", "QJHpuJxMqiA", "eXJkecLBhOE"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-09-05"
 id = "5nOwzRRGEhI"
 status = "transcript"
 tags = ["Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about a technique I call thinking what if in detail?"
+summary = "I talk about a setting design technique where you make a single change to an otherwise familiar setting, and then you imagine all the effects that one change would have."
 references = []
 +++
 

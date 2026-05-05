@@ -4,7 +4,7 @@ date = "2023-06-04"
 id = "Njwv5tbmhzg"
 status = "transcript"
 tags = ["Interviews and Chats", "Fallout", "Arcanum"]
-summary = "Him and I'm joined again today for part two of my chat with Leonard bararski. Hey Leonard, hey Tim, how's it going? I'm good."
+summary = "In our continuation of our last chat, we finish talking about Fallout and Fallout 2, and move on to discuss Troika, Arcanum, and Vampire Bloodlines."
 references = []
 +++
 

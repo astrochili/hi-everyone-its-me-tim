@@ -4,7 +4,7 @@ date = "2025-11-12"
 id = "YUTBnZLYSRk"
 status = "transcript"
 tags = ["Arcanum", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Arcanum magic design."
+summary = "I talk about Arcanum's magick design and specifically what my goals were and whether I think I achieved them."
 references = ["N7b7LFXBZ9M", "keTG-5WPccU", "KZTkg50ihsU"]
 +++
 

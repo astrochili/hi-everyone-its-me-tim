@@ -4,7 +4,7 @@ date = "2023-11-29"
 id = "z-onK2K2_k0"
 status = "transcript"
 tags = ["Arcanum", "Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Arcanum."
+summary = "I talk about my work on making Arcanum a native Windows 10 executable...and why I cannot release it."
 references = []
 +++
 

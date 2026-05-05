@@ -4,7 +4,7 @@ date = "2023-12-13"
 id = "RfNtPr7LeGQ"
 status = "transcript"
 tags = ["TTRPG"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about using geometry to constrain dice rolls."
+summary = "I talk about my thoughts on reducing rules about making dice rolls (or spending points) by using geometry to constrain those rolls."
 references = []
 +++
 

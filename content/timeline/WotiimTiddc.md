@@ -4,7 +4,7 @@ date = "2026-04-17"
 id = "WotiimTiddc"
 status = "production"
 tags = ["Dungeons & Dragons", "Storytime"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about discovering DnD in 1979."
+summary = "I want to try to describe my crazy introduction to Dungeons & Dragons and how it was unlike any game I had ever played before."
 references = []
 +++
 

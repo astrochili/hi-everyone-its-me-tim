@@ -4,7 +4,7 @@ date = "2025-12-15"
 id = "iSF4xuEGgWs"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about what is an immersive sim."
+summary = "I wade into the contentious world of defining game types with my definition of immersive simulation games."
 references = ["zX7SZWTj5_w", "XSKxD6v06P4", "goZlBF8Vsgs"]
 +++
 

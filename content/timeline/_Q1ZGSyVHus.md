@@ -4,7 +4,7 @@ date = "2024-05-22"
 id = "_Q1ZGSyVHus"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about games as actions, and I'll talk about what I mean by that."
+summary = "I talk about how games should be thought of in terms of player actions and not as just scenes (as in movies) or lines (as in books)."
 references = []
 +++
 

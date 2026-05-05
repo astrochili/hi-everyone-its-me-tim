@@ -4,7 +4,7 @@ date = "2025-03-07"
 id = "OvrJrra-gQQ"
 status = "transcript"
 tags = ["AI"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about having fun with AI."
+summary = "This is a Fun Friday video of me having fun with AI, using it to make images of me in different situations."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2025-11-21"
 id = "enHHbnf02tA"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about insults and backhanded compliments."
+summary = "I talk about several instances in which I was insulted, and a few times I was complimented in the most backhanded way."
 references = []
 +++
 

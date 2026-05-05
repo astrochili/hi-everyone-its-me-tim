@@ -4,7 +4,7 @@ date = "2024-04-26"
 id = "ZonqVO0FNbc"
 status = "transcript"
 tags = ["Publishing", "Worldbuilding", "IP"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about making an IP an actual example."
+summary = "I walk through an idea from one of my idea notebooks, explaining how to expand it into a design for setting, story, and system mechanics, as well as how I would pitch it to publishers and how I would evaluate its merits."
 references = ["waUjJ2VjvaE", "kW7gOPHmr-Q", "ohHLUKj3NTk"]
 +++
 

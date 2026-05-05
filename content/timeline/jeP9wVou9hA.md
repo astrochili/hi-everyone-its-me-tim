@@ -4,7 +4,7 @@ date = "2025-03-31"
 id = "jeP9wVou9hA"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about a hypothetical game, Jam."
+summary = "I talk about how I would go about making a game for a hypothetical 48-hour game jam."
 references = []
 +++
 

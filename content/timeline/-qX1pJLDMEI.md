@@ -4,7 +4,7 @@ date = "2024-02-19"
 id = "-qX1pJLDMEI"
 status = "transcript"
 tags = ["Character Systems", "Quest Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about companions."
+summary = "I talk about my thoughts on companions and how they should be designed in computer RPGs."
 references = []
 +++
 

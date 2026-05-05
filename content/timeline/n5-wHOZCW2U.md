@@ -4,7 +4,7 @@ date = "2023-08-05"
 id = "n5-wHOZCW2U"
 status = "transcript"
 tags = ["Fallout", "Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about games as art and the meaning of games, but it's going to be a little rambling because I'm going to tell you how"
+summary = "I talk about my opinion on video games as art, as well as my initial take on the Fallout TV show based on recently leaked photos."
 references = []
 +++
 

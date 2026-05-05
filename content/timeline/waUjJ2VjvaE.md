@@ -4,7 +4,7 @@ date = "2023-12-08"
 id = "waUjJ2VjvaE"
 status = "transcript"
 tags = ["IP", "Publishing"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about making and maintaining an IP."
+summary = "I give my thoughts on how to make a good IP (Intellectual Property) and how to maintain it when you make sequels, DLCs, and other additions."
 references = ["kW7gOPHmr-Q", "ohHLUKj3NTk"]
 +++
 

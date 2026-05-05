@@ -4,7 +4,7 @@ date = "2025-08-01"
 id = "kFERZ1TuKa4"
 status = "transcript"
 tags = ["Arcanum", "Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about challenges facing an, Arcanum remaster."
+summary = "I talk about the challenges facing anyone who tries to make an Arcanum remaster."
 references = ["HDGmxE_G5PI", "pgn2sQ4vAkU", "z-onK2K2_k0", "coPkWyJIl-M", "GYWEgQAh6So", "keTG-5WPccU", "-QUDeipApgU", "5l7YcGCQ5Ck"]
 +++
 

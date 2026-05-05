@@ -4,7 +4,7 @@ date = "2024-06-04"
 id = "lM3tSFuB4eM"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about learning design from other disciplines, and by disciplines I can mean Hobbies, activities, anything you do besides video games."
+summary = "I talk about lessons I learned from my hobbies and other activities that I applied to game design."
 references = ["hglS31y7ZbE"]
 +++
 

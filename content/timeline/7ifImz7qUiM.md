@@ -4,7 +4,7 @@ date = "2024-06-13"
 id = "7ifImz7qUiM"
 status = "transcript"
 tags = ["Narrative Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about touchy subjects."
+summary = "I talk about putting \"touchy subjects\" into games, things like violence or drug use or nudity, and how to approach their inclusion."
 references = ["n5-wHOZCW2U", "vQj5rJry4Pw"]
 +++
 

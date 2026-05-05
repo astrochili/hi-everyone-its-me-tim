@@ -4,7 +4,7 @@ date = "2026-02-02"
 id = "GGIHmX4uDfE"
 status = "transcript"
 tags = ["Arcanum", "Publishing", "IP"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about resurrecting the Arcanum intellectual property."
+summary = "I talk about what would have to happen to use the Arcanum IP, including who owns it and why potentially nothing can or should be done with it."
 references = ["pgn2sQ4vAkU", "kFERZ1TuKa4", "bTQzNiXH56U"]
 +++
 

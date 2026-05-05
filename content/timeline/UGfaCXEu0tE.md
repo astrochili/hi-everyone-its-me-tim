@@ -4,7 +4,7 @@ date = "2023-05-26"
 id = "UGfaCXEu0tE"
 status = "transcript"
 tags = ["Fallout", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. Today let's talk about Fallout 2 and why I left it I really think, if you haven't, you should watch yesterday's video."
+summary = "I explain why I left Fallout 2 early in its development. TLDW: exhaustion, interference, lack of motivation."
 references = []
 +++
 

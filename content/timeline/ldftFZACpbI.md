@@ -4,7 +4,7 @@ date = "2024-08-29"
 id = "ldftFZACpbI"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me Tim. Are you above average? Let's talk about that today. I want to talk about whether or not you think you are above average at something like: are you good at, really really good at — this thing better than most other people? So let's set aside impostor syndrome — I have a whole video on that. I'm not talking about that — those times where you feel like, oh no, someone's GNA find out that I'm terrible and fire me."
+summary = "Today in a very special \"Tough Love Tim\" video, I talk about how you might not be above average...and that's OK."
 references = ["ht25L6fzEYQ", "8rhgaSkmY_s", "_ihX2e9dnYM"]
 +++
 

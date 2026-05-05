@@ -4,7 +4,7 @@ date = "2024-06-06"
 id = "wVFSCsv0GqY"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about being underestimated."
+summary = "I talk about all the times I was underestimated...by teachers, by schoolmates, by work colleagues. It feels like the opposite of impostor syndrome."
 references = ["ht25L6fzEYQ"]
 +++
 

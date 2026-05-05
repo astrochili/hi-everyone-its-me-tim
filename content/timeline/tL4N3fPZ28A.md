@@ -4,7 +4,7 @@ date = "2026-02-11"
 id = "tL4N3fPZ28A"
 status = "transcript"
 tags = ["Narrative Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about pickling."
+summary = "I discuss tone in video games, including what it is, how it is conveyed, and who should manage it on the team."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-09-04"
 id = "7MRx_i9gvWw"
 status = "transcript"
 tags = ["AI", "Tools"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about AI."
+summary = "I talk about the rise of new artificial intelligence tools and what it might mean for the game industry."
 references = []
 +++
 

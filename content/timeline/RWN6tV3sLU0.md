@@ -4,7 +4,7 @@ date = "2023-06-24"
 id = "RWN6tV3sLU0"
 status = "transcript"
 tags = ["Fallout", "Lore"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about radiation and the fev virus in Fallout and before I start I just want to say"
+summary = "I talk about how radiation and FEV work in Fallout and my opinion on which one caused ghouls."
 references = []
 +++
 

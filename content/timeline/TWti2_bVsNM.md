@@ -4,7 +4,7 @@ date = "2026-04-15"
 id = "TWti2_bVsNM"
 status = "production"
 tags = ["Level Design", "Quest Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about eight level design guidelines."
+summary = "These are the most important details to remember to include in every map."
 references = ["MiAEBpXlelk"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-08-14"
 id = "LAiUufYbVMQ"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about player engagement."
+summary = "I talk about how games make the player feel more involved in gameplay."
 references = []
 +++
 

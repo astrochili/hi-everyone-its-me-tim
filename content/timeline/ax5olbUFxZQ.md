@@ -4,7 +4,7 @@ date = "2024-11-05"
 id = "ax5olbUFxZQ"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about great external ideas, and by that I mean ideas that came from outside the development team, that were really good and worked and ended up in the game."
+summary = "I talk about great ideas that came from people outside the development team."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-07-14"
 id = "dz6mHKFEAdU"
 status = "transcript"
 tags = ["Troika Games", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about troika's botters Gate 3 proposal."
+summary = "I talk about the proposal that we put together at Troika Games in July 2003 to make Baldur's Gate 3."
 references = []
 +++
 

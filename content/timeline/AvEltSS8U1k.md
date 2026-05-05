@@ -4,7 +4,7 @@ date = "2023-12-18"
 id = "AvEltSS8U1k"
 status = "transcript"
 tags = ["Dialogue", "Player Choice"]
-summary = "Hey everyone. It's me, Tim. And today I want to talk about social resolutions in RPGs, and by that I mean combat resolutions that are social, not combat conflict resolutions that are social, it's hard to talk about."
+summary = "I talk about social conflict resolution in games, and how to make it more interesting than a simple one-off skill roll in a dialog."
 references = []
 +++
 

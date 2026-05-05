@@ -4,7 +4,7 @@ date = "2025-10-03"
 id = "GKKEY94Ikb0"
 status = "transcript"
 tags = ["Postmortem"]
-summary = "Hi everyone. It's me, Tim. Today I want to give you my second toy postmortem."
+summary = "I deliver my second toy post mortem, on my toy called Dungeons & Dices."
 references = ["mHMFG8uvOb0", "kVV_2Yy_aXY", "am52Ceuzgh8"]
 +++
 

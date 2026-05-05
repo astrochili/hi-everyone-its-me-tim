@@ -4,7 +4,7 @@ date = "2025-09-12"
 id = "8YynQ0nfe6A"
 status = "transcript"
 tags = ["Real Life", "Level Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about maps."
+summary = "It's a Fun Friday and I am talking about how I like maps, including my favorite maps in video games, including my own."
 references = ["jGixGnDa-ck"]
 +++
 

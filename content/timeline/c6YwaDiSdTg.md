@@ -4,7 +4,7 @@ date = "2024-01-26"
 id = "c6YwaDiSdTg"
 status = "transcript"
 tags = ["Careers", "Storytime", "Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to show you scenes from a life spent in game development."
+summary = "I found many photos from my 40+ years of game development, so here they are organized chronologically by the five companies I worked at: Cybron, Interplay, Troika, Carbine, and Obsidian."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2024-05-28"
 id = "kFbrKAwW5kI"
 status = "transcript"
 tags = ["Management", "IP"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about relinquishing creative control."
+summary = "I talk about how to decide what parts of your IP you should choose to let other people be responsible for during development."
 references = ["Ooe44v7j-bo"]
 +++
 

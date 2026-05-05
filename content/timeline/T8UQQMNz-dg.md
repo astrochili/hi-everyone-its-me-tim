@@ -4,7 +4,7 @@ date = "2024-03-08"
 id = "T8UQQMNz-dg"
 status = "transcript"
 tags = ["Storytime"]
-summary = "Hi everybody. It's me, Tim. Today I want to tell a story about something that happened to me in college and before I tell the story I want to say the story itself is less important than the reason I want to tell the story which is to me."
+summary = "I talk about something that happened to me in college...and the different ways that people have reacted to this story when I have told it."
 references = []
 +++
 

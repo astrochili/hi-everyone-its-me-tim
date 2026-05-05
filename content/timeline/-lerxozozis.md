@@ -4,7 +4,7 @@ date = "2023-06-07"
 id = "-lerxozozis"
 status = "transcript"
 tags = ["MUDs", "Storytime"]
-summary = "Hi everyone, it's me, Tim, while I have a whole list of topics I want to talk about — and the list is getting longer — I spent all day yesterday thinking about muds. So I just jumped it to the top of the queue and I want to talk about muds today."
+summary = "I talk about how I made gaming areas in MUDs in the late 1980s, and how one of those areas from another wizard inspired the talking cows in Fallout."
 references = []
 +++
 

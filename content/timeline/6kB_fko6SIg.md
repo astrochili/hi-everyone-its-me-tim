@@ -4,7 +4,7 @@ date = "2025-07-16"
 id = "6kB_fko6SIg"
 status = "transcript"
 tags = ["Fallout", "Programming"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about Fallout's memory model."
+summary = "I talk about how Fallout handled memory and why we did it that way."
 references = []
 +++
 

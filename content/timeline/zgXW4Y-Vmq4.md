@@ -4,7 +4,7 @@ date = "2024-07-09"
 id = "zgXW4Y-Vmq4"
 status = "transcript"
 tags = ["Dialogue", "Player Choice"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about personality roleplay."
+summary = "I talk about providing multiple options in dialog that support and reinforce the players' choices for their characters' personalities."
 references = ["xBUkdO4IK7w"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-11-01"
 id = "GYWEgQAh6So"
 status = "transcript"
 tags = ["Arcanum", "Dialogue"]
-summary = "Hi everyone. It's me, Tim. And today I'm going to walk you through an Arcanum dialogue file explains how everything works and, along the way, kind of explain why we did it this way."
+summary = "I talk about how the dialog files worked in Arcanum. You might want to review these two videos before watching this one:"
 references = ["5l7YcGCQ5Ck", "coPkWyJIl-M"]
 +++
 

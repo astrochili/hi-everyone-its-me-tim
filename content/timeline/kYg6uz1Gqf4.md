@@ -4,7 +4,7 @@ date = "2024-11-26"
 id = "kYg6uz1Gqf4"
 status = "transcript"
 tags = ["Temple of Elemental Evil", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. Today, I want to ask you not to forget about Temple of Elemental Evil, my 2003 video game."
+summary = "I see Temple being forgotten (or even erased) from history, by not being mentioned at all in the histories of D&D, CRPGs, or even Troika Games. Please don't forget about it. I loved that game."
 references = []
 +++
 

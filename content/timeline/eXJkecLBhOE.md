@@ -4,7 +4,7 @@ date = "2024-04-16"
 id = "eXJkecLBhOE"
 status = "transcript"
 tags = ["Crunch"]
-summary = "Hi everyone. It's me Tim. I want to talk about crunch again, so consider this crunch part two."
+summary = "I am talking about crunch again, this time about lessons learned during a software engineering class back in college."
 references = ["QJHpuJxMqiA", "nWvwcH2IROo"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-05-17"
 id = "a1jFfLCfbqY"
 status = "transcript"
 tags = ["The Outer Worlds", "Marketing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about corporate brands in the The Outer Worlds, which I think ties really nicely into yesterday's video about coming up with names for Fallout."
+summary = "I talk about how the companies and their products and slogans were created for The Outer Worlds, as well as what were the influences on those creations."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-07-18"
 id = "lexhF4xqpu8"
 status = "transcript"
 tags = ["Fallout", "Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about what changes I would make to Fallout if I were to Tinker with it today."
+summary = "I talk about changes I would make to Fallout if I were to tinker with it today. These are not major changes, but instead the top bugs and quality of life problems I would fix."
 references = []
 +++
 

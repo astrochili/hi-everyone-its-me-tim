@@ -4,7 +4,7 @@ date = "2024-06-28"
 id = "q8otGbKSOo0"
 status = "transcript"
 tags = ["Game Design", "Storytime", "Networking"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about RPG 2000."
+summary = "I found a PowerPoint that I had made in mid-1999 to present at the GDC 1999 Roadtrip Conference in Austin, TX. I never gave this presentation, so here it is, a time capsule from 25 years ago."
 references = []
 +++
 

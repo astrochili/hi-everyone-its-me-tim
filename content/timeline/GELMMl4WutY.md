@@ -4,7 +4,7 @@ date = "2024-11-20"
 id = "GELMMl4WutY"
 status = "transcript"
 tags = ["AI", "Combat Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about enemy Ai, and this is to answer a question from driver 3899, who asked: any chance you could talk a little bit about how you approach thinking about enemy AI?"
+summary = "I talk about the most important features of good enemy AI."
 references = ["6n88lol4IYQ", "NhIIydTvIcQ", "za5u4j6lc-w"]
 +++
 

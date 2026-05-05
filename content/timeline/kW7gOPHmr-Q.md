@@ -4,7 +4,7 @@ date = "2023-06-10"
 id = "kW7gOPHmr-Q"
 status = "transcript"
 tags = ["Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how to make a good setting for computer games."
+summary = "I talk about how to make a good setting for a computer game, and more specifically, what questions your setting should be able to easily answer."
 references = []
 +++
 

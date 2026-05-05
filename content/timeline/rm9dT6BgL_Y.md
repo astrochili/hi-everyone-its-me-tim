@@ -4,7 +4,7 @@ date = "2025-10-06"
 id = "rm9dT6BgL_Y"
 status = "transcript"
 tags = ["Production", "Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game developer stage limitations, which is a somewhat complicated talk."
+summary = "I talk about game developers not being good at every stage of a game's development, and some possible solutions for that."
 references = ["v6a-neSq0VA", "DEnlUqYkMTk", "IADSh_P05As"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-07-30"
 id = "3s7IBpFTaKY"
 status = "transcript"
 tags = ["Character Systems", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about conflating player skill with player character skill."
+summary = "I talk about the need to separate player skill from character skill in first-person games."
 references = []
 +++
 

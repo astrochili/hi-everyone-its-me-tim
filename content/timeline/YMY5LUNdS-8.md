@@ -4,7 +4,7 @@ date = "2023-07-04"
 id = "YMY5LUNdS-8"
 status = "transcript"
 tags = ["Carbine", "WildStar", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about why I left carbine Studios."
+summary = "I talk about why I left the development of WildStar at Carbine Studios in 2011. Along with Fallout 2, WildStar is the only other game I did not complete, but like Fallout 2, it did ship without me, getting released in 2014."
 references = []
 +++
 

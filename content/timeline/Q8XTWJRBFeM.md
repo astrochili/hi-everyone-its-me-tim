@@ -4,7 +4,7 @@ date = "2023-06-08"
 id = "Q8XTWJRBFeM"
 status = "transcript"
 tags = ["Fallout"]
-summary = "Hi. It's me, Tim. Today I want to talk about what influenced the creation of Fallout."
+summary = "I talk about the books, movies, and games that influenced Fallout the most, starting with specific elements of Fallout and what influenced them, and then talking about more general influences."
 references = ["FLq3h5zk1LA"]
 +++
 

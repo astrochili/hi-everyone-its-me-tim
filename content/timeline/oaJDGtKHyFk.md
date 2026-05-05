@@ -4,7 +4,7 @@ date = "2024-03-19"
 id = "oaJDGtKHyFk"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Easter eggs specifically."
+summary = "I talk about some hidden things in my games that either people don't know about or that have some special meaning to me."
 references = ["riDR0ejT3S8"]
 +++
 

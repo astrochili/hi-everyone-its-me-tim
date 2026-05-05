@@ -4,7 +4,7 @@ date = "2023-12-28"
 id = "vlkksy6casU"
 status = "transcript"
 tags = ["Fallout", "Quest Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about multiple Quest Solutions and I want to use an example from Fallout that I used in my talk at the reboot conference in 2017."
+summary = "I talk about multiple quest solutions using an example from Fallout. I explain how some solutions are systemic, arising from the existing game rules and needing zero effort from the developers to create."
 references = ["5l7YcGCQ5Ck"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-11-02"
 id = "Nq87YGJYXAU"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about why I play games I don't like."
+summary = "I talk about the fact that I play a lot of games, which includes a lot of hours playing games that I don't even like."
 references = ["mFZSt3TaE7Q"]
 +++
 

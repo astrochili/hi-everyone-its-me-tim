@@ -4,7 +4,7 @@ date = "2024-12-23"
 id = "wgfl4wbDero"
 status = "transcript"
 tags = ["Player Choice", "NPCs"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about believable reactivity and, in other words, how do you make NPCs react to player choices in a way that makes sense in the RPG that you're making?"
+summary = "I talk about five ways you can make NPCs (and the game itself) believably react to the choices the players are making."
 references = []
 +++
 

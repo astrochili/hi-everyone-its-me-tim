@@ -4,7 +4,7 @@ date = "2023-08-18"
 id = "BBaZHtlcHAU"
 status = "transcript"
 tags = ["Narrative Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about tropes, specifically tropes in computer role-playing games, including the ones"
+summary = "I talk about common tropes in video games, including ones I like and ones I don't like, and what tropes I have used in my own games."
 references = []
 +++
 

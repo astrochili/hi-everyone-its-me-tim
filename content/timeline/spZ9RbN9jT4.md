@@ -4,7 +4,7 @@ date = "2025-05-05"
 id = "spZ9RbN9jT4"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game time, and by that I mean timed quests, and even more than just timed quests, and also the concept of time in a game."
+summary = "I talk about timers in games and more broadly what the concept of time in a game really means."
 references = ["vlkksy6casU", "hyj6X7EaBsY", "SH35RmM1BFM", "-QUDeipApgU"]
 +++
 

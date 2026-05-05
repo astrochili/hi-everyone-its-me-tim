@@ -4,7 +4,7 @@ date = "2023-09-23"
 id = "su5wE2C5UWM"
 status = "transcript"
 tags = ["Pillars Of Eternity", "Obsidian", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about developing pillars of Eternity."
+summary = "I talk about the development of Pillars of Eternity at Obsidian."
 references = []
 +++
 

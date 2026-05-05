@@ -4,7 +4,7 @@ date = "2023-12-07"
 id = "4J2X9eGHnIU"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about the evolution of source control."
+summary = "I talk about how assets (code, art, sound, scripts, etc.) were managed over the last four decades of game development."
 references = []
 +++
 

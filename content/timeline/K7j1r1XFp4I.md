@@ -4,7 +4,7 @@ date = "2025-04-07"
 id = "K7j1r1XFp4I"
 status = "transcript"
 tags = ["Production", "Game Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about does more Dev time mean a better game?"
+summary = "I talk about whether more development time always leads to a better game, and if not, why not?"
 references = ["IADSh_P05As", "vp17yIB6Ijo", "gMiQ9_MzM6Q", "lmgJVUuS1I8", "KcYKusoMu4o"]
 +++
 

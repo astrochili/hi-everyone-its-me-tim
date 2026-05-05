@@ -4,7 +4,7 @@ date = "2023-08-10"
 id = "gC0KWoK5XhA"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about a topic that was suggested to me by a co-worker, or I should say by someone who's working at one of the companies I'm currently Contracting at, uh, and he asked: I'd love to hear your thoughts on the ever expanding team size on projects and the impact that has on the process of making games."
+summary = "I talk about the pros and cons of larger team sizes."
 references = []
 +++
 

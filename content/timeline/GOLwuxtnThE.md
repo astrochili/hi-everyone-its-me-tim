@@ -4,7 +4,7 @@ date = "2023-04-27"
 id = "GOLwuxtnThE"
 status = "production"
 tags = ["Storytime", "YouTube"]
-summary = "Hi, it's me, Tim."
+summary = "I am not sure what stories to tell to kick off my channel, so I am going to mention many possibilities and let you, the viewers, pick one. Leave a comment and tell me what you'd like to hear!"
 references = []
 +++
 

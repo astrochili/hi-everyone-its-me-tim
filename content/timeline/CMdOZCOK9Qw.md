@@ -4,7 +4,7 @@ date = "2026-03-27"
 id = "CMdOZCOK9Qw"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about getting older."
+summary = "I talk about getting older and what it feels like."
 references = ["ho-g8KVx9hU", "sDthq0VtpmM"]
 +++
 

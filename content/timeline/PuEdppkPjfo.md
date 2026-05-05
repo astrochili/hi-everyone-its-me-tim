@@ -4,7 +4,7 @@ date = "2024-05-03"
 id = "PuEdppkPjfo"
 status = "transcript"
 tags = ["Careers", "Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about having a job versus a career, versus a calling."
+summary = "I talk about the different proportion of people in game development who view it as a job vs. a career vs. a calling, and how this proportion has changed."
 references = ["ojYBHy-9xTo", "5-Jl1ptf6vs"]
 +++
 

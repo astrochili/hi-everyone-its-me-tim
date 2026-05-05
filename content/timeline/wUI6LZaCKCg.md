@@ -4,7 +4,7 @@ date = "2024-03-13"
 id = "wUI6LZaCKCg"
 status = "transcript"
 tags = ["Game Design", "Balance"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about game difficulty."
+summary = "I talk about my thoughts on game difficulty settings and how they should be implemented."
 references = ["6n88lol4IYQ", "SL_aTjKsxok"]
 +++
 

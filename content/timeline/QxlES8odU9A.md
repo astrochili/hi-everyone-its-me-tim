@@ -4,7 +4,7 @@ date = "2024-02-14"
 id = "QxlES8odU9A"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about incorrect assumptions."
+summary = "I want to correct some assumptions that people are making about my videos, based on their comments in the channel."
 references = ["VyQgWh-XAxs", "wPpkuynjT8M", "d3Udo6XjMhY", "F7uaMQnMsvI", "sYZCYDRQtSs", "Qc8zuhaqWPM", "4XzaRlW2sio"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-05-20"
 id = "HeauMfrHbvU"
 status = "transcript"
 tags = ["Production", "Quest Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the horizontal slice."
+summary = "I go into detail about the \"horizontal slice\" stage of game development, and how it can be used to make estimates for main and side quest lengths and locations."
 references = ["IADSh_P05As", "NyVZlvaAYX4"]
 +++
 

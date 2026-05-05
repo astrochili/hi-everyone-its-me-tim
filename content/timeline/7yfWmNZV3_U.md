@@ -4,7 +4,7 @@ date = "2024-05-17"
 id = "7yfWmNZV3_U"
 status = "transcript"
 tags = ["Fallout"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Fallout, Easter eggs in other games."
+summary = "I talk about Fallout Easter eggs I have seen in other games I have played."
 references = ["oaJDGtKHyFk"]
 +++
 

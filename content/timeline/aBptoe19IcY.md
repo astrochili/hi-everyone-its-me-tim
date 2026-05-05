@@ -4,7 +4,7 @@ date = "2023-05-16"
 id = "aBptoe19IcY"
 status = "transcript"
 tags = ["Fallout", "Marketing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how Fallout got its name."
+summary = "Naming new video games is surprisingly hard, and Fallout was no different. I talk about how we came up with its name, including a list of alternate names from both the Fallout team and from Interplay's marketing department."
 references = []
 +++
 

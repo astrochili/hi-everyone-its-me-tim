@@ -4,7 +4,7 @@ date = "2024-06-18"
 id = "mDoRr4euBc4"
 status = "transcript"
 tags = ["Fallout", "Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Fallout as a work of art, and just before I get started, I'm talking about the whole series."
+summary = "I talk about viewing Fallout as a piece of art, which means that it is interpreted and enjoyed differently by different people, and that's ok."
 references = ["n5-wHOZCW2U", "qsqCDLgBBSo"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-02-01"
 id = "qm2qwgVwf1A"
 status = "transcript"
 tags = ["Narrative Design", "Player Choice"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about how to gate nonlinear stories."
+summary = "I talk about methods to make sure that the player sees some story events before others, and why you should rarely do this."
 references = ["2hDxie2Fnvo"]
 +++
 

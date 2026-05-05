@@ -4,7 +4,7 @@ date = "2024-09-26"
 id = "NfBcWu22wIE"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about localization."
+summary = "I talk about how a game is localized for different countries beyond just language translation."
 references = []
 +++
 

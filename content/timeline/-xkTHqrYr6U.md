@@ -4,7 +4,7 @@ date = "2024-02-22"
 id = "-xkTHqrYr6U"
 status = "transcript"
 tags = ["Interplay", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about castles and stonekeep, two games at interplay."
+summary = "I tell some stories about Castles and Stonekeep, two games developed at Interplay in the early 90s."
 references = ["59Ez1oyamFU"]
 +++
 

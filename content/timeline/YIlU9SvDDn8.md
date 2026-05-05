@@ -4,7 +4,7 @@ date = "2024-07-01"
 id = "YIlU9SvDDn8"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about idea battles."
+summary = "I talk about \"idea battles\", which are meetings where you compare and contrast different game feature ideas, sometimes very passionately."
 references = ["keTG-5WPccU", "kC7StCQZW7Y"]
 +++
 

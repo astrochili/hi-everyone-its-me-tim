@@ -4,7 +4,7 @@ date = "2024-10-09"
 id = "4S8H7CIdSVA"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Awards, specifically game awards, more specifically, game awards that my games have won and a few that I personally have won."
+summary = "I talk about awards, including ones my games received, ones I received, and one I secretly coveted."
 references = ["hZEosFcqmcU", "KAgpPVVe5pQ", "vQj5rJry4Pw", "YMY5LUNdS-8", "1NtaWFyo1ps", "bLNGW1M8N5g"]
 +++
 

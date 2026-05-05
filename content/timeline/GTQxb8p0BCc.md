@@ -4,7 +4,7 @@ date = "2024-12-17"
 id = "GTQxb8p0BCc"
 status = "transcript"
 tags = ["Publishing", "IP"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about working in another's game IP."
+summary = "I talk about the issues you will encounter in making a new game based on someone else's game IP."
 references = ["wEIOUsAB-xU", "7OsWuFo2jp4", "U4UMW5rVQ-Y", "HKu5FiMt3UE", "q8T255IglJw"]
 +++
 

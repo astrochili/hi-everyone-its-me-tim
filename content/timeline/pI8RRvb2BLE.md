@@ -4,7 +4,7 @@ date = "2025-07-25"
 id = "pI8RRvb2BLE"
 status = "transcript"
 tags = ["Fallout", "Lore", "Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Fallout lore exploration."
+summary = "I talk about the lore that I would explore in a Fallout sequel."
 references = ["z8Vx8eBr0KU", "c21OGTOoxso"]
 +++
 

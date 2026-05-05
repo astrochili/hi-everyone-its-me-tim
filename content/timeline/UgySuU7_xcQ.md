@@ -4,7 +4,7 @@ date = "2026-01-12"
 id = "UgySuU7_xcQ"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about why it's okay for you to be proud, especially of your work and things you do."
+summary = "Sometimes someone will tell you not to be proud of your work. They throw around the word \"entitlement\" a lot. I don't think it means what they think it means."
 references = ["Kh5JMp5_5nQ", "UZJ-1AS4UKA", "v6a-neSq0VA", "SyPyhXFAbt8", "bA-P3p7PdEc", "-tFCCGeduUc", "lpIJ7h4JVW8"]
 +++
 

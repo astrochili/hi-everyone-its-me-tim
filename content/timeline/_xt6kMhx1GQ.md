@@ -4,7 +4,7 @@ date = "2025-11-03"
 id = "_xt6kMhx1GQ"
 status = "transcript"
 tags = ["Arcanum", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Arcanum Fate Points."
+summary = "This is a very specific video on a particular feature called Fate Points in one of my older games, Arcanum."
 references = ["ETVsAHbTh2c", "bNf601IoBpc"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-07-22"
 id = "RXVydxNRDAk"
 status = "transcript"
 tags = ["Careers", "Real Life", "Game Development"]
-summary = "Sal SE, Tim, par gotcha. I bet you right now some of you are reaching for that YouTube translate button and some of you were thinking, whoa, Tim's French accent is terrible, trust me, that's been said. No, I'm doing this video about game development, tunnel vision, because it's one of the things that occurred to me. I get a lot of questions about a lot of things and early on, when there were less of you, I would answer and say, oh, that's not something I know or I can't talk about it I did do a video on things I can't or won't answer, but since then there's been a lot more questions that Encompass a lot more things, even about game development or tangentially related game development, that I literally cannot answer. I either don't know it or I'm not qualified to answer."
+summary = "I talk about the limits of what questions I can answer, due to my very specific experiences within game development and my limited knowledge outside of it."
 references = ["6TtR8YjmdnA", "d3Udo6XjMhY"]
 +++
 

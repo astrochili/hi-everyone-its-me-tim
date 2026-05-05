@@ -4,7 +4,7 @@ date = "2023-12-04"
 id = "2j6qqh3H-0Y"
 status = "transcript"
 tags = ["Favorites"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about my top five video games ever."
+summary = "I talk about my top five video games of all time...and why they are my top five."
 references = ["OoOH4qYCMto", "-lerxozozis"]
 +++
 

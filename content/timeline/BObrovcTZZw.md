@@ -4,7 +4,7 @@ date = "2024-07-15"
 id = "BObrovcTZZw"
 status = "transcript"
 tags = ["Publishing", "Contracting"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about contracts, specifically the contracts you make with Publishers to make games."
+summary = "I talk about some do's and don'ts of negotiating contracts with publishers."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-06-01"
 id = "a8fmAt3Ro_Y"
 status = "transcript"
 tags = ["Careers", "Real Life"]
-summary = "Hi, it's me, Tim. It is June 1st, happy pride month."
+summary = "I talk about my experiences of being a gay developer across forty years of game development."
 references = []
 +++
 

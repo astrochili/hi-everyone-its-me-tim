@@ -4,7 +4,7 @@ date = "2023-10-05"
 id = "nWvwcH2IROo"
 status = "transcript"
 tags = ["Careers", "Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about school as preparation for game development."
+summary = "I talk about the skills I learned while in school that helped me develop better games."
 references = []
 +++
 

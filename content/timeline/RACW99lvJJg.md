@@ -4,7 +4,7 @@ date = "2023-11-09"
 id = "RACW99lvJJg"
 status = "transcript"
 tags = ["Combat Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about bosses and not me, even though I'm a boss."
+summary = "I talk about game bosses and how these encounters are handled differently than other game encounters."
 references = ["jWrrhj_uAT4"]
 +++
 

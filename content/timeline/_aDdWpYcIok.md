@@ -4,7 +4,7 @@ date = "2023-06-02"
 id = "_aDdWpYcIok"
 status = "transcript"
 tags = ["Rags to Riches", "Interplay", "Storytime"]
-summary = "Hi. It's me, Tim. Today I want to talk about Rags to Riches, which is the first game I made at interplay as an employee."
+summary = "I talk about the development of Rags To Riches, my first game at Interplay as an employee, my first SVGA game, and my first game where I wrote all of the code."
 references = []
 +++
 

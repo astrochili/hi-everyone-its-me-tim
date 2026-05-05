@@ -4,7 +4,7 @@ date = "2023-07-24"
 id = "ht25L6fzEYQ"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about insecurity, or what I mentioned in a previous video about game conferences, that feeling of imposter syndrome."
+summary = "I talk about the ubiquitous sense of insecurity that a lot of game developers have, that feeling called \"imposter syndrome\"."
 references = []
 +++
 

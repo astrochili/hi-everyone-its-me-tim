@@ -4,7 +4,7 @@ date = "2023-09-11"
 id = "STLv3a3gBr4"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me Tim. Can we talk about VR?"
+summary = "I talk about my thoughts on VR, where it is and where it might go, and how I am really waiting for AR."
 references = []
 +++
 

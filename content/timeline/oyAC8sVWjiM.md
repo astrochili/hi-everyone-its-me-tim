@@ -4,7 +4,7 @@ date = "2023-12-19"
 id = "oyAC8sVWjiM"
 status = "transcript"
 tags = ["Narrative Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about villains in my appropriately lit villains Lair."
+summary = "I talk about villains, and how to make good ones for your game stories."
 references = ["RACW99lvJJg"]
 +++
 

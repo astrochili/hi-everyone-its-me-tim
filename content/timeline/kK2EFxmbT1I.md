@@ -4,7 +4,7 @@ date = "2024-06-10"
 id = "kK2EFxmbT1I"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Nuance again."
+summary = "I talk about nuance again. This time it's about the struggle that I have with it."
 references = ["VyQgWh-XAxs", "wPpkuynjT8M", "7bFBLAbwMA0"]
 +++
 

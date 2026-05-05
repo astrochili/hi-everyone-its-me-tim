@@ -4,7 +4,7 @@ date = "2026-02-16"
 id = "w2hohAXhfLU"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about randomness in games."
+summary = "I talk about randomness in games, on how to use it to challenge the players or make your game replayable, and even how it affects your decision on where and when to allow save games."
 references = ["DqL9R5PqE20", "96uGEA0r6Bo", "S_gE99yeK6c", "efCn85Tvrf8"]
 +++
 

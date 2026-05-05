@@ -4,7 +4,7 @@ date = "2025-10-01"
 id = "0l6AhAhJu-0"
 status = "transcript"
 tags = ["Management"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about leading for the first time, In particular, the very first time you're put in a lead role or even leading an entire project, a game director role."
+summary = "I talk about leading an entire project for the first time...and my thoughts 30 years later."
 references = ["jHIabSKo26U", "6i8Bx4zYIKQ", "59Ez1oyamFU", "AaHVCy_EQ0s", "Kh5JMp5_5nQ"]
 +++
 

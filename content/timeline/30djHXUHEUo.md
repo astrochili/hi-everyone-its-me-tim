@@ -4,7 +4,7 @@ date = "2025-11-07"
 id = "30djHXUHEUo"
 status = "transcript"
 tags = ["Dungeons & Dragons"]
-summary = "Hi everyone. It's me, Tim. Today I want to tell you some — well, read you some advanced Dungeons and Dragons questions from teenage Tim."
+summary = "I sent questions about Advanced Dungeons & Dragons to TSR when I was in high school, and they sent back some answers. Enjoy."
 references = ["W8hesnidqqE", "xBUkdO4IK7w"]
 +++
 

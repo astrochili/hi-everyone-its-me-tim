@@ -4,7 +4,7 @@ date = "2023-07-19"
 id = "mzNnpgWaaFU"
 status = "transcript"
 tags = ["Troika Games", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I wanted to reminisce about Troika."
+summary = "I talk about fun memories of Troika, so that viewers don't get the impression from my other Troika videos that we were constantly stressed there."
 references = []
 +++
 

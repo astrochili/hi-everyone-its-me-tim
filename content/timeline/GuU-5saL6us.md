@@ -4,7 +4,7 @@ date = "2025-09-05"
 id = "GuU-5saL6us"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about 3D printing."
+summary = "For a Fun Friday, I thought I would share my hobby of 3D printing, and yes, many of the models are game related."
 references = ["knsk2Pt9nvQ"]
 +++
 

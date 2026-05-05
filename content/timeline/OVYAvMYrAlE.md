@@ -4,7 +4,7 @@ date = "2025-07-04"
 id = "OVYAvMYrAlE"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about right mistakemaking."
+summary = "I read a passage from my favorite book, Lord of Light by Roger Zelazny, and talk about some lessons I learned from it."
 references = ["eUxCRABoZng", "hglS31y7ZbE", "-7VfUXTOMxU", "UZJ-1AS4UKA", "jHIabSKo26U", "SrAuoqdl0os", "Kh5JMp5_5nQ"]
 +++
 

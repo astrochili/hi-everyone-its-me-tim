@@ -4,7 +4,7 @@ date = "2024-02-27"
 id = "vp17yIB6Ijo"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about bad games — and I'm laughing even saying that, because I think it's such a weird term and it can mean so many different things."
+summary = "I talk about \"bad games\" and how people comment on them."
 references = ["_1jZuasGDn8", "fyu2DJBWPOc"]
 +++
 

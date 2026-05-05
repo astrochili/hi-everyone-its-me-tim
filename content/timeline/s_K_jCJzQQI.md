@@ -4,7 +4,7 @@ date = "2025-12-22"
 id = "s_K_jCJzQQI"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game developer motivations."
+summary = "Why do game developers do what they do? It's not because of what you think...or what I think."
 references = ["orfxWkc9t-4", "F707wIeTX2g", "pAK0dtNT3kc", "enHHbnf02tA", "PuEdppkPjfo"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-05-27"
 id = "VyQgWh-XAxs"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone, it's Tim, so the last couple videos I made generated a lot of comments."
+summary = "I want people to listen to these stories and gain insight into the game development process, but I don't want people to view all of the actors in these stories as either heroes or villains. Please listen with nuance, as most people in these stories made both good and bad decisions, myself included."
 references = []
 +++
 

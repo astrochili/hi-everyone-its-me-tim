@@ -4,7 +4,7 @@ date = "2024-05-31"
 id = "2wUODD82kmI"
 status = "transcript"
 tags = ["Careers", "Game Industry", "Storytime"]
-summary = "Hey everyone. It's me, Tim. Today I wanted to do something fun that I'm going to call snapshots through my career, and"
+summary = "I went through my photos and for each game I have made, I found a picture taken during its development. Watch me deteriorate!"
 references = ["c6YwaDiSdTg", "fyu2DJBWPOc"]
 +++
 

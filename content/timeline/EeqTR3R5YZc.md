@@ -4,7 +4,7 @@ date = "2024-12-10"
 id = "EeqTR3R5YZc"
 status = "transcript"
 tags = ["Fallout"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about fallout's starting date and specifically what I mean by that is: why is the original Fallout set 84 years after the war?"
+summary = "I talk about why Fallout is set 84 years after the war."
 references = ["c7Qg_vWzxXw", "oWd4RBdeoaM", "hZEosFcqmcU", "efCn85Tvrf8", "ETVsAHbTh2c"]
 +++
 

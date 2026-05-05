@@ -4,7 +4,7 @@ date = "2023-08-15"
 id = "jGixGnDa-ck"
 status = "transcript"
 tags = ["TTRPG"]
-summary = "Hi everyone, it's me, Tim."
+summary = "I talk about Judges Guild, a roleplaying supplement maker from the 1970s and 1980s, and its huge influence on my games."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-05-28"
 id = "Egh2p8ajb3w"
 status = "transcript"
 tags = ["Interviews and Chats", "Fallout"]
-summary = "I have my first guest, a man who needs no introduction: no, it's Leonard burarski. I've known him for 30 years. We've been working together for much of that time — not all of it. He had his own Adventures and he looks exactly the same, and I look like a picture of Dorian Gray, so that is. That is verifiably untrue. People can go Google and make their own decision."
+summary = "I talk with celebrated game developer Leonard Boyarsky, with whom I have collaborated for thirty years. We begin the chat with how he got started in the business, and then he answers many questions about Fallout that have been asked in this channel. He promised to return on a later date to answer questions about Fallout 2, Arcanum, and Vampire Bloodlines."
 references = []
 +++
 

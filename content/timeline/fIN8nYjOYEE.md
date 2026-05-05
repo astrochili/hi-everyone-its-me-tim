@@ -4,7 +4,7 @@ date = "2023-12-01"
 id = "fIN8nYjOYEE"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about features that I really notice in games."
+summary = "I talk about game features that excite me that would seem insignificant to the average gamer."
 references = []
 +++
 

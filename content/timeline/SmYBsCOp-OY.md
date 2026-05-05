@@ -4,7 +4,7 @@ date = "2024-03-28"
 id = "SmYBsCOp-OY"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game endings and new game plus — two different things."
+summary = "I talk about my thoughts on designing games that do not end when you finish the main story line as well as games with new game plus features."
 references = ["zjtctCu6VoI"]
 +++
 

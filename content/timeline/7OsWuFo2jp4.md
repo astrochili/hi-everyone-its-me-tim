@@ -4,7 +4,7 @@ date = "2024-08-22"
 id = "7OsWuFo2jp4"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about capitalism, but this is going to be a very rambling video and when I start it's not going to sound like I'm talking about capitalism at all, but I am."
+summary = "Please enjoy Salty Tim and his take on modern capitalism."
 references = ["VgwDZDCaZso", "-72btgrwKzA", "vp17yIB6Ijo"]
 +++
 

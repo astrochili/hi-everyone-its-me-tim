@@ -4,7 +4,7 @@ date = "2025-01-06"
 id = "OXdyfCNcahw"
 status = "transcript"
 tags = ["NPCs", "Player Choice", "Narrative Design"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about NPC reaction."
+summary = "I talk about how to make NPCs react to events in the game world and how they decide what events to react to."
 references = ["GYWEgQAh6So", "coPkWyJIl-M"]
 +++
 

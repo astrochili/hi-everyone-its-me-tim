@@ -4,7 +4,7 @@ date = "2024-07-25"
 id = "hEY_tJqUEPY"
 status = "transcript"
 tags = ["Fallout", "Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about fallout's effect on me, which seems like a very personal, self-reflected, reflective, almost narcissistic topic."
+summary = "I talk about Fallout's effect on me and my career."
 references = ["ETVsAHbTh2c", "d0YwWVBDERQ", "YMY5LUNdS-8", "ho-g8KVx9hU", "mHMFG8uvOb0"]
 +++
 

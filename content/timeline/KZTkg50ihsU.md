@@ -4,7 +4,7 @@ date = "2023-09-24"
 id = "KZTkg50ihsU"
 status = "transcript"
 tags = ["Obsidian", "Programming", "Game Engines"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the development of Tyranny."
+summary = "I talk about the development of Tyranny at Obsidian."
 references = []
 +++
 

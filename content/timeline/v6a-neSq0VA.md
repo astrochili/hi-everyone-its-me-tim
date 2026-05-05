@@ -4,7 +4,7 @@ date = "2023-09-21"
 id = "v6a-neSq0VA"
 status = "transcript"
 tags = ["Careers", "Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game development tasks that I'm bad at."
+summary = "I talk about game development skills I failed to hone, even after many decades."
 references = []
 +++
 

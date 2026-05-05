@@ -4,7 +4,7 @@ date = "2024-01-24"
 id = "Lm0qhfquv74"
 status = "transcript"
 tags = ["Game Development", "Game Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about all the different design specifications that a single game may need, because about a month ago I gave an example of how to write a design specification and gypsum generation asks: what are all the design specifications that a game might need?"
+summary = "I talk about all of the sections and subsections that you would expect to see in a complete game design specification document."
 references = ["gmDX1p-WZ7g"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-05-21"
 id = "W8hesnidqqE"
 status = "transcript"
 tags = ["Careers", "Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I'm going to answer the most asked question I ever get, not just on this channel but at conventions, by email when people visit the studios I worked at friends, family."
+summary = "I talk about how to get a job in the game industry, as well as how I got my job."
 references = []
 +++
 

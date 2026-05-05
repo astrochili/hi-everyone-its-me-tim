@@ -4,7 +4,7 @@ date = "2025-02-28"
 id = "2tfhirqSito"
 status = "transcript"
 tags = ["NPCs", "Narrative Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about NPC's triggering each other."
+summary = "I talk about NPCs reacting to other NPCs reactions, and along the way I will talk about events that trigger NPC reactions and what those reactions can be."
 references = ["OXdyfCNcahw"]
 +++
 

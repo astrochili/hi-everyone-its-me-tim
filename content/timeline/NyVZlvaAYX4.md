@@ -4,7 +4,7 @@ date = "2024-02-16"
 id = "NyVZlvaAYX4"
 status = "transcript"
 tags = ["Progression"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about how to give XP experience points."
+summary = "I talk about my preferred method to award experience points to players, and I specifically talk about how to manage the rate at which players gain XP throughout your game."
 references = ["0NHDATFgswY", "vlkksy6casU"]
 +++
 

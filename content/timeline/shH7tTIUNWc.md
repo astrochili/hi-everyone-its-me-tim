@@ -4,7 +4,7 @@ date = "2023-05-30"
 id = "shH7tTIUNWc"
 status = "transcript"
 tags = ["Management", "Production"]
-summary = "Hi everyone. It's me, Tim. Today, I'm going to read to you a presentation that I made — I think it was sometime in 1996 — at interplay, on how to build a motivated team."
+summary = "I read a presentation I gave in 1996 to other Interplay producers titled \"How To Build A Motivated Team\", based on my still-ongoing experience as producer of Fallout."
 references = []
 +++
 

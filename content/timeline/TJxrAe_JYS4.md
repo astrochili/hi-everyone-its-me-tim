@@ -4,7 +4,7 @@ date = "2025-04-30"
 id = "TJxrAe_JYS4"
 status = "transcript"
 tags = ["Game Development", "Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about impossible ideas."
+summary = "I talk about ideas I wanted in my games that I was told were \"impossible\", and I'll dive into what that word even means in terms of game development."
 references = ["goZlBF8Vsgs", "UZJ-1AS4UKA", "5l7YcGCQ5Ck", "BbI7hFoT6TQ", "jGixGnDa-ck", "e5sI33homm8", "nnH4XJBHvFQ"]
 +++
 

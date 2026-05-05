@@ -4,7 +4,7 @@ date = "2024-03-15"
 id = "-MsQItsj-qc"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about explaining nonlinearity and how this used to be really hard."
+summary = "I talk about the difficulties in explaining non-linearity to other game developers and game players."
 references = ["5l7YcGCQ5Ck", "2hDxie2Fnvo", "qm2qwgVwf1A"]
 +++
 

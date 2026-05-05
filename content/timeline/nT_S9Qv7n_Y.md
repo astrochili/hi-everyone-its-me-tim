@@ -4,7 +4,7 @@ date = "2023-10-15"
 id = "nT_S9Qv7n_Y"
 status = "transcript"
 tags = ["Real Life", "YouTube"]
-summary = "Hi everyone, it's me, Tim, and this is part two of making a YouTube channel."
+summary = "I talk about what it's been like making this channel and posting daily videos for the past six months. This is a continuation of part 1, here:"
 references = ["_UVNDsvtNRk"]
 +++
 

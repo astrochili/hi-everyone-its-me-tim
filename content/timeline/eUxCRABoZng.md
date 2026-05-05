@@ -4,7 +4,7 @@ date = "2024-05-09"
 id = "eUxCRABoZng"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about influential books."
+summary = "I talk about books that influenced my game designs. I talk about each book specifically and then how they influenced my design in general."
 references = ["bNf601IoBpc", "FqKhMeAcKTM", "2j6qqh3H-0Y", "85a-xD8Qd_4", "hglS31y7ZbE", "90Si9b2JbsY"]
 +++
 

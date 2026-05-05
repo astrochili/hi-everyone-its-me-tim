@@ -4,7 +4,7 @@ date = "2023-07-16"
 id = "lpIJ7h4JVW8"
 status = "transcript"
 tags = ["Networking"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game conferences."
+summary = "I talk about game conferences, how I eventually started going to them more often, and how that led to this channel."
 references = []
 +++
 

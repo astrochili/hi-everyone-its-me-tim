@@ -4,7 +4,7 @@ date = "2023-12-11"
 id = "NnlnJSaj6z0"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about the beginning of a game."
+summary = "I talk about the beginnings of games, specifically the experience players have in the first few minutes, and how hard that is to get right."
 references = ["waUjJ2VjvaE"]
 +++
 

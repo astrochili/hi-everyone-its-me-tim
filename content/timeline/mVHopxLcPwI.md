@@ -4,7 +4,7 @@ date = "2024-01-23"
 id = "mVHopxLcPwI"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about taking games seriously."
+summary = "I talk about the pros and cons of taking games too seriously."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2024-08-19"
 id = "DEnlUqYkMTk"
 status = "transcript"
 tags = ["Careers", "Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game development roles."
+summary = "I explain the roles in a typical game development group."
 references = ["F7uaMQnMsvI", "sYZCYDRQtSs", "85trmtqR-s8", "dekd1zMcXB4", "nQ2IMGC569U", "Qc8zuhaqWPM", "lwlRDhPZxLc", "qmfZFoc53ss", "4XzaRlW2sio", "xM6Cr04wWSc"]
 +++
 

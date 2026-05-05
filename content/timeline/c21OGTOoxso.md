@@ -4,7 +4,7 @@ date = "2024-06-25"
 id = "c21OGTOoxso"
 status = "transcript"
 tags = ["Fallout", "Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to answer the question: would I work on Fallout again?"
+summary = "I answer my channel's most frequently asked question, would I work on a new Fallout? TLDW: Maybe...what's new about it?"
 references = ["d3Udo6XjMhY", "W8hesnidqqE", "uljC4cZh-Oc", "FFjjn8hBjJw"]
 +++
 

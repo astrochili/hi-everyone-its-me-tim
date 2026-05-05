@@ -4,7 +4,7 @@ date = "2025-08-04"
 id = "t3mgyBoY9PI"
 status = "transcript"
 tags = ["Careers", "Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about why people quit."
+summary = "I answer the question \"why people quit their jobs\" by answering the opposite question \"why don't people quit their jobs\". Of course, the context is the game industry, but it might be applicable elsewhere."
 references = ["-xjJw145Qpc", "UGfaCXEu0tE", "YMY5LUNdS-8", "bcr3mMStEOE", "PuEdppkPjfo"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-09-26"
 id = "ESVby0UG-Ao"
 status = "transcript"
 tags = ["Player Choice"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about player hoarding."
+summary = "I talk about the tendency for players to hoard items and skills until they are \"really needed\" but then they go unused, and how game design can encourage players to use their items and skills instead of hoard them."
 references = []
 +++
 

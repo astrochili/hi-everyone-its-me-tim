@@ -4,7 +4,7 @@ date = "2024-06-21"
 id = "8bvASm9ZQZA"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk to you about some coming out stories that I have."
+summary = "I tell some of my coming out stories...and give some advice to my gay male viewers."
 references = ["a8fmAt3Ro_Y"]
 +++
 

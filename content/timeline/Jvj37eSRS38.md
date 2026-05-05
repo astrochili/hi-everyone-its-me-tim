@@ -4,7 +4,7 @@ date = "2025-10-27"
 id = "Jvj37eSRS38"
 status = "transcript"
 tags = ["Game Preservation"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about physical versus digital media."
+summary = "I talk about the pros and cons of games being available digitally, compared to physical media."
 references = []
 +++
 

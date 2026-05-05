@@ -4,7 +4,7 @@ date = "2024-07-04"
 id = "RLXzaGyRfNY"
 status = "transcript"
 tags = ["Game Design", "Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about selling a game design spec."
+summary = "I give my honest assessment as to the chances that a game studio would purchase an unsolicited game design specification..and my recommendation of what to do instead."
 references = ["HqCe8tS47jg", "ohHLUKj3NTk", "gmDX1p-WZ7g", "IADSh_P05As", "lmgJVUuS1I8", "uljC4cZh-Oc"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-09-10"
 id = "vQj5rJry4Pw"
 status = "transcript"
 tags = ["South Park: The Stick of Truth", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about South Park, the Stick of Truth, also lavalier mic, so hopefully this sounds better."
+summary = "I tell stories about the development of South Park: The Stick Of Truth."
 references = []
 +++
 

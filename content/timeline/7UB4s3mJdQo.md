@@ -4,7 +4,7 @@ date = "2025-03-28"
 id = "7UB4s3mJdQo"
 status = "transcript"
 tags = ["Fallout", "Character Systems", "Combat Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about why I wanted luck in Fallout."
+summary = "I talk about why I wanted Luck in Fallout and specifically as an attribute in SPECIAL."
 references = ["kgPwfHXiBjw", "bcr3mMStEOE", "VxIisf8fQtE"]
 +++
 

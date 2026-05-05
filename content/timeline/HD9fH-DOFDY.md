@@ -4,7 +4,7 @@ date = "2023-11-07"
 id = "HD9fH-DOFDY"
 status = "transcript"
 tags = ["Fallout", "Storytime"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about another momento story."
+summary = "I talk about one of my favorite mementos, my T. Ray original drawing of me in the Vault Boy style."
 references = []
 +++
 

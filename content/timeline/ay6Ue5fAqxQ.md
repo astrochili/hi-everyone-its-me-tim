@@ -4,7 +4,7 @@ date = "2025-04-16"
 id = "ay6Ue5fAqxQ"
 status = "transcript"
 tags = ["Combat Design", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about action points."
+summary = "I talk about action points in turn-based RPGs and the advantages and disadvantages of smaller vs. larger action point pools."
 references = ["SL_aTjKsxok", "96uGEA0r6Bo", "nnH4XJBHvFQ"]
 +++
 

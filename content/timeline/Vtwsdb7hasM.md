@@ -4,7 +4,7 @@ date = "2025-11-19"
 id = "Vtwsdb7hasM"
 status = "transcript"
 tags = ["Arcanum", "Lore", "Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about non-expository Arcanum lore."
+summary = "I talk about lore in Arcanum that the team assumed was true but that was never directly stated."
 references = ["xvdw3CyEGFQ", "r4ut4EVe2GU"]
 +++
 

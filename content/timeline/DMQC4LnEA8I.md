@@ -4,7 +4,7 @@ date = "2024-03-07"
 id = "DMQC4LnEA8I"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about achievements."
+summary = "I talk about my thoughts on achievements."
 references = ["zjtctCu6VoI", "u0pJN3jpUjQ", "fzUzRqmgJKE", "2hDxie2Fnvo", "qm2qwgVwf1A"]
 +++
 

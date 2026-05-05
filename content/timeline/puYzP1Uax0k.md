@@ -4,7 +4,7 @@ date = "2024-09-19"
 id = "puYzP1Uax0k"
 status = "transcript"
 tags = ["Management"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about matching your project and your team."
+summary = "I talk about the difficulties involved in matching your team members with the game design on any given project."
 references = []
 +++
 

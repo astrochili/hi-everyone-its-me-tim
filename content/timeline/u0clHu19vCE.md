@@ -4,7 +4,7 @@ date = "2023-07-01"
 id = "u0clHu19vCE"
 status = "transcript"
 tags = ["Interviews and Chats", "Fallout"]
-summary = "Tim, today I'm talking with Scott Campbell, the original lead designer, Fallout. We're going to talk about Fallout things and what he's been up to for the last forever. Yeah, seven years. Yeah, long long time, so you were the, you were one of the earliest team members on Fallout. You started on the team, I would think right after the two jasons. You know, uh, that was when I officially started. But uh, yeah, I mean since, like you know, even when we were just, like you know, playing gurps just for fun, after hours, you know I was, I was there, um, but even then, um, you know, I I have an actual trivia question for you, Tim. Do you remember the first time we met? Do you remember this?"
+summary = "I chat with Scott Campbell, the original lead designer on Fallout. Scott left Interplay in late 1995 (which we discuss) and was replaced by the equally talented Chris Taylor, whose game Stonekeep had just shipped."
 references = []
 +++
 

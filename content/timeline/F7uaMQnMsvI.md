@@ -4,7 +4,7 @@ date = "2023-06-12"
 id = "F7uaMQnMsvI"
 status = "transcript"
 tags = ["Game Director"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about what it's like to be a game director now."
+summary = "I talk about my experience as a game director, and my advice on how to be a good one (hint: my advice is subjective)."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2024-12-04"
 id = "QxREx0QZmDs"
 status = "transcript"
 tags = ["Game Design", "IP"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about modeling, constipation in role playing games e."
+summary = "I talk about how some of my existing IPs could be made into non-RPG games."
 references = ["am52Ceuzgh8"]
 +++
 

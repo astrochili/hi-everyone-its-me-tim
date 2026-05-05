@@ -4,7 +4,7 @@ date = "2024-07-08"
 id = "eeZE8UBsfrs"
 status = "transcript"
 tags = ["Dialogue", "Narrative Design", "Writing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about writing evil characters."
+summary = "I give suggestions on how to write evil characters in games, including player dialog options."
 references = ["rtrBgSyZAf0", "-GmXrTBX7p8"]
 +++
 

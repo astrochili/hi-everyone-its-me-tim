@@ -4,7 +4,7 @@ date = "2025-04-09"
 id = "JczYH1MhrfM"
 status = "transcript"
 tags = ["Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about player power versus from builds versus from items."
+summary = "I talk about the pros and cons of basing player power off of their character builds versus their itemization."
 references = ["nnH4XJBHvFQ", "N7b7LFXBZ9M", "CqMfiL7ySng"]
 +++
 

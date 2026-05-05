@@ -4,7 +4,7 @@ date = "2024-10-18"
 id = "W7JIyHsaNPs"
 status = "transcript"
 tags = ["Worldbuilding"]
-summary = "Hi everyone, it's me, Tim. It's Friday, Funday, so I wanted to pull something out of my idea book about Galactic coordinates."
+summary = "I talk about a system I created (and never used) for using galactic coordinates of stellar systems as their names."
 references = []
 +++
 

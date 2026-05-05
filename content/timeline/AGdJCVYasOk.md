@@ -4,7 +4,7 @@ date = "2026-02-04"
 id = "AGdJCVYasOk"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about creating play test plans."
+summary = "I talk about creating test plans for RPGs."
 references = ["zN-mq4xh55A", "zI7F92CLPdU", "xM6Cr04wWSc"]
 +++
 

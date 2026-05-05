@@ -4,7 +4,7 @@ date = "2023-06-23"
 id = "keTG-5WPccU"
 status = "transcript"
 tags = ["Arcanum", "Character Systems"]
-summary = "Hey everyone. It's me, Tim. Today I want to talk about what I now call, in very distant hindsight, the Arcanum."
+summary = "I talk about the reason Arcanum shipped with every character attribute, skill, spell, and tech degree costing a single point, and how this led to my specific advice to other game directors on how to make decisions."
 references = []
 +++
 

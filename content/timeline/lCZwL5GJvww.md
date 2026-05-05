@@ -4,7 +4,7 @@ date = "2024-03-21"
 id = "lCZwL5GJvww"
 status = "transcript"
 tags = ["Game Design", "Narrative Design"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about the idea of Designing mechanics first for your game before doing anything else."
+summary = "I talk about the idea of designing mechanics first, before setting and story design, and why I don't make games that way."
 references = []
 +++
 

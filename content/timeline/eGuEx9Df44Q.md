@@ -4,7 +4,7 @@ date = "2025-05-07"
 id = "eGuEx9Df44Q"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about recognizing good co-workers — and by good I mean good for working with, for you."
+summary = "I talk about how to recognize those coworkers that you really want to work with, on multiple projects for many years."
 references = ["GqNcNtxHU6E", "UZJ-1AS4UKA"]
 +++
 

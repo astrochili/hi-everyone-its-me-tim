@@ -4,7 +4,7 @@ date = "2023-07-10"
 id = "2hDxie2Fnvo"
 status = "transcript"
 tags = ["Game Design", "Player Choice"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about nonlinear game design."
+summary = "I talk about non-linear game design and how to support it, both with system mechanics and in the game's storyline."
 references = []
 +++
 

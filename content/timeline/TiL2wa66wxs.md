@@ -4,7 +4,7 @@ date = "2024-02-02"
 id = "TiL2wa66wxs"
 status = "transcript"
 tags = ["Quest Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about Quest markers."
+summary = "I talk about the kind of quest markers I prefer to use in my games, something that has changed over the years."
 references = []
 +++
 

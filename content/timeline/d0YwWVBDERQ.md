@@ -4,7 +4,7 @@ date = "2023-07-02"
 id = "d0YwWVBDERQ"
 status = "transcript"
 tags = ["Wasteland", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how I almost made Wasteland 2 in the late 90s, something I mentioned when I was having my chat with Scott Campbell kind of mentioned."
+summary = "I tell the story of how, after leaving Interplay in early 1998, I was offered a job at Electronic Arts to make Wasteland 2."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2024-05-02"
 id = "VgwDZDCaZso"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about how I'm naive and optimistic."
+summary = "I talk about my own personal state of being and how it affects this channel."
 references = ["qRAUcX8cRZQ", "TzIMMnDAMP4", "JOVgSfjWeVI", "v6a-neSq0VA", "CqMfiL7ySng"]
 +++
 

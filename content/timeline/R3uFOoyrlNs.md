@@ -4,7 +4,7 @@ date = "2025-07-07"
 id = "R3uFOoyrlNs"
 status = "transcript"
 tags = ["Character Systems", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about attributes, limiting skills or, more specifically, what a."
+summary = "I talk about whether attributes should provide a cap to related skills."
 references = ["Kh5JMp5_5nQ"]
 +++
 

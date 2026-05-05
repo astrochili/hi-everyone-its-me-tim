@@ -4,7 +4,7 @@ date = "2026-02-18"
 id = "bN2bq4NNQpA"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about catalyst team members."
+summary = "I talk about catalysts, who are team members that make the whole team better in many different ways."
 references = []
 +++
 

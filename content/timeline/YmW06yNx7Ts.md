@@ -4,7 +4,7 @@ date = "2024-10-02"
 id = "YmW06yNx7Ts"
 status = "transcript"
 tags = ["Writing", "Feedback"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about my Memoirs again, so consider this a my Memoirs video, part two."
+summary = "I talk about my memoirs some more, mostly about what I learned by writing them, having people read them, and the feedback I received from them and from this channel."
 references = ["QvgttRI7oSU"]
 +++
 

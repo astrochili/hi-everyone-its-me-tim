@@ -4,7 +4,7 @@ date = "2025-01-17"
 id = "RMpISydIrus"
 status = "transcript"
 tags = ["Progression", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the million experience Point dungeon, or, based on how I'm dressed, this could also be called The Old Man and the C++- C++."
+summary = "I talk about a dungeon contest from over thirty years ago, and for which I can find no information online."
 references = []
 +++
 

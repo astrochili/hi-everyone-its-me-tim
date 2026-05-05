@@ -4,7 +4,7 @@ date = "2023-12-29"
 id = "_P4-2Nv_Or8"
 status = "transcript"
 tags = ["Tools", "Programming"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about building tools."
+summary = "I talk about building tools and how the right tools can speed up development."
 references = ["coPkWyJIl-M", "GYWEgQAh6So", "5l7YcGCQ5Ck"]
 +++
 

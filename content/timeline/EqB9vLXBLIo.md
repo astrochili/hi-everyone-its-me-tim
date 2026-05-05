@@ -4,7 +4,7 @@ date = "2023-08-26"
 id = "EqB9vLXBLIo"
 status = "transcript"
 tags = ["Troika Games", "Careers"]
-summary = "Hi everyone. It's me, Tim. Today I want to answer another question, this time from user Delta pi 8859, who asks a large number of questions, luckily about one topic."
+summary = "I talk about my experiences at Troika Games and why I won't run another company."
 references = []
 +++
 

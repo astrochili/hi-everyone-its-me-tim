@@ -4,7 +4,7 @@ date = "2024-11-21"
 id = "wSKr1T_VsvU"
 status = "transcript"
 tags = ["Worldbuilding"]
-summary = "Hi everybody. It's me, Tim. Today, I want to talk about naming things."
+summary = "Naming things in games is a really important process and often overlooked. Let's look at it."
 references = ["aBptoe19IcY", "9lYuzefVvMA", "vG8WWB_HYho"]
 +++
 

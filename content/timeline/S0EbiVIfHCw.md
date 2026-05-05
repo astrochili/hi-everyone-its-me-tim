@@ -4,7 +4,7 @@ date = "2025-12-03"
 id = "S0EbiVIfHCw"
 status = "transcript"
 tags = ["Game Preservation", "Management"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about institutional knowledge, which is sometimes called tribal knowledge, but I don't like that name."
+summary = "I talk about institutional knowledge: what it is, how it's being lost, and how this affects the games you love."
 references = ["ONIBOhQiaRw", "F707wIeTX2g", "pAK0dtNT3kc", "hZEosFcqmcU", "zX7SZWTj5_w"]
 +++
 

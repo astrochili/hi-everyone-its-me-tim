@@ -4,7 +4,7 @@ date = "2024-07-12"
 id = "Dk-QorAz1UM"
 status = "transcript"
 tags = ["Game Director", "Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game flavor, and I'm deliberately doing this on a Friday, Funday, because what I'm going to talk about is very subjective."
+summary = "I talk about game flavor and try to define what it is and why it is so important for a game director to enforce it."
 references = ["joN36JIsz8o", "vp17yIB6Ijo", "FqKhMeAcKTM", "LMVQ30c7TcA", "X9ejDUuu7Sc", "F7uaMQnMsvI", "sYZCYDRQtSs", "85trmtqR-s8"]
 +++
 

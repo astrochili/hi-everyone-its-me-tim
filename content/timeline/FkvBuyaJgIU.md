@@ -4,7 +4,7 @@ date = "2024-02-07"
 id = "FkvBuyaJgIU"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about being proactive."
+summary = "I talk about being proactive at work and why this is so important."
 references = ["SrAuoqdl0os", "W8hesnidqqE"]
 +++
 

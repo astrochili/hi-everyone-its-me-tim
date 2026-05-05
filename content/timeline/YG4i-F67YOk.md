@@ -4,7 +4,7 @@ date = "2026-01-19"
 id = "YG4i-F67YOk"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about spaghetti code, what it is, why it exists, what people say about it?"
+summary = "I talk about spaghetti code: what it is, where it comes from, and why."
 references = []
 +++
 

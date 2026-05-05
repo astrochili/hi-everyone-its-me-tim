@@ -4,7 +4,7 @@ date = "2026-01-07"
 id = "ivdo-AR7beI"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about finding meaning in games."
+summary = "People look for meaning in games, especially in role-playing games with their rich settings and stories. That's ok...as long as you remember that your search for meaning is unique."
 references = ["r4ut4EVe2GU", "lzGea7I7CO4"]
 +++
 

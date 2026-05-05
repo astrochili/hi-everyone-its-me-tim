@@ -4,7 +4,7 @@ date = "2026-01-09"
 id = "JDnunE5HZ0c"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about arguing about games."
+summary = "People love arguing about games and always have. But I feel that they now argue past each other."
 references = ["gCjHipuMir8", "bA-P3p7PdEc", "lauoxw_m6cg", "lmgJVUuS1I8", "-tFCCGeduUc"]
 +++
 

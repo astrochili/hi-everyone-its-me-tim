@@ -4,7 +4,7 @@ date = "2024-01-30"
 id = "Gtcl1ZbWyX8"
 status = "transcript"
 tags = ["Feedback"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how to receive criticism."
+summary = "I talk about the best way to receive criticism about your work, or your opinions, or even the things you post online."
 references = ["-72btgrwKzA", "hUrNahAr5ho", "pgn2sQ4vAkU", "1BBniBe_wRA"]
 +++
 

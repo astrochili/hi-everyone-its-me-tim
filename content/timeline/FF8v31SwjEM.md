@@ -4,7 +4,7 @@ date = "2023-07-12"
 id = "FF8v31SwjEM"
 status = "transcript"
 tags = ["Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about setting ideas."
+summary = "I talk about several ideas I have had for different settings, including turning toy games into bigger ones, different ideas for turn-based combat, and a rundown of all the ways a world can become post-apocalyptic."
 references = []
 +++
 

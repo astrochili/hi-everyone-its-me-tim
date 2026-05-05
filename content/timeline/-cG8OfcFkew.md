@@ -4,7 +4,7 @@ date = "2024-11-25"
 id = "-cG8OfcFkew"
 status = "transcript"
 tags = ["Arcanum", "RPG Design", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Solo versus party character control."
+summary = "I talk about designing CRPGs where the player controls a single character versus ones where the player controls an entire party."
 references = []
 +++
 

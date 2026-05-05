@@ -4,7 +4,7 @@ date = "2024-07-26"
 id = "ZkPrCighLBM"
 status = "transcript"
 tags = ["IP"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about another IP idea from my idea book."
+summary = "I talk about an IP idea where magic costs the caster dearly to cast. What would a game using that mechanic be like to design and to play?"
 references = ["HKu5FiMt3UE"]
 +++
 

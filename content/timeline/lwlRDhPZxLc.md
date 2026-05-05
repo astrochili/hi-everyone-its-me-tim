@@ -4,7 +4,7 @@ date = "2024-04-17"
 id = "lwlRDhPZxLc"
 status = "transcript"
 tags = ["Programming", "Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about common sources of programming frustration."
+summary = "I talk about events that happen that frustrate and slow down programmers of all kinds, not just game development programmers. Some of these code issues explain why crunch happens...and they are not the programmers' fault."
 references = ["Qc8zuhaqWPM", "UGfaCXEu0tE", "QJHpuJxMqiA", "eXJkecLBhOE", "jHIabSKo26U"]
 +++
 

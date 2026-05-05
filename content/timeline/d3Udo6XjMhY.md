@@ -4,7 +4,7 @@ date = "2023-09-08"
 id = "d3Udo6XjMhY"
 status = "transcript"
 tags = ["Careers", "Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to answer a question from asdfjk1227 who asks: can you do a resume video where you talk about every gaming project you did and then a couple, two short versions of interesting events or something, so we can get a better understanding of your experiences in one spot, like 67, 60 seconds per project or company maximum to get a high level?"
+summary = "I summarize my career, starting on my 16th birthday in August 1981 until today in September 2023."
 references = []
 +++
 

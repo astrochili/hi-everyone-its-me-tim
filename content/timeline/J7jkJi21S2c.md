@@ -4,7 +4,7 @@ date = "2025-07-30"
 id = "J7jkJi21S2c"
 status = "transcript"
 tags = ["Player Choice"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about telegraphing consequences."
+summary = "I talk about different ways that games can let the player know what the consequences of their actions will be...and why I like this so much."
 references = ["vlkksy6casU", "wgfl4wbDero", "zjtctCu6VoI", "OoJ6CDDfYiU"]
 +++
 

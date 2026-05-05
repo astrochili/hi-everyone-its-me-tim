@@ -4,7 +4,7 @@ date = "2023-08-04"
 id = "dDvZTNoGAJw"
 status = "transcript"
 tags = ["Fallout", "Prototype"]
-summary = "Hello everyone. It's me, Tim. Today I want to talk about these six demos of Fallout."
+summary = "I talk about the six different demos we made for Fallout, starting almost two years before the game shipped."
 references = ["hZEosFcqmcU", "DqL9R5PqE20", "QJHpuJxMqiA"]
 +++
 

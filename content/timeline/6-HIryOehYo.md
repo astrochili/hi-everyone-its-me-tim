@@ -4,7 +4,7 @@ date = "2025-04-02"
 id = "6-HIryOehYo"
 status = "transcript"
 tags = ["Worldbuilding", "IP"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about sci-fi versus high F fantasy settings, specifically in a new IP."
+summary = "I talk about whether I prefer sci-fi or high fantasy as the setting in a new IP."
 references = ["ZkPrCighLBM", "kW7gOPHmr-Q"]
 +++
 

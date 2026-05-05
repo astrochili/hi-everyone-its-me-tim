@@ -4,7 +4,7 @@ date = "2024-11-11"
 id = "lEyMipiH7qE"
 status = "transcript"
 tags = ["Game Design", "Balance"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game simplification, and by this I'm talking about various ways games can be made easier to use but to some players feel handh holdy."
+summary = "I talk about the problem of \"handholding\" the player."
 references = ["wUI6LZaCKCg", "nnH4XJBHvFQ", "TiL2wa66wxs"]
 +++
 

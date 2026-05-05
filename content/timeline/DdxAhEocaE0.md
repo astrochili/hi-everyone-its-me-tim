@@ -4,7 +4,7 @@ date = "2024-01-25"
 id = "DdxAhEocaE0"
 status = "transcript"
 tags = ["Fallout", "Game Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about fixing design problems."
+summary = "I talk about how to fix design problems, using an example of such a problem that shipped in Fallout."
 references = []
 +++
 

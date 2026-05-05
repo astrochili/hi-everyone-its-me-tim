@@ -4,7 +4,7 @@ date = "2023-10-06"
 id = "Ieqw-dwsXIA"
 status = "transcript"
 tags = ["Fallout", "Narrative Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about the original story intro to Fallout."
+summary = "I talk about (and read) the original Fallout introduction story that I wrote in January of 1995, which is the first mention of a Vault in any design doc for the game."
 references = []
 +++
 

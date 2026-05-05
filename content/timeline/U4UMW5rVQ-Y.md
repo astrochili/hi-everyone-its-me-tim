@@ -4,7 +4,7 @@ date = "2024-10-30"
 id = "U4UMW5rVQ-Y"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about intent, and I will get to how this refers to G video games, but I wanted to talk about it because it's come up a lot in a lot of my videos."
+summary = "I talk about intent, both the intent of my games and the intent of my channel, and why I don't know anyone else's intent."
 references = ["7OsWuFo2jp4", "a8fmAt3Ro_Y", "9vB9f8RL4g4"]
 +++
 

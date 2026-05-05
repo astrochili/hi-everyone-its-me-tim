@@ -4,7 +4,7 @@ date = "2023-05-09"
 id = "phMzoU7DOFA"
 status = "production"
 tags = ["Character Systems", "GURPS", "Fallout", "The Outer Worlds", "RPG Design"]
-summary = "Hi, it's me Tim. I've gotten some great feedback on the dumb dialogue video where I talk about the origin of dumb dialogue being restrictions that I put on players in my original D campaign back in late 70s, early 80s. So I wanted to talk about why I like flawed player characters so much and why I think restrictions lead to better role-playing and just better game playing in general."
+summary = "I talk about player characters who have flaws, and why I like this mechanic so much in both tabletop and computer role-playing games."
 references = []
 +++
 

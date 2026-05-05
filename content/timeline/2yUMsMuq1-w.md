@@ -4,7 +4,7 @@ date = "2025-03-17"
 id = "2yUMsMuq1-w"
 status = "transcript"
 tags = ["Quest Design", "Player Choice"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about botched quests and player Freedom."
+summary = "I talk about how allowing players to fail quests (and sometimes reverse that failure) increases the player's agency in their storyline."
 references = ["pw6tOlmwwYE"]
 +++
 

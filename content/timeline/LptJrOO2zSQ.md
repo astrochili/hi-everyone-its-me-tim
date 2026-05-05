@@ -4,7 +4,7 @@ date = "2024-01-02"
 id = "LptJrOO2zSQ"
 status = "transcript"
 tags = ["Game Design", "Narrative Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about Story versus game design or, as sherner asks, what is more important for a game, story or game design?"
+summary = "I talk about the balance between story and game design...and what that even means."
 references = []
 +++
 

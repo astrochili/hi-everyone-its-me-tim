@@ -4,7 +4,7 @@ date = "2025-12-26"
 id = "azJDI3Wvx9g"
 status = "transcript"
 tags = ["Storytime"]
-summary = "Hi everybody. It's me, Tim. Today I want to do some commenting on comments."
+summary = "I have taken notes on my channel's comments...and I have comments."
 references = ["_UVNDsvtNRk", "nT_S9Qv7n_Y", "h3pwcYQyn3I", "DMmy_Vb1iXI", "3mfl_jOf-Jw", "yLzKJECKSC0"]
 +++
 

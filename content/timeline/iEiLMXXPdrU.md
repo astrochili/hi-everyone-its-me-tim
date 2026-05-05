@@ -4,7 +4,7 @@ date = "2025-12-29"
 id = "iEiLMXXPdrU"
 status = "transcript"
 tags = ["Troika Games", "Bugs"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about why Troika games were so buggy."
+summary = "It's a common question...with a common answer."
 references = ["8Kc1XoHpHEA", "0ZO-YYziKV0"]
 +++
 

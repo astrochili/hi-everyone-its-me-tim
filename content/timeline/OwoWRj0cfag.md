@@ -4,7 +4,7 @@ date = "2024-06-19"
 id = "OwoWRj0cfag"
 status = "transcript"
 tags = ["Fallout", "Interplay", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the cancellation of Fallout Van Buren and me."
+summary = "I talk about my involvement in the cancellation of Fallout Van Buren at Interplay in 2003."
 references = ["UGfaCXEu0tE", "ETVsAHbTh2c", "YMY5LUNdS-8"]
 +++
 

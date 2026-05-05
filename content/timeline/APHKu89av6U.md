@@ -4,7 +4,7 @@ date = "2023-11-22"
 id = "APHKu89av6U"
 status = "transcript"
 tags = ["Production"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about what to do when time and budget are tight."
+summary = "I talk about my experience with working on games with shorter development times and smaller budgets than usual."
 references = []
 +++
 

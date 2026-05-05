@@ -4,7 +4,7 @@ date = "2025-10-10"
 id = "xvdw3CyEGFQ"
 status = "transcript"
 tags = ["Fallout", "Lore", "Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today, for a fun Friday, I wanted to talk about nonexpository Fallout lore."
+summary = "I talk about lore in the original Fallout that the team assumed was true but that was never directly stated."
 references = ["N7b7LFXBZ9M", "ICOA398ymZI"]
 +++
 

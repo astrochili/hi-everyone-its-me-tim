@@ -4,7 +4,7 @@ date = "2026-04-03"
 id = "bMdOJSpgKD4"
 status = "production"
 tags = ["RPG Design", "Player Choice", "Progression", "Random Encounters", "UI/UX"]
-summary = "Hi everyone. It's me, Tim. Today I want to ask you a question: Would you play a game? That? What I mean by this is I'm going to describe several game ideas and I'm curious if you would play that game. I thought this would be a fun Friday to do, because each one I'm going to talk about a very specific feature and what it may mean about the game. And, by the way, in g, by game I mean role playing game. Well, I mean role playing video game. I have a whole video called What Is An RPG? That's what I'm talking about here, not what you call an RPG, what I call an RPG. And then consider that RPG with one of these features. By the way, some of these may sound like: hey, I played a game like that in this other genre. Great, I'm talking about when you play a character in an RPG and the play varies based on that character. So let's get into it."
+summary = "This is a fun Friday video where I throw out several ideas for RPG features and ask you the viewer, would you play that game?"
 references = ["XSKxD6v06P4"]
 +++
 

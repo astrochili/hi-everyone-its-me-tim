@@ -4,7 +4,7 @@ date = "2024-09-23"
 id = "-yOaVEuJkX0"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about polarizing stories."
+summary = "I talk about how I tell polarizing stories that seem to break some people into right-wrong camps, and to expect that to happen to you."
 references = ["LMVQ30c7TcA", "X9ejDUuu7Sc"]
 +++
 

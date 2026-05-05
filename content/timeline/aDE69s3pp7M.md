@@ -4,7 +4,7 @@ date = "2024-07-11"
 id = "aDE69s3pp7M"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about core game Loops."
+summary = "I talk about the core game loop, both what it is and why you want to define it for your game."
 references = ["N7b7LFXBZ9M"]
 +++
 

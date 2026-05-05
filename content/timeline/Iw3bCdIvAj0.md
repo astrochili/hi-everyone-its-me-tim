@@ -4,7 +4,7 @@ date = "2023-08-02"
 id = "Iw3bCdIvAj0"
 status = "transcript"
 tags = ["Game Engines"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game engines."
+summary = "I talk about game engines, including the pros and cons of making your own versus using third party ones."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-11-28"
 id = "qqP6oa7ShRw"
 status = "transcript"
 tags = ["Game Development"]
-summary = "It's me, Tim, and it's tough love today on the Canon games Channel because I want all of you to stop making excuses and start making games."
+summary = "I want people to stop making excuses about why they are not making games. Just start making them."
 references = []
 +++
 

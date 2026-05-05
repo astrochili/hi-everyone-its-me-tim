@@ -4,7 +4,7 @@ date = "2026-01-14"
 id = "3GCubNMeSOo"
 status = "transcript"
 tags = ["Quest Design"]
-summary = "Hi everyone. It's me, Tim. Today, I want to talk about quest types."
+summary = "I talk abvout the different types of quests in RPGs, and the pros and cons of including a variety of types in your game."
 references = ["nGGMpHgHTZc", "OoJ6CDDfYiU", "iEiLMXXPdrU"]
 +++
 

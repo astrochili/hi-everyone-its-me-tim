@@ -4,7 +4,7 @@ date = "2024-11-12"
 id = "HgiVDrTd8Mo"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about waiting in the shallows."
+summary = "I talk about how, if you truly want to understand something, you have to go deep. You can't just wade in the shallows."
 references = []
 +++
 

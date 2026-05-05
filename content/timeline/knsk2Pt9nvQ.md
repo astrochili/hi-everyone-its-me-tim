@@ -4,7 +4,7 @@ date = "2024-11-15"
 id = "knsk2Pt9nvQ"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I'm going to walk you through my two glass cabinets of curio curios memorabilia, detris, from now, my 44th year in the game industry."
+summary = "I show all the things in my memorabilia cabinets."
 references = ["HD9fH-DOFDY", "fGom8Z-qw8s", "5D_C0gNjaiw", "3mfl_jOf-Jw"]
 +++
 

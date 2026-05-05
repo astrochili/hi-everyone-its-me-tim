@@ -4,7 +4,7 @@ date = "2024-01-04"
 id = "P4FXXZILWnY"
 status = "transcript"
 tags = ["Fallout", "Combat Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the origin of Vats in Fallout and I'll start by saying we didn't call it bats in Fallout 1 and two."
+summary = "I talk about the Fallout \"called shot\" feature, which was renamed VATS from Fallout 3 and onward. I talk about where the feature came from, what we were trying to do with it, and how players could benefit from it."
 references = []
 +++
 

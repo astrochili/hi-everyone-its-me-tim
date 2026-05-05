@@ -4,7 +4,7 @@ date = "2025-05-02"
 id = "-7VfUXTOMxU"
 status = "transcript"
 tags = ["Game Design", "Favorites"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about my favorite shipped designs."
+summary = "I talk about my own designs that I really liked and that made it into my shipped games."
 references = ["UZJ-1AS4UKA", "JOVgSfjWeVI", "7UB4s3mJdQo", "vlkksy6casU", "xBUkdO4IK7w", "zjtctCu6VoI", "e5sI33homm8", "P935C85WIpU", "coPkWyJIl-M", "BbI7hFoT6TQ", "5l7YcGCQ5Ck", "S2-q_kswvwU", "phMzoU7DOFA"]
 +++
 

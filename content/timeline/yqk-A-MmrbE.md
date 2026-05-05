@@ -4,7 +4,7 @@ date = "2024-06-17"
 id = "yqk-A-MmrbE"
 status = "transcript"
 tags = ["Management"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about working in teams — something you will almost inevitably have to do if you go in the game industry — and I want to tell you why I'm talking about this."
+summary = "I talk about lessons I learned from working with teams, starting with lessons from a Duran Duran documentary."
 references = ["SrAuoqdl0os", "Gtcl1ZbWyX8", "F7uaMQnMsvI", "sYZCYDRQtSs"]
 +++
 

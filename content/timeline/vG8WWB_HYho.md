@@ -4,7 +4,7 @@ date = "2023-10-07"
 id = "vG8WWB_HYho"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone, it's me, Tim. Yesterday's video was kind of heavy, so today's video I want to go a little lighter and I want to talk about all the freaking characters named Kane."
+summary = "I talk about all the characters named Cain (or Caine or Kane or whatever) in books, movies, TV shows, comic books, and of course, video games."
 references = []
 +++
 

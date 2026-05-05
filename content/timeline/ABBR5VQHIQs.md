@@ -4,7 +4,7 @@ date = "2024-01-03"
 id = "ABBR5VQHIQs"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about that phrase — nothing personal, it's just business — which is usually used by companies when they're about to do something not too nice and they don't want you to take it personally."
+summary = "If you work or have worked in the game industry, you know that eventually a friend or relative will ask you to get them a job...and that doesn't always end well. You may have heard the phrase \"Nothing personal, it's just business\", and sometimes it IS just business."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2024-07-31"
 id = "bmz6XSd7xGM"
 status = "transcript"
 tags = ["Arcanum", "Production"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Arcanum data."
+summary = "I talk about the sheer amount of data in Arcanum. TLDW: it's a lot."
 references = ["z-onK2K2_k0", "ETVsAHbTh2c", "GYWEgQAh6So", "5l7YcGCQ5Ck"]
 +++
 

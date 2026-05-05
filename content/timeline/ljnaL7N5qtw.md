@@ -4,7 +4,7 @@ date = "2024-08-15"
 id = "ljnaL7N5qtw"
 status = "transcript"
 tags = ["Programming", "Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about coding rules for your game and using scripts for the exceptions."
+summary = "I talk about how programming your rules and using scripting for the occasional exception to those rules will lead to a more robust game."
 references = ["15pL76IhQjQ", "jWEuSV_nbfA", "vlkksy6casU"]
 +++
 

@@ -4,7 +4,7 @@ date = "2024-03-22"
 id = "XSKxD6v06P4"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about what is an RPG?"
+summary = "I talk about my ideas on what features make a game an RPG. Hint: it's a continuum."
 references = []
 +++
 

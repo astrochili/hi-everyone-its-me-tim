@@ -4,7 +4,7 @@ date = "2025-05-12"
 id = "wk8Ytab-aWY"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about numerical item design."
+summary = "I talk about the pros and cons of numerical vs. non-numerical item design."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2025-06-11"
 id = "S3aIcFD9LoY"
 status = "transcript"
 tags = ["Character Systems", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the pre-made character."
+summary = "I talk about the pros and cons of supplying premade characters in RPGs, and why I prefer making my own character."
 references = ["XSKxD6v06P4", "mbMAufVe_ds"]
 +++
 

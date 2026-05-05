@@ -4,7 +4,7 @@ date = "2023-05-22"
 id = "3nLc-pULEhw"
 status = "transcript"
 tags = ["Careers"]
-summary = "Hi. It's me, Tim. Today I want to talk about the first professional game that I ever worked on."
+summary = "I talk about the development of Grand Slam Bridge, made by Cybron and distributed by Electronic Arts in 1986."
 references = []
 +++
 

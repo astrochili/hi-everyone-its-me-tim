@@ -4,7 +4,7 @@ date = "2025-08-20"
 id = "vD_wH0Qp4Vw"
 status = "transcript"
 tags = ["Game Design", "Balance"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about min player spec."
+summary = "I talk about minimum player specification, something every game developer consciously or unconsciously designs their game for."
 references = ["IHyQlBNHJEk", "zN-mq4xh55A", "wUI6LZaCKCg", "NLFXroidQtk", "vp17yIB6Ijo"]
 +++
 

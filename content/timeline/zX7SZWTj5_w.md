@@ -4,7 +4,7 @@ date = "2024-12-05"
 id = "zX7SZWTj5_w"
 status = "transcript"
 tags = ["Game Director", "Leadership"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how definitions are hard and I'm going to subtitle this — why game director is necessary."
+summary = "I talk about how hard it can be to define the simplest of terms and why that means you need a Game Director."
 references = ["F7uaMQnMsvI", "sYZCYDRQtSs", "85trmtqR-s8", "XSKxD6v06P4"]
 +++
 

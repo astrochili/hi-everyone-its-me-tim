@@ -4,7 +4,7 @@ date = "2024-08-08"
 id = "ymnxKwxUxRk"
 status = "transcript"
 tags = ["Management"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Authority without responsibility."
+summary = "I talk about people who like to use their authority to get features into games, but who then avoid any responsibility if those features cause issues."
 references = ["LMVQ30c7TcA", "X9ejDUuu7Sc"]
 +++
 

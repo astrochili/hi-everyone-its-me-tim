@@ -4,7 +4,7 @@ date = "2023-12-20"
 id = "Jmq5bOpQ4O8"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about analyzing games."
+summary = "I talk about how I analyze games that I play, and what questions I ask at specific points during those games."
 references = []
 +++
 

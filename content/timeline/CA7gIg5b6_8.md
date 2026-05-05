@@ -4,7 +4,7 @@ date = "2024-08-23"
 id = "CA7gIg5b6_8"
 status = "transcript"
 tags = ["Prototype"]
-summary = "Hi everyone. It's me, Tim. Today I want to give you a toy update."
+summary = "I give an update about one of my toys, detailing what I have done and what I plan to do, so you can see a toy evolve into a game."
 references = ["mHMFG8uvOb0", "2j6qqh3H-0Y", "ohHLUKj3NTk"]
 +++
 

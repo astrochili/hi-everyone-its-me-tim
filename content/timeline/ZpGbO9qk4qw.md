@@ -4,7 +4,7 @@ date = "2024-08-06"
 id = "ZpGbO9qk4qw"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about content as reward."
+summary = "I talk about using game content as a reward...and why you don't see that much."
 references = ["jkXd503iCRI", "5l7YcGCQ5Ck"]
 +++
 

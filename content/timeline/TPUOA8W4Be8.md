@@ -4,7 +4,7 @@ date = "2024-05-06"
 id = "TPUOA8W4Be8"
 status = "transcript"
 tags = ["Publishing", "IP"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about prequels now I did a video on sequels and it's linked below."
+summary = "I give my thoughts on making prequels. TLDW: I like them more than sequels, but I'd still rather make a new IP."
 references = ["FFjjn8hBjJw", "waUjJ2VjvaE", "V6rDgA5NXQc", "lb6agFgh11E"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-06-20"
 id = "UkXOppoyJaM"
 status = "transcript"
 tags = ["Fallout"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about fallouts voice overs."
+summary = "I talk about the experience of getting the voiced characters of Fallout into the game, especially some of the people responsible for all of that hard work."
 references = []
 +++
 

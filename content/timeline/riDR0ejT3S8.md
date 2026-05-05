@@ -4,7 +4,7 @@ date = "2023-11-13"
 id = "riDR0ejT3S8"
 status = "transcript"
 tags = ["Dungeons & Dragons"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk to you about my brother's DND D Miniatures."
+summary = "I wanted to share my five favorite D&D miniatures from my brother's collection."
 references = []
 +++
 

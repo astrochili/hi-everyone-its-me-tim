@@ -4,7 +4,7 @@ date = "2023-12-15"
 id = "I5-TCLLR2kQ"
 status = "transcript"
 tags = ["Player Choice"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about pacifism in games."
+summary = "I talk about pacifism in games and how I supported it with minimal extra development costs."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2024-02-13"
 id = "LH4llMQmJ1E"
 status = "transcript"
 tags = ["Modding"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about moding."
+summary = "I talk about my thoughts on modding, including how I like to play them, how I like my games being modded, and how I respect those who make them."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-08-27"
 id = "ob-NNCpwapI"
 status = "transcript"
 tags = ["Dungeons & Dragons", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about picking your best class in a, d and d."
+summary = "I talk about how to pick the best class in Advanced Dungeons & Dragons, based on a rejected article I wrote for The Dragon magazine in the 1980s."
 references = []
 +++
 

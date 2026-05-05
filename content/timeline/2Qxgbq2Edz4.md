@@ -4,7 +4,7 @@ date = "2023-09-28"
 id = "2Qxgbq2Edz4"
 status = "transcript"
 tags = ["Fallout"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about one of the items behind me."
+summary = "I talk about one of my mementos, my big Fallout foamcore board, and the story behind it."
 references = []
 +++
 

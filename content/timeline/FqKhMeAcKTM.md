@@ -4,7 +4,7 @@ date = "2024-01-12"
 id = "FqKhMeAcKTM"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about my top five modern RPG master class before I start."
+summary = "I talk about the five best computer role playing games of the 21st century from which to learn about RPG development...and exactly what each one teaches you. Plus, I add in three runners up, including why they didn't make the cut."
 references = ["2j6qqh3H-0Y"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-08-06"
 id = "-sB_AnqAG5w"
 status = "transcript"
 tags = ["Arcanum", "Random Encounters"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about arcanum's Random Encounters."
+summary = "I talk about how random encounters worked in Arcanum, which used a very different system than the one in Fallout, which I described in this video: https://youtu.be/2vOOeJaMyzw"
 references = ["2vOOeJaMyzw"]
 +++
 

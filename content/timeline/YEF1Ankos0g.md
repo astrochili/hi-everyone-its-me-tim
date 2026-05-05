@@ -4,7 +4,7 @@ date = "2025-11-17"
 id = "YEF1Ankos0g"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about lessons from old games I've never talked about."
+summary = "I talk about what we can learn from old games, especially games from the 80s."
 references = ["Kh5JMp5_5nQ", "OGwAez5SNd0", "uuO1t-D2MuM", "kIYa7NjTMxY", "sDthq0VtpmM", "aDE69s3pp7M", "lmgJVUuS1I8"]
 +++
 

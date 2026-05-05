@@ -4,7 +4,7 @@ date = "2023-05-04"
 id = "oWd4RBdeoaM"
 status = "production"
 tags = ["Fallout", "Lore", "Worldbuilding"]
-summary = "Hi everyone, it's me Tim. Wow, you are filling up my comments with so many good ideas for topics that I can't even really keep up. I had planned today, uh, to either talk about Bloodlines, Vampire Bloodlines and the cut content and some of our plans for the sequels, and then I thought, no, no, I'm gonna talk about music, and not just the great music in Fallout, but Arcanum's music and Vampire's music and the fact that I'm sad each and every day that I got to work with the composer, Johan Johansson."
+summary = "This video explains my idea for why Vaults really existed...Vault-Tec wasn't trying to save the inhabitants of the Vaults, but instead they were testing technologies they would need to make a multi-generational starship they could use to flee from a ravaged post-nuclear Earth."
 references = []
 +++
 

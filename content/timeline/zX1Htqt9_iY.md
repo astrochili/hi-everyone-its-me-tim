@@ -4,7 +4,7 @@ date = "2024-08-09"
 id = "zX1Htqt9_iY"
 status = "transcript"
 tags = ["UI/UX", "Game Development"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about a noname design spec."
+summary = "I talk about a design spec for...a music streaming app!"
 references = ["DqL9R5PqE20"]
 +++
 

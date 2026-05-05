@@ -4,7 +4,7 @@ date = "2023-10-17"
 id = "R6zZyfOmliQ"
 status = "transcript"
 tags = ["Careers", "Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the pros and SC cons of going to school versus being self-taught."
+summary = "I talk about the pros and cons of going to university versus being self-taught, with respect to going into the game industry."
 references = []
 +++
 

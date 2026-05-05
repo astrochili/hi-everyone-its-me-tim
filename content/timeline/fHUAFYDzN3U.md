@@ -4,7 +4,7 @@ date = "2023-05-20"
 id = "fHUAFYDzN3U"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk to you about color blindness and specifically my color blindness, which is a weird one, the weird form of it I want to talk to you about exactly what my color blindness is and then I want to talk about how it's affected, how I play games and make games."
+summary = "I talk about my rare form of full-spectrum colorblindness, that started when I was 20 years old and is getting worse. I talk about how it affects my enjoyment of games and the way I make them."
 references = []
 +++
 

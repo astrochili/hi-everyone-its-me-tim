@@ -4,7 +4,7 @@ date = "2023-06-13"
 id = "IPEe0s6fjdw"
 status = "transcript"
 tags = ["Arcanum", "Character Systems"]
-summary = "Hi. It's me, Tim. Today I wanted to talk about Arcanum 2.."
+summary = "I describe the extensions I had planned for Arcanum 2's system mechanics for use in Journey To The Center Of Arcanum."
 references = []
 +++
 

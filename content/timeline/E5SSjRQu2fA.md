@@ -4,7 +4,7 @@ date = "2025-04-14"
 id = "E5SSjRQu2fA"
 status = "transcript"
 tags = ["Player Choice"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about compromising for the medium and basically"
+summary = "I talk about how how the medium of video games forces compromise from the developers."
 references = ["yqk-A-MmrbE", "puYzP1Uax0k", "OoJ6CDDfYiU", "WCO4n6nMXOo", "2hDxie2Fnvo", "qm2qwgVwf1A", "-MsQItsj-qc"]
 +++
 

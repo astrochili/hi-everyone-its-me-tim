@@ -4,7 +4,7 @@ date = "2023-05-07"
 id = "MiAEBpXlelk"
 status = "production"
 tags = ["Level Design", "Narrative Design", "Quest Design", "Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to do something a little different."
+summary = "I talk about the lessons on area, narrative, and quest design I learned from visiting Disneyland and from Marty Sklaar, Head of Imagineering at Disney. I had heard of his rules and used them in a presentation at Carbine Studios in 2011, but Sklaar published a book on his rules in 2015:"
 references = []
 +++
 

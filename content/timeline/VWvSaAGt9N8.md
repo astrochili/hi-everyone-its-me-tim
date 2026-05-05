@@ -4,7 +4,7 @@ date = "2024-05-13"
 id = "VWvSaAGt9N8"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hey everyone. It's me, Tim. Today I want to talk about understanding game design choices."
+summary = "I talk about why some games are made with design choices you don't like. TLDW: money."
 references = ["vp17yIB6Ijo"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-10-02"
 id = "CwqqIjdQoqU"
 status = "transcript"
 tags = ["Progression"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about level caps and this is a question from my industry buddy, Matt Pritchard, and he basically wanted me to talk about level caps versus having infinite advancement in an RPG."
+summary = "I talk about the pros and cons of levels caps in role playing games."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2024-09-25"
 id = "Vf-RLWZW7lI"
 status = "transcript"
 tags = ["Fallout", "GURPS", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the pros and cons of gerps as a computer role playing game, specifically what I learned trying to implement gerps as a computer game for Fallout."
+summary = "I talk about my experience of converting GURPS into code for use in Fallout."
 references = ["efCn85Tvrf8", "kgPwfHXiBjw", "jHIabSKo26U"]
 +++
 

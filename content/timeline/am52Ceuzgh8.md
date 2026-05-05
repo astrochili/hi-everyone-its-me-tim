@@ -4,7 +4,7 @@ date = "2024-10-15"
 id = "am52Ceuzgh8"
 status = "transcript"
 tags = ["Postmortem"]
-summary = "Hi everyone. It's me, Tim. Today I want to do a meta postmortem of my games and I will explain what I mean by that."
+summary = "I talk about the biggest lessons I learned from my games, based on post mortems I wrote after they shipped."
 references = ["Kh5JMp5_5nQ", "ljnaL7N5qtw"]
 +++
 

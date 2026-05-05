@@ -4,7 +4,7 @@ date = "2023-10-09"
 id = "KNhdh6QxPs8"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about why this is such an amazing time for game players doesn't always seem that way, but I'm gonna lay it out."
+summary = "I talk about why this is such a great time to be a game player."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2024-12-25"
 id = "-OFoUSPuByU"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to do a little Christmas poem by Ron Gilbert."
+summary = "Here's a little something for the holidays."
 references = []
 +++
 

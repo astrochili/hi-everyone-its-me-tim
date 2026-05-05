@@ -4,7 +4,7 @@ date = "2023-06-03"
 id = "hZEosFcqmcU"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hi. It's me, Tim. Today I want to talk about gnaw and Tig, that's gnaw gnw and Tig These are operating system abstraction libraries that I wrote in the 90s to basically hide away all the ugliness and inconsistencies and just kind of dumbness of the operating systems on various microcomputers at the time."
+summary = "I talk about GNW (GNW's Not Windows) and TIG (TIG Isn't GNW), my operating system abstraction libraries that allow my games to be more easily ported to different computer systems."
 references = []
 +++
 

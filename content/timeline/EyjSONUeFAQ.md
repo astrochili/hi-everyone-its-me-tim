@@ -4,7 +4,7 @@ date = "2024-10-31"
 id = "EyjSONUeFAQ"
 status = "transcript"
 tags = ["Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about cultural changes and I specifically want to get into eventually, because I'm going to tell some stories."
+summary = "I talk about cultural changes and how I strive to avoid predicting the future in my games."
 references = ["0Z5fFE0r8bs"]
 +++
 

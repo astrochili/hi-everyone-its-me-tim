@@ -4,7 +4,7 @@ date = "2026-04-24"
 id = "XsOdoWSTtmo"
 status = "production"
 tags = ["Programming", "Careers"]
-summary = "0, 1 0 1 2, 1 0 1 0 1, 2. Wait, today I want to do advice for prospective game programmers. For those of you who are thinking about going into game programming, the TL;DW is: It's different than other kind of programming jobs you could get out."
+summary = "I give advice to people thinking of becoming game programmers and how it's different than software engineering in other fields."
 references = ["R5guVZA6eAU", "lwlRDhPZxLc"]
 +++
 

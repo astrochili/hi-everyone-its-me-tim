@@ -4,7 +4,7 @@ date = "2024-01-22"
 id = "zjtctCu6VoI"
 status = "transcript"
 tags = ["Narrative Design", "Player Choice", "Programming"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk to you about implementing endgame slides."
+summary = "I talk about how we made endgame slides in many of my games."
 references = []
 +++
 

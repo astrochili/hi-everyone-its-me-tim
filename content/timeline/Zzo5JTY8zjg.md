@@ -4,7 +4,7 @@ date = "2024-01-19"
 id = "Zzo5JTY8zjg"
 status = "transcript"
 tags = ["Programming"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about how I structure code, and this was a question from a lot of different people, including greenia 84, who asked that I do it using an example of inventory, which I think is a good question or good uh specification, because inventory contains a number of interesting things about code structure and it's common to a lot of RPGs, so I'll talk about that now."
+summary = "I talk about how I structure my code, using inventory as an example, since it is a common component of most (if not all) roleplaying games."
 references = []
 +++
 

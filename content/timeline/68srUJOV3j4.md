@@ -4,7 +4,7 @@ date = "2024-04-30"
 id = "68srUJOV3j4"
 status = "transcript"
 tags = ["Game Industry", "Careers", "Art"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about industry changes because there have been a lot of stuff going on: a lot of layoffs recently, a lot of concern about AI taking jobs."
+summary = "I talk about current and past industry changes, which frequently lead to layoffs and job displacement. These are terrible things to live through...and it's never going to stop happening."
 references = ["ojYBHy-9xTo", "7MRx_i9gvWw"]
 +++
 

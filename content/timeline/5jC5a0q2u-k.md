@@ -4,7 +4,7 @@ date = "2024-09-06"
 id = "5jC5a0q2u-k"
 status = "transcript"
 tags = ["RPG Design", "IP"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about an IP idea that I had for unknown Powers."
+summary = "I talk about a fun mechanic for a computer RPG: withholding knowledge of the players' powers and letting them figure it out."
 references = []
 +++
 

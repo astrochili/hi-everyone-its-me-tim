@@ -4,7 +4,7 @@ date = "2024-05-10"
 id = "VQMasl0cK9A"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about a channel I discovered that really showed me"
+summary = "I discovered one of my new favorite channels on YouTube, and I had to share it."
 references = []
 +++
 

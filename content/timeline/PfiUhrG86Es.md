@@ -4,7 +4,7 @@ date = "2024-05-23"
 id = "PfiUhrG86Es"
 status = "transcript"
 tags = ["Narrative Design", "Quest Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about shopping cart Theory."
+summary = "I discuss Shopping Cart Theory, and how this simple philosophical test can inform how you create motivations for NPCs in your games or how you reward players for quests."
 references = []
 +++
 

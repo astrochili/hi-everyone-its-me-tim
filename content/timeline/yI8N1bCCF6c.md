@@ -4,7 +4,7 @@ date = "2025-08-15"
 id = "yI8N1bCCF6c"
 status = "transcript"
 tags = ["Storytime", "YouTube"]
-summary = "Hi everyone. It's me, Tim. Today I want to show you some deleted content from this channel."
+summary = "I show various failed intros, bloopers, and other deleted content that never made it onto the channel...until now."
 references = []
 +++
 

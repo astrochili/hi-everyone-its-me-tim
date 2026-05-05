@@ -4,7 +4,7 @@ date = "2024-06-03"
 id = "IHyQlBNHJEk"
 status = "transcript"
 tags = ["Feedback"]
-summary = "Hi everyone. It's me, Tim. Today let's talk about the phrase get good."
+summary = "I talk about \"git gud\" and other ways people attack each other online."
 references = ["FqKhMeAcKTM", "vp17yIB6Ijo", "5D_C0gNjaiw", "mkftkgKEaBI"]
 +++
 

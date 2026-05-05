@@ -4,7 +4,7 @@ date = "2024-05-21"
 id = "15pL76IhQjQ"
 status = "transcript"
 tags = ["Narrative Design", "Worldbuilding"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about using Mechanics for storytelling, and"
+summary = "I talk about using game mechanics to support and reinforce the stories you are telling in your games."
 references = ["lCZwL5GJvww", "fzUzRqmgJKE"]
 +++
 

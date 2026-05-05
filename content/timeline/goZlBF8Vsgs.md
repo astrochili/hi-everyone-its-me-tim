@@ -4,7 +4,7 @@ date = "2025-02-26"
 id = "goZlBF8Vsgs"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about having unique rules for players, and"
+summary = "I talk about game players having different rules applied to them, as compared to NPCs, and why you should try to minimize this."
 references = ["hyj6X7EaBsY", "pw6tOlmwwYE"]
 +++
 

@@ -4,7 +4,7 @@ date = "2025-08-22"
 id = "wYMSdz5tonI"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk to my fellow game developers."
+summary = "I talk about how there is no perfect game, because there is no one right way to look at things. And that's ok."
 references = []
 +++
 

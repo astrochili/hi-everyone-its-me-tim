@@ -4,7 +4,7 @@ date = "2025-08-08"
 id = "l6tuUy82bKo"
 status = "transcript"
 tags = ["Game Development"]
-summary = "Hi everybody. It's me, Tim. Today I want to talk about Zen and game development."
+summary = "I talk about Zen and how it affects my game development and enjoyment of games."
 references = ["mFZSt3TaE7Q", "eUxCRABoZng", "hglS31y7ZbE"]
 +++
 

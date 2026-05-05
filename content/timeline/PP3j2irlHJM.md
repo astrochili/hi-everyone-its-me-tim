@@ -4,7 +4,7 @@ date = "2024-07-29"
 id = "PP3j2irlHJM"
 status = "transcript"
 tags = ["Management"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about morale Improvement."
+summary = "I talk about things I did to improve morale on my teams."
 references = ["lb6agFgh11E", "Nr1bzA0z8EA", "YUaellOkDGc", "FT0fLk0WjZA"]
 +++
 

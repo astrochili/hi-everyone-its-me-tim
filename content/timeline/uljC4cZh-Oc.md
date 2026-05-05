@@ -4,7 +4,7 @@ date = "2024-05-01"
 id = "uljC4cZh-Oc"
 status = "transcript"
 tags = ["Careers", "Game Industry"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about making a demo."
+summary = "I talk about the single most important thing you can do to hone your skills and get a job in the game industry: make a demo."
 references = ["W8hesnidqqE", "Kh5JMp5_5nQ", "R6zZyfOmliQ", "nWvwcH2IROo"]
 +++
 

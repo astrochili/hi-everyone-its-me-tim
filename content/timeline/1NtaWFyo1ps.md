@@ -4,7 +4,7 @@ date = "2023-07-07"
 id = "1NtaWFyo1ps"
 status = "transcript"
 tags = ["Carbine", "Storytime"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk a little more about carbine, because that video generated a lot of comments."
+summary = "I talk a little more about Carbine, since several issues came up in the comments, and there were comments from other ex-Carbine employees as well."
 references = []
 +++
 

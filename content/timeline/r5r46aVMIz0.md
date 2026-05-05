@@ -4,7 +4,7 @@ date = "2023-09-14"
 id = "r5r46aVMIz0"
 status = "transcript"
 tags = ["Fallout", "Storytime"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about Fallout — Nuka break."
+summary = "I talk about the fan-made web series Fallout: Nuka Break and my involvement in season 2."
 references = []
 +++
 

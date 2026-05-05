@@ -4,7 +4,7 @@ date = "2024-09-30"
 id = "ETCLEt-PEPM"
 status = "transcript"
 tags = ["Narrative Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about how sometimes I hate voiceover, hate."
+summary = "I talk about how having voice over in my games has frustrated me over the years."
 references = ["UkXOppoyJaM", "5l7YcGCQ5Ck"]
 +++
 

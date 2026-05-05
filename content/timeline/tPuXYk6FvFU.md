@@ -4,7 +4,7 @@ date = "2024-02-29"
 id = "tPuXYk6FvFU"
 status = "transcript"
 tags = ["Troika Games", "Publishing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about troa games and Kickstarter."
+summary = "I talk about what might have happened if Kickstarter had existed back when Troika Games was still in business."
 references = ["bTQzNiXH56U"]
 +++
 

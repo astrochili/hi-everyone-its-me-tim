@@ -4,7 +4,7 @@ date = "2026-03-23"
 id = "nF0O_SJYqQg"
 status = "transcript"
 tags = ["Game Preservation"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about archiving."
+summary = "I talk about some best practices to archive your game-related assets."
 references = ["kbHlwUS7d4k", "GYp00o-sewY"]
 +++
 

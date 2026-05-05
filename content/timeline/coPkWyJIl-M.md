@@ -4,7 +4,7 @@ date = "2023-09-01"
 id = "coPkWyJIl-M"
 status = "transcript"
 tags = ["Arcanum", "Tools"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about scripting in Arcanum."
+summary = "I talk about the scripting system in Arcanum, both how it worked and how scripts were attached and used."
 references = []
 +++
 

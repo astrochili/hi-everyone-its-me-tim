@@ -4,7 +4,7 @@ date = "2024-08-21"
 id = "H7E-tiFDnrs"
 status = "transcript"
 tags = ["Narrative Design", "Feedback"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Axion as a hypothetical particle to explain dark matter through their ability to violate CP symmetry in Quantum chromodynamics — wait, wrong Channel."
+summary = "I talk about how to edit your game's story, both how to look for problems and how to suggest solutions."
 references = ["LptJrOO2zSQ", "fzUzRqmgJKE", "OoJ6CDDfYiU", "2hDxie2Fnvo", "sCGeOsHV4Ag", "fHUAFYDzN3U", "-72btgrwKzA"]
 +++
 

@@ -4,7 +4,7 @@ date = "2023-12-25"
 id = "4WlWKSlAyrg"
 status = "transcript"
 tags = ["RPG Design"]
-summary = "Hi everyone. It's me Tim."
+summary = "I read an essay I wrote in 2002 while at Troika Games about lessons in CRPG design that I learned from the office holiday gift exchange."
 references = []
 +++
 

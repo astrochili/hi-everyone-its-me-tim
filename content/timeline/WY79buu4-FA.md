@@ -4,7 +4,7 @@ date = "2025-09-24"
 id = "WY79buu4-FA"
 status = "transcript"
 tags = ["Interviews and Chats"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about chats and interviews."
+summary = "I talk about why I am no longer doing chats on this channel and why I am doing fewer interviews off-channel."
 references = ["bLNGW1M8N5g"]
 +++
 

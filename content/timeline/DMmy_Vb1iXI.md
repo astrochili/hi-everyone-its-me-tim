@@ -4,7 +4,7 @@ date = "2024-09-12"
 id = "DMmy_Vb1iXI"
 status = "transcript"
 tags = ["Game Industry", "YouTube"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about this Channel and the game industry, kind of a meta video, a video about my videos, kind of to put in perspective like what"
+summary = "I talk about this channel and my views on the game industry."
 references = []
 +++
 

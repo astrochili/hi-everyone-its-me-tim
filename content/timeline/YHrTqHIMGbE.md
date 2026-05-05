@@ -4,7 +4,7 @@ date = "2024-02-21"
 id = "YHrTqHIMGbE"
 status = "transcript"
 tags = ["RPG Design", "Player Choice"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about morality systems in RPGs."
+summary = "I talk about morality systems in RPGs, often called alignment or karma meters. I talk about how I used to do them, and what my thoughts are now about how they should be implemented."
 references = []
 +++
 

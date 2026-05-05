@@ -4,7 +4,7 @@ date = "2023-04-30"
 id = "cdHqBi1IPOY"
 status = "production"
 tags = ["Careers", "Contracting", "Game Development", "Obsidian", "Work-Life Balance"]
-summary = "Hi, it's me, Tim. I've gotten some really good feedback on the site, on this channel. The people at Reddit and Discord, I guess, discovered this channel and posted links, so I'm getting a lot more questions than I expected this early on."
+summary = "Thanks for the great questions, everyone! Many of the questions have to do with Obsidian and Microsoft, so I made a new video this morning to explain my current status as \"semi-retired\" and why that means I cannot really answer such questions."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2025-12-05"
 id = "kCVWRZqyroA"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone, it's me. Tim Decided to do a Cain on Games update because, as you can see, things have changed, Lots of changes actually. So I I thought I'd spend a fun Friday walking through the changes so you guys can know what's going on. First off, I have moved back to Southern California. I did that a little over a week ago my time, but remember I have a big queue — It's like 6 weeks long, I think — on this channel. So, from your point of view, you kept seeing a bunch of videos that I filmed up in Seattle. Although you did see a video on Arcanum magic design that popped up in this place, These shelves had nothing in it I hadn't unpacked It's because someone who is a super mutant paid for a priority video and wanted to know about Arcanum magic design. So I dropped what I was doing and I talked about Arcanum, magic design, and colleges and magic tech and all that."
+summary = "I talk about changes on and off this channel."
 references = ["YUTBnZLYSRk", "PnQll2PhAcA", "cdHqBi1IPOY", "QvgttRI7oSU", "YmW06yNx7Ts", "YUaellOkDGc"]
 +++
 

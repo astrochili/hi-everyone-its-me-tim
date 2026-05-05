@@ -4,7 +4,7 @@ date = "2023-09-15"
 id = "scvCVwGnT2E"
 status = "transcript"
 tags = ["RPG Design", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about class versus skill based role-playing games."
+summary = "I talk about the pros and cons of making RPG characters based on classes versus making them based on skills."
 references = []
 +++
 

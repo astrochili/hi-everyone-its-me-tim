@@ -4,7 +4,7 @@ date = "2024-01-08"
 id = "pgn2sQ4vAkU"
 status = "transcript"
 tags = ["Arcanum", "Game Design", "IP"]
-summary = "Hey everyone. It's me, Tim. Today I want to talk about thoughts on an Arcanum remake."
+summary = "I talk about what I would do if was in charge of an Arcanum remake."
 references = ["z-onK2K2_k0", "hUrNahAr5ho", "bTQzNiXH56U"]
 +++
 

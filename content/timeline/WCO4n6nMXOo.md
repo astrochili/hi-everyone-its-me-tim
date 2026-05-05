@@ -4,7 +4,7 @@ date = "2024-11-14"
 id = "WCO4n6nMXOo"
 status = "transcript"
 tags = ["Narrative Design", "Player Choice"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about storytelling and player agency."
+summary = "I talk about one of the first decisions you need to make when creating a new CRPG: what is more important, story telling or player agency?"
 references = ["LptJrOO2zSQ", "fzUzRqmgJKE", "15pL76IhQjQ", "H7E-tiFDnrs", "2hDxie2Fnvo", "qm2qwgVwf1A", "-MsQItsj-qc", "OoJ6CDDfYiU"]
 +++
 

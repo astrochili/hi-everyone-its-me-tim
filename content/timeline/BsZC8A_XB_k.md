@@ -4,7 +4,7 @@ date = "2024-05-27"
 id = "BsZC8A_XB_k"
 status = "transcript"
 tags = ["Troika Games", "RPG Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about another game proposal I made."
+summary = "I talk about a proposal that I wrote at Troika Games in June 2004 to make a Conan action RPG."
 references = ["dz6mHKFEAdU", "2ig9tS5Fsx4"]
 +++
 

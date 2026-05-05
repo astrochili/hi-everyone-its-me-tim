@@ -4,7 +4,7 @@ date = "2024-02-12"
 id = "1WxB2c02_Js"
 status = "transcript"
 tags = ["Careers", "Hiring"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about job interview tests."
+summary = "I talk about the in-person tests I have given to programmer and designer candidates...and why I do these tests in-person."
 references = ["c6CJUMW-3p0", "GqNcNtxHU6E"]
 +++
 

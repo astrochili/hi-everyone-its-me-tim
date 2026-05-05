@@ -4,7 +4,7 @@ date = "2023-10-23"
 id = "ltO_rMJJdHE"
 status = "transcript"
 tags = ["Programming", "Combat Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about combat, like technical how to code combat kind of thing, like I'm going to talk data structures and event handling."
+summary = "I talk shop about programming combat, right down to the data structures and algorithms I use."
 references = []
 +++
 

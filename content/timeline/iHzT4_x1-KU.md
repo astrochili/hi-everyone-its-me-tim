@@ -4,7 +4,7 @@ date = "2025-10-17"
 id = "iHzT4_x1-KU"
 status = "transcript"
 tags = ["Marketing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about game trailers."
+summary = "I talk about game trailers, which are important but hard to make good."
 references = []
 +++
 

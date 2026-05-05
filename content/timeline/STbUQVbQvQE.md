@@ -4,7 +4,7 @@ date = "2024-04-03"
 id = "STbUQVbQvQE"
 status = "transcript"
 tags = ["Fallout", "Retrospective"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about the Fallout 1 and two box covers and yes, I'm calling fallout Fallout one, just so I don't say I'm talking about the Fallout box covers and then everyone will get confused."
+summary = "I talk about the history of the creation of the box covers for the first two Fallout games."
 references = ["UGfaCXEu0tE", "Egh2p8ajb3w", "Njwv5tbmhzg"]
 +++
 

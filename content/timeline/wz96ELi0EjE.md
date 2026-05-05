@@ -4,7 +4,7 @@ date = "2023-06-21"
 id = "wz96ELi0EjE"
 status = "transcript"
 tags = ["Real Life"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about all those recipes that appeared in a lot of my video games."
+summary = "I talk about why there are recipes in several of my games, either in their manuals or as files on the CD, and where those recipes came from."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2024-08-14"
 id = "LDSF7Ek4wec"
 status = "transcript"
 tags = ["Marketing"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about marketing."
+summary = "I talk about marketing, how it can can go well or go poorly, and why you need it more than ever before."
 references = ["v22ACVVC4C0", "lmgJVUuS1I8", "STbUQVbQvQE"]
 +++
 

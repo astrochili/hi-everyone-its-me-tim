@@ -4,7 +4,7 @@ date = "2025-06-04"
 id = "b84nno3ztEo"
 status = "transcript"
 tags = ["Progression", "Character Systems"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about skill trees."
+summary = "I talk about skill trees and their use to constrain progression based on player choices, and I present an example from Troika's unreleased post-apocalyptic game."
 references = ["SL_aTjKsxok", "_tSpo6gX1BE"]
 +++
 

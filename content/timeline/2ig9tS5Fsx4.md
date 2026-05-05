@@ -4,7 +4,7 @@ date = "2023-05-06"
 id = "2ig9tS5Fsx4"
 status = "production"
 tags = ["Troika Games", "Publishing", "Game Design", "RPG Design", "Quest Design"]
-summary = "Hi. It's me, Tim. Today I want to talk about Troika's proposal for Might & Magic 10."
+summary = "I talk about the Might & Magic 10 Design Proposal that Troika made in late 2003 and submitted in February 2004 to Ubisoft. Spoiler alert: we didn't get the contract."
 references = []
 +++
 

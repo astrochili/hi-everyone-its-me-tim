@@ -4,7 +4,7 @@ date = "2023-07-09"
 id = "2vOOeJaMyzw"
 status = "transcript"
 tags = ["Fallout", "Random Encounters"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Fallout, Random Encounters and exactly how those things work."
+summary = "I talk about Fallout random encounters, both how they work and what our intention was for using them in the game."
 references = []
 +++
 

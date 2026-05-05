@@ -4,7 +4,7 @@ date = "2023-11-14"
 id = "NQneB2h40ms"
 status = "transcript"
 tags = ["Game Design"]
-summary = "Hi everyone. It's me, Tim. And today I want to talk about ambiguous grief."
+summary = "I talk about ambiguous grief and what it has to do with game design."
 references = []
 +++
 

@@ -4,7 +4,7 @@ date = "2023-04-29"
 id = "lQwQAMXsTDU"
 status = "production"
 tags = ["Fallout", "Q&A", "Modding", "Game Industry", "Game Preservation"]
-summary = "Hot, hi, it's me Tim. Uh, before I start, um, that power armor helmet was made by Josh J, an artist on Fallout 4, and he sent it to me. How cool is that? Uh, yeah, it barely fits over my big head though. Um, it's really fun though. It's cool to have something like that. Thank you, Josh."
+summary = "I talk about my feelings on the modern Fallout games and the Fallout series as a whole. TLDW: I like them."
 references = []
 +++
 

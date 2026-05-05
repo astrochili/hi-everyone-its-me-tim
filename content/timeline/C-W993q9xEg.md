@@ -4,7 +4,7 @@ date = "2024-07-23"
 id = "C-W993q9xEg"
 status = "transcript"
 tags = ["Game Design", "Player Choice"]
-summary = "Hi everyone. It's me, Tim. Today I want to brainstorm ideas with you on ways RPGs can move past the fighting, sneaking, talking Triad that, let's face it, has been done to death since the 90s."
+summary = "I brainstorm ways that role playing games can move past the combat, stealth, and dialog solutions they have used for decades."
 references = ["vlkksy6casU", "9lYuzefVvMA", "5l7YcGCQ5Ck"]
 +++
 

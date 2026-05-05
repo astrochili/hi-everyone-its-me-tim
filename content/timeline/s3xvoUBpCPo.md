@@ -4,7 +4,7 @@ date = "2026-04-13"
 id = "s3xvoUBpCPo"
 status = "production"
 tags = ["Dungeons & Dragons", "RPG Design", "Balance"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about Advanced Dungeons and Dragons design pillars."
+summary = "I talk about the design pillars for Advanced Dungeons & Dragons, and what they meant for game play back then. I also talk about what I changed about those rules and why, and how that design philosophy is reflected in my games."
 references = ["N7b7LFXBZ9M", "ob-NNCpwapI"]
 +++
 

@@ -4,7 +4,7 @@ date = "2025-02-10"
 id = "H_Ddhxf7ASk"
 status = "transcript"
 tags = ["Combat Design"]
-summary = "Hi everyone. It's me, Tim. Today I want to talk about localized damage systems."
+summary = "Let's talk about system mechanics that let you apply damage and/or damage effects to various parts of your target."
 references = []
 +++
 

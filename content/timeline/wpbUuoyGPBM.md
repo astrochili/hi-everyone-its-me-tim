@@ -4,7 +4,7 @@ date = "2024-09-13"
 id = "wpbUuoyGPBM"
 status = "transcript"
 tags = ["Toy Update"]
-summary = "Hi everyone. It's me, Tim. Today I want to do part two of my toy update."
+summary = "I talk about my space combat toy game some more, this time showing the newly implemented features I talked about wanting to add in Part 1."
 references = ["CA7gIg5b6_8"]
 +++
 
